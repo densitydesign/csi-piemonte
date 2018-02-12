@@ -1,0 +1,4464 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 2,
+            "CLLI_SEDE": "PINEITAQ",
+            "NOME_CENTR": "ABBADIA ALPINA",
+            "COMUNE": "PINEROLO",
+            "ISTAT_COMU": "001191",
+            "INDIRIZZO": "GIUSTETTO 55",
+            "LATITUDINE": 44.884509,
+            "LONGITUDIN": 7.299238,
+            "POINT_X": 365684.82461,
+            "POINT_Y": 4971527.93587,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.299238, 44.884509]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 5,
+            "CLLI_SEDE": "ACTEITAM",
+            "NOME_CENTR": "ACQUI TERME",
+            "COMUNE": "ACQUI TERME",
+            "ISTAT_COMU": "006001",
+            "INDIRIZZO": "PIAZZA MATTEOTTI 31",
+            "LATITUDINE": 44.673765,
+            "LONGITUDIN": 8.466995,
+            "POINT_X": 457753.369717,
+            "POINT_Y": 4946848.99781,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.466995, 44.673765]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 20,
+            "CLLI_SEDE": "ALBAITAM",
+            "NOME_CENTR": "ALBA",
+            "COMUNE": "ALBA",
+            "ISTAT_COMU": "004003",
+            "INDIRIZZO": "XX SETTEMBRE 2",
+            "LATITUDINE": 44.698532,
+            "LONGITUDIN": 8.033229,
+            "POINT_X": 423405.120074,
+            "POINT_Y": 4949916.56483,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.033229, 44.698532]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 22,
+            "CLLI_SEDE": "ALBAITAL",
+            "NOME_CENTR": "ALBA S. CASSIANO",
+            "COMUNE": "ALBA",
+            "ISTAT_COMU": "004003",
+            "INDIRIZZO": "DARIO SCAGLIONE",
+            "LATITUDINE": 44.691479,
+            "LONGITUDIN": 8.02279,
+            "POINT_X": 422568.6875,
+            "POINT_Y": 4949143,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.02279, 44.691479]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 27,
+            "CLLI_SEDE": "ALESITAJ",
+            "NOME_CENTR": "ALESSANDRIA",
+            "COMUNE": "ALESSANDRIA",
+            "ISTAT_COMU": "006003",
+            "INDIRIZZO": "VIA TRIPOLI 18",
+            "LATITUDINE": 44.911088,
+            "LONGITUDIN": 8.618756,
+            "POINT_X": 469905.744062,
+            "POINT_Y": 4973144.15841,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.618756, 44.911088]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 28,
+            "CLLI_SEDE": "ALESITGX",
+            "NOME_CENTR": "ALESSANDRIA CITTADELLA",
+            "COMUNE": "ALESSANDRIA",
+            "ISTAT_COMU": "006003",
+            "INDIRIZZO": "VIA TIZIANO VECELLIO-&gt;",
+            "LATITUDINE": 0,
+            "LONGITUDIN": 0,
+            "POINT_X": 0,
+            "POINT_Y": 0,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [4.511256, 0]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 29,
+            "CLLI_SEDE": "ALESITAB",
+            "NOME_CENTR": "ALESSANDRIA CRISTO",
+            "COMUNE": "ALESSANDRIA",
+            "ISTAT_COMU": "006003",
+            "INDIRIZZO": "VIA BONARDI 16",
+            "LATITUDINE": 44.899804,
+            "LONGITUDIN": 8.606697,
+            "POINT_X": 468947.766921,
+            "POINT_Y": 4971895.18009,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.606697, 44.899804]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 31,
+            "CLLI_SEDE": "ALESITAK",
+            "NOME_CENTR": "ALESSANDRIA ORTI",
+            "COMUNE": "ALESSANDRIA",
+            "ISTAT_COMU": "006003",
+            "INDIRIZZO": "VIALE T.MICHEL 2",
+            "LATITUDINE": 44.923691,
+            "LONGITUDIN": 8.634609,
+            "POINT_X": 471163.36156,
+            "POINT_Y": 4974538.46357,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.634609, 44.923691]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 41,
+            "CLLI_SEDE": "AVIGITAA",
+            "NOME_CENTR": "ALMESE",
+            "COMUNE": "ALMESE",
+            "ISTAT_COMU": "001006",
+            "INDIRIZZO": "VIGLIANIS 17",
+            "LATITUDINE": 45.11778,
+            "LONGITUDIN": 7.39421,
+            "POINT_X": 373698.794176,
+            "POINT_Y": 4997288.63673,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.39421, 45.11778]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 45,
+            "CLLI_SEDE": "ALPIITAD",
+            "NOME_CENTR": "ALPIGNANO",
+            "COMUNE": "ALPIGNANO",
+            "ISTAT_COMU": "001008",
+            "INDIRIZZO": "STR ANTICA DI PIANEZZA 59",
+            "LATITUDINE": 45.099592,
+            "LONGITUDIN": 7.532627,
+            "POINT_X": 384549.116075,
+            "POINT_Y": 4995061.23892,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.532627, 45.099592]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 70,
+            "CLLI_SEDE": "ARONITAN",
+            "NOME_CENTR": "ARONA CENTRO",
+            "COMUNE": "ARONA",
+            "ISTAT_COMU": "003008",
+            "INDIRIZZO": "MARTIRI DELLA LIBERTA'",
+            "LATITUDINE": 45.759564,
+            "LONGITUDIN": 8.55548,
+            "POINT_X": 465431,
+            "POINT_Y": 5067430,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.55548, 45.759564]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 77,
+            "CLLI_SEDE": "ASTIITAQ",
+            "NOME_CENTR": "ASTI",
+            "COMUNE": "ASTI",
+            "ISTAT_COMU": "005005",
+            "INDIRIZZO": "OSPEDALE 2",
+            "LATITUDINE": 44.901058,
+            "LONGITUDIN": 8.208866,
+            "POINT_X": 437539.332706,
+            "POINT_Y": 4972263.66024,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.208866, 44.901058]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 79,
+            "CLLI_SEDE": "ASTIITAP",
+            "NOME_CENTR": "ASTI DANTE",
+            "COMUNE": "ASTI",
+            "ISTAT_COMU": "005005",
+            "INDIRIZZO": "CORSO XXV APRILE",
+            "LATITUDINE": 44.905125,
+            "LONGITUDIN": 8.196603,
+            "POINT_X": 436575.59375,
+            "POINT_Y": 4972725,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.196603, 44.905125]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 82,
+            "CLLI_SEDE": "ASTIITAN",
+            "NOME_CENTR": "ASTI S. LAZZARO",
+            "COMUNE": "ASTI",
+            "ISTAT_COMU": "005005",
+            "INDIRIZZO": "CSO CASALE 223",
+            "LATITUDINE": 44.911372,
+            "LONGITUDIN": 8.219706,
+            "POINT_X": 438406.117373,
+            "POINT_Y": 4973401.2029,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.219706, 44.911372]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 89,
+            "CLLI_SEDE": "AVIGITAJ",
+            "NOME_CENTR": "AVIGLIANA",
+            "COMUNE": "AVIGLIANA",
+            "ISTAT_COMU": "001013",
+            "INDIRIZZO": "CORSO LAGHI 82",
+            "LATITUDINE": 45.081214,
+            "LONGITUDIN": 7.401324,
+            "POINT_X": 374178.0276,
+            "POINT_Y": 4993215.47988,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.401324, 45.081214]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 91,
+            "CLLI_SEDE": "AVIGITAL",
+            "NOME_CENTR": "AVIGLIANA NORD",
+            "COMUNE": "AVIGLIANA",
+            "ISTAT_COMU": "001013",
+            "INDIRIZZO": "DEI TESTA",
+            "LATITUDINE": 45.084852,
+            "LONGITUDIN": 7.405575,
+            "POINT_X": 374520.59375,
+            "POINT_Y": 4993613,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.405575, 45.084852]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 117,
+            "CLLI_SEDE": "ALBAITBM",
+            "NOME_CENTR": "BARACCONE 2 - CASTAGNITO",
+            "COMUNE": "CASTAGNITO",
+            "ISTAT_COMU": "004046",
+            "INDIRIZZO": "VIA ALBA 15",
+            "LATITUDINE": 44.745894,
+            "LONGITUDIN": 8.060835,
+            "POINT_X": 425652.953261,
+            "POINT_Y": 4955152.04139,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.060835, 44.745894]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 131,
+            "CLLI_SEDE": "BAVEITAD",
+            "NOME_CENTR": "BAVENO",
+            "COMUNE": "BAVENO",
+            "ISTAT_COMU": "103008",
+            "INDIRIZZO": "VIA PRIVATA ALLE VILLE 5",
+            "LATITUDINE": 45.908804,
+            "LONGITUDIN": 8.505185,
+            "POINT_X": 461622.447378,
+            "POINT_Y": 5084034.06012,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.505185, 45.908804]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 138,
+            "CLLI_SEDE": "OLEGITAG",
+            "NOME_CENTR": "BELLINZAGO NOVARESE",
+            "COMUNE": "BELLINZAGO NOVARESE",
+            "ISTAT_COMU": "003016",
+            "INDIRIZZO": "FOSCOLO 6",
+            "LATITUDINE": 45.566273,
+            "LONGITUDIN": 8.640842,
+            "POINT_X": 471973.089096,
+            "POINT_Y": 5045922.04079,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.640842, 45.566273]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 157,
+            "CLLI_SEDE": "BIELITAH",
+            "NOME_CENTR": "BIELLA",
+            "COMUNE": "BIELLA",
+            "ISTAT_COMU": "096004",
+            "INDIRIZZO": "COSTANTINO CROSA 14",
+            "LATITUDINE": 45.566733,
+            "LONGITUDIN": 8.056151,
+            "POINT_X": 426347.287967,
+            "POINT_Y": 5046343.61016,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.056151, 45.566733]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 158,
+            "CLLI_SEDE": "BIELITAJ",
+            "NOME_CENTR": "BIELLA LAMARMORA",
+            "COMUNE": "BIELLA",
+            "ISTAT_COMU": "096004",
+            "INDIRIZZO": "VIA ROSSELLI 74 BIS",
+            "LATITUDINE": 45.554365,
+            "LONGITUDIN": 8.049448,
+            "POINT_X": 425808.007017,
+            "POINT_Y": 5044975.7642,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.049448, 45.554365]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 170,
+            "CLLI_SEDE": "IVREITAH",
+            "NOME_CENTR": "BOLLENGO",
+            "COMUNE": "BOLLENGO",
+            "ISTAT_COMU": "001027",
+            "INDIRIZZO": "ROMA 4",
+            "LATITUDINE": 45.470787,
+            "LONGITUDIN": 7.940073,
+            "POINT_X": 417148.575784,
+            "POINT_Y": 5035797.38029,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.940073, 45.470787]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 173,
+            "CLLI_SEDE": "ALBAITAC",
+            "NOME_CENTR": "BORBORE - VEZZA D'ALBA",
+            "COMUNE": "VEZZA D'ALBA",
+            "ISTAT_COMU": "004241",
+            "INDIRIZZO": "CASTELLERO 3",
+            "LATITUDINE": 44.763042,
+            "LONGITUDIN": 8.00949,
+            "POINT_X": 421611.516415,
+            "POINT_Y": 4957105.07602,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.00949, 44.763042]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 177,
+            "CLLI_SEDE": "CUNEITAY",
+            "NOME_CENTR": "BORGO S. DALMAZZO B",
+            "COMUNE": "BORGO SAN DALMAZZO",
+            "ISTAT_COMU": "004025",
+            "INDIRIZZO": "CAVOUR 19",
+            "LATITUDINE": 44.33122,
+            "LONGITUDIN": 7.484347,
+            "POINT_X": 379161.537904,
+            "POINT_Y": 4909778.79325,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.484347, 44.33122]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 183,
+            "CLLI_SEDE": "BRGOITAL",
+            "NOME_CENTR": "BORGOMANERO",
+            "COMUNE": "BORGOMANERO",
+            "ISTAT_COMU": "003024",
+            "INDIRIZZO": "LORETO",
+            "LATITUDINE": 45.701867,
+            "LONGITUDIN": 8.462946,
+            "POINT_X": 458191.90625,
+            "POINT_Y": 5061064,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.462946, 45.701867]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 189,
+            "CLLI_SEDE": "CNDOITAA",
+            "NOME_CENTR": "BORGONE SUSA",
+            "COMUNE": "BORGONE SUSA",
+            "ISTAT_COMU": "001032",
+            "INDIRIZZO": "BOBBA 33 A",
+            "LATITUDINE": 45.121778,
+            "LONGITUDIN": 7.241315,
+            "POINT_X": 361682.6875,
+            "POINT_Y": 4997983,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.241315, 45.121778]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 193,
+            "CLLI_SEDE": "BORGITAB",
+            "NOME_CENTR": "BORGOSESIA",
+            "COMUNE": "BORGOSESIA",
+            "ISTAT_COMU": "002016",
+            "INDIRIZZO": "PRIVATA STAZIONE 5",
+            "LATITUDINE": 45.71611,
+            "LONGITUDIN": 8.283182,
+            "POINT_X": 444212,
+            "POINT_Y": 5062756,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.283182, 45.71611]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 194,
+            "CLLI_SEDE": "OLEGITAD",
+            "NOME_CENTR": "BORGOTICINO",
+            "COMUNE": "BORGO TICINO",
+            "ISTAT_COMU": "003025",
+            "INDIRIZZO": "VIA VITTORIO EMANUELE II 56",
+            "LATITUDINE": 45.688928,
+            "LONGITUDIN": 8.603577,
+            "POINT_X": 469132.494586,
+            "POINT_Y": 5059562.61562,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.603577, 45.688928]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 205,
+            "CLLI_SEDE": "BRAAITAD",
+            "NOME_CENTR": "BRA",
+            "COMUNE": "BRA",
+            "ISTAT_COMU": "004029",
+            "INDIRIZZO": "GUGLIELMO MARCONI 10",
+            "LATITUDINE": 44.696679,
+            "LONGITUDIN": 7.851872,
+            "POINT_X": 409033.710759,
+            "POINT_Y": 4949897.25724,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.851872, 44.696679]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 207,
+            "CLLI_SEDE": "CHIVITAA",
+            "NOME_CENTR": "BRANDIZZO",
+            "COMUNE": "BRANDIZZO",
+            "ISTAT_COMU": "001034",
+            "INDIRIZZO": "MONTE GRAPPA 17",
+            "LATITUDINE": 45.176069,
+            "LONGITUDIN": 7.837045,
+            "POINT_X": 408622.515325,
+            "POINT_Y": 5003167.50854,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.837045, 45.176069]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 209,
+            "CLLI_SEDE": "PINEITAC",
+            "NOME_CENTR": "BRICHERASIO",
+            "COMUNE": "BRICHERASIO",
+            "ISTAT_COMU": "001035",
+            "INDIRIZZO": "VIA VITT. EMANUELE-&gt;50",
+            "LATITUDINE": 44.825467,
+            "LONGITUDIN": 7.303591,
+            "POINT_X": 365891.558798,
+            "POINT_Y": 4964962.03277,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.303591, 44.825467]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 219,
+            "CLLI_SEDE": "ORBAITAD",
+            "NOME_CENTR": "BRUINO",
+            "COMUNE": "BRUINO",
+            "ISTAT_COMU": "001038",
+            "INDIRIZZO": "TRANA 6",
+            "LATITUDINE": 45.0225,
+            "LONGITUDIN": 7.464,
+            "POINT_X": 378987.068869,
+            "POINT_Y": 4986597.44559,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.464, 45.0225]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 229,
+            "CLLI_SEDE": "BUSCITAF",
+            "NOME_CENTR": "BUSCA",
+            "COMUNE": "BUSCA",
+            "ISTAT_COMU": "004034",
+            "INDIRIZZO": "STR.VICINALE S.GIACOMO",
+            "LATITUDINE": 44.51972,
+            "LONGITUDIN": 7.476767,
+            "POINT_X": 378947,
+            "POINT_Y": 4930728,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.476767, 44.51972]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 246,
+            "CLLI_SEDE": "NOVAITAS",
+            "NOME_CENTR": "CALTIGNAGA",
+            "COMUNE": "CALTIGNAGA",
+            "ISTAT_COMU": "003030",
+            "INDIRIZZO": "CAVOUR",
+            "LATITUDINE": 45.518528,
+            "LONGITUDIN": 8.587562,
+            "POINT_X": 467788.113347,
+            "POINT_Y": 5040637.63399,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.587562, 45.518528]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 251,
+            "CLLI_SEDE": "CHERITAE",
+            "NOME_CENTR": "CAMBIANO",
+            "COMUNE": "CAMBIANO",
+            "ISTAT_COMU": "001048",
+            "INDIRIZZO": "BUSSOLETTE 19",
+            "LATITUDINE": 44.970162,
+            "LONGITUDIN": 7.773914,
+            "POINT_X": 403315.520004,
+            "POINT_Y": 4980366.94988,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.773914, 44.970162]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 256,
+            "CLLI_SEDE": "NOVAITAF",
+            "NOME_CENTR": "CAMERI",
+            "COMUNE": "CAMERI",
+            "ISTAT_COMU": "003032",
+            "INDIRIZZO": "ROMA",
+            "LATITUDINE": 45.499743,
+            "LONGITUDIN": 8.660847,
+            "POINT_X": 473502.955457,
+            "POINT_Y": 5038523.91373,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.660847, 45.499743]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 268,
+            "CLLI_SEDE": "BIELITBE",
+            "NOME_CENTR": "CANDELO",
+            "COMUNE": "CANDELO",
+            "ISTAT_COMU": "096012",
+            "INDIRIZZO": "TRENTO 11",
+            "LATITUDINE": 45.545343,
+            "LONGITUDIN": 8.107905,
+            "POINT_X": 430359.510563,
+            "POINT_Y": 5043920.95385,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.107905, 45.545343]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 272,
+            "CLLI_SEDE": "CANEITAC",
+            "NOME_CENTR": "CANELLI",
+            "COMUNE": "CANELLI",
+            "ISTAT_COMU": "005017",
+            "INDIRIZZO": "CORSO LIBERTA' 6",
+            "LATITUDINE": 44.717438,
+            "LONGITUDIN": 8.287568,
+            "POINT_X": 443574.1875,
+            "POINT_Y": 4951809,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.287568, 44.717438]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 284,
+            "CLLI_SEDE": "NOLIITAB",
+            "NOME_CENTR": "CAPRIATA D'ORBA",
+            "COMUNE": "CAPRIATA D'ORBA",
+            "ISTAT_COMU": "006029",
+            "INDIRIZZO": "CASEFRE",
+            "LATITUDINE": 44.730213,
+            "LONGITUDIN": 8.688907,
+            "POINT_X": 475366.2878,
+            "POINT_Y": 4953028.29704,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.688907, 44.730213]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 296,
+            "CLLI_SEDE": "CRIGITAB",
+            "NOME_CENTR": "CARIGNANO B",
+            "COMUNE": "CARIGNANO",
+            "ISTAT_COMU": "001058",
+            "INDIRIZZO": "VINOVO",
+            "LATITUDINE": 44.911005,
+            "LONGITUDIN": 7.673599,
+            "POINT_X": 395297.59375,
+            "POINT_Y": 4973920,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.673599, 44.911005]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 298,
+            "CLLI_SEDE": "CARMITAA",
+            "NOME_CENTR": "CARMAGNOLA B",
+            "COMUNE": "CARMAGNOLA",
+            "ISTAT_COMU": "001059",
+            "INDIRIZZO": "VIA LEON B.ALBERTI 29",
+            "LATITUDINE": 44.842172,
+            "LONGITUDIN": 7.716575,
+            "POINT_X": 398569.104113,
+            "POINT_Y": 4966219.09791,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.716575, 44.842172]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 308,
+            "CLLI_SEDE": "DOGLITAN",
+            "NOME_CENTR": "CARRU'",
+            "COMUNE": "CARRU'",
+            "ISTAT_COMU": "004043",
+            "INDIRIZZO": "G.MARCONI",
+            "LATITUDINE": 44.483371,
+            "LONGITUDIN": 7.877178,
+            "POINT_X": 410712.69709,
+            "POINT_Y": 4926175.14308,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.877178, 44.483371]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 315,
+            "CLLI_SEDE": "CAMOITAL",
+            "NOME_CENTR": "CASALE MONFERRATO",
+            "COMUNE": "CASALE MONFERRATO",
+            "ISTAT_COMU": "006039",
+            "INDIRIZZO": "PIAZZA CESARE BATTISTI 38",
+            "LATITUDINE": 45.136281,
+            "LONGITUDIN": 8.455282,
+            "POINT_X": 457169.8125,
+            "POINT_Y": 4998234,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.455282, 45.136281]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 321,
+            "CLLI_SEDE": "CAMOITAH",
+            "NOME_CENTR": "CASALE POPOLO",
+            "COMUNE": "CASALE MONFERRATO",
+            "ISTAT_COMU": "006039",
+            "INDIRIZZO": "ADAM 31",
+            "LATITUDINE": 45.149642,
+            "LONGITUDIN": 8.443093,
+            "POINT_X": 456221.602158,
+            "POINT_Y": 4999724.75756,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.443093, 45.149642]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 330,
+            "CLLI_SEDE": "RIVOITAD",
+            "NOME_CENTR": "CASCINE VICA",
+            "COMUNE": "RIVOLI",
+            "ISTAT_COMU": "001219",
+            "INDIRIZZO": "CSO IV NOVEMBRE 64",
+            "LATITUDINE": 45.066983,
+            "LONGITUDIN": 7.54183,
+            "POINT_X": 385207.893626,
+            "POINT_Y": 4991425.61184,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.54183, 45.066983]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 335,
+            "CLLI_SEDE": "CATOITAB",
+            "NOME_CENTR": "CASELLE TORINESE",
+            "COMUNE": "CASELLE TORINESE",
+            "ISTAT_COMU": "001063",
+            "INDIRIZZO": "AEROPORTO 20",
+            "LATITUDINE": 45.174302,
+            "LONGITUDIN": 7.651056,
+            "POINT_X": 394005.464394,
+            "POINT_Y": 5003198.48871,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.651056, 45.174302]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 342,
+            "CLLI_SEDE": "CANEITAE",
+            "NOME_CENTR": "CASTAGNOLE LANZE B",
+            "COMUNE": "CASTAGNOLE DELLE LANZE",
+            "ISTAT_COMU": "005022",
+            "INDIRIZZO": "VALGUARENA 9",
+            "LATITUDINE": 44.750153,
+            "LONGITUDIN": 8.146752,
+            "POINT_X": 432459.359948,
+            "POINT_Y": 4955550.24345,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.146752, 44.750153]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 354,
+            "CLLI_SEDE": "CASMITAC",
+            "NOME_CENTR": "CASTELLAMONTE B",
+            "COMUNE": "CASTELLAMONTE",
+            "ISTAT_COMU": "001066",
+            "INDIRIZZO": "ADRIANO GHIONE",
+            "LATITUDINE": 45.381867,
+            "LONGITUDIN": 7.713779,
+            "POINT_X": 399301.8125,
+            "POINT_Y": 5026177,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.713779, 45.381867]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 356,
+            "CLLI_SEDE": "ALESITAM",
+            "NOME_CENTR": "CASTELLAZZO BORMIDA",
+            "COMUNE": "CASTELLAZZO BORMIDA",
+            "ISTAT_COMU": "006047",
+            "INDIRIZZO": "MADONNA GRANDE",
+            "LATITUDINE": 44.849541,
+            "LONGITUDIN": 8.580064,
+            "POINT_X": 466816.143956,
+            "POINT_Y": 4966322.26989,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.580064, 44.849541]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 373,
+            "CLLI_SEDE": "CDBOITAD",
+            "NOME_CENTR": "CASTELNUOVO DON BOSCO",
+            "COMUNE": "CASTELNUOVO DON BOSCO",
+            "ISTAT_COMU": "005031",
+            "INDIRIZZO": "SAN DOMENICO SAVIO 4",
+            "LATITUDINE": 45.039234,
+            "LONGITUDIN": 7.965693,
+            "POINT_X": 418536.439173,
+            "POINT_Y": 4987829.13023,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.965693, 45.039234]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 375,
+            "CLLI_SEDE": "TRTOITAM",
+            "NOME_CENTR": "CASTELNUOVO SCRIVIA",
+            "COMUNE": "CASTELNUOVO SCRIVIA",
+            "ISTAT_COMU": "006053",
+            "INDIRIZZO": "GIUSEPPE GARIBALDI 80",
+            "LATITUDINE": 44.978915,
+            "LONGITUDIN": 8.881463,
+            "POINT_X": 490654.065887,
+            "POINT_Y": 4980614.98164,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.881463, 44.978915]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 396,
+            "CLLI_SEDE": "CUNEITAT",
+            "NOME_CENTR": "CENTALLO",
+            "COMUNE": "CENTALLO",
+            "ISTAT_COMU": "004061",
+            "INDIRIZZO": "CRISPI",
+            "LATITUDINE": 44.50452,
+            "LONGITUDIN": 7.589737,
+            "POINT_X": 387895.712128,
+            "POINT_Y": 4928878.43831,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.589737, 44.50452]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 398,
+            "CLLI_SEDE": "TRECITAB",
+            "NOME_CENTR": "CERANO",
+            "COMUNE": "CERANO",
+            "ISTAT_COMU": "003049",
+            "INDIRIZZO": "TICINO",
+            "LATITUDINE": 45.413918,
+            "LONGITUDIN": 8.77842,
+            "POINT_X": 482662.3125,
+            "POINT_Y": 5028957,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.77842, 45.413918]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 407,
+            "CLLI_SEDE": "CERRITAA",
+            "NOME_CENTR": "CERRINA - CAMINO",
+            "COMUNE": "CERRINA MONFERRATO",
+            "ISTAT_COMU": "006059",
+            "INDIRIZZO": "ROMA 57",
+            "LATITUDINE": 45.120205,
+            "LONGITUDIN": 8.212874,
+            "POINT_X": 438092.289394,
+            "POINT_Y": 4996605.12471,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.212874, 45.120205]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 412,
+            "CLLI_SEDE": "CUNEITAC",
+            "NOME_CENTR": "CERVASCA",
+            "COMUNE": "CERVASCA",
+            "ISTAT_COMU": "004064",
+            "INDIRIZZO": "PIAZZA SCUOLE COMUNALI",
+            "LATITUDINE": 44.383027,
+            "LONGITUDIN": 7.467836,
+            "POINT_X": 377952.768021,
+            "POINT_Y": 4915557.83064,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.467836, 44.383027]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 419,
+            "CLLI_SEDE": "BRAAITAR",
+            "NOME_CENTR": "CHERASCO 2",
+            "COMUNE": "CHERASCO",
+            "ISTAT_COMU": "004067",
+            "INDIRIZZO": "VIALE SALMATORIS",
+            "LATITUDINE": 44.649567,
+            "LONGITUDIN": 7.858163,
+            "POINT_X": 409458.8125,
+            "POINT_Y": 4944657,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.858163, 44.649567]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 423,
+            "CLLI_SEDE": "CHERITAH",
+            "NOME_CENTR": "CHIERI",
+            "COMUNE": "CHIERI",
+            "ISTAT_COMU": "001078",
+            "INDIRIZZO": "PZA DANTE 10 BIS",
+            "LATITUDINE": 45.013805,
+            "LONGITUDIN": 7.82044,
+            "POINT_X": 407054.929365,
+            "POINT_Y": 4985160.6437,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.82044, 45.013805]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 428,
+            "CLLI_SEDE": "CHIVITAH",
+            "NOME_CENTR": "CHIVASSO",
+            "COMUNE": "CHIVASSO",
+            "ISTAT_COMU": "001082",
+            "INDIRIZZO": "VIA DEMETRIO COSOLA 12",
+            "LATITUDINE": 45.191335,
+            "LONGITUDIN": 7.892527,
+            "POINT_X": 413005.227699,
+            "POINT_Y": 5004802.19002,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.892527, 45.191335]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 430,
+            "CLLI_SEDE": "CIGLITAH",
+            "NOME_CENTR": "CIGLIANO",
+            "COMUNE": "CIGLIANO",
+            "ISTAT_COMU": "002042",
+            "INDIRIZZO": "CORSO UMBERTO I 55",
+            "LATITUDINE": 45.30945,
+            "LONGITUDIN": 8.021184,
+            "POINT_X": 423270.741,
+            "POINT_Y": 5017793.27326,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.021184, 45.30945]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 438,
+            "CLLI_SEDE": "CIRIITAH",
+            "NOME_CENTR": "CIRIE'",
+            "COMUNE": "CIRIE'",
+            "ISTAT_COMU": "001086",
+            "INDIRIZZO": "ROMA 25",
+            "LATITUDINE": 45.233966,
+            "LONGITUDIN": 7.607811,
+            "POINT_X": 390721.731334,
+            "POINT_Y": 5009884.27638,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.607811, 45.233966]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 459,
+            "CLLI_SEDE": "CNDOITAD",
+            "NOME_CENTR": "CONDOVE B",
+            "COMUNE": "CONDOVE",
+            "ISTAT_COMU": "001093",
+            "INDIRIZZO": "VIA D'AZEGLIO-&gt;",
+            "LATITUDINE": 45.114813,
+            "LONGITUDIN": 7.31309,
+            "POINT_X": 367311.5,
+            "POINT_Y": 4997089,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.31309, 45.114813]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 471,
+            "CLLI_SEDE": "COSSITAA",
+            "NOME_CENTR": "COSSATO",
+            "COMUNE": "COSSATO",
+            "ISTAT_COMU": "096020",
+            "INDIRIZZO": "MATTEOTTI 41",
+            "LATITUDINE": 45.572943,
+            "LONGITUDIN": 8.178307,
+            "POINT_X": 435886.738717,
+            "POINT_Y": 5046928.62072,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.178307, 45.572943]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 477,
+            "CLLI_SEDE": "MOATITAE",
+            "NOME_CENTR": "COSTIGLIOLE D'ASTI",
+            "COMUNE": "COSTIGLIOLE D'ASTI",
+            "ISTAT_COMU": "005050",
+            "INDIRIZZO": "SRADA DEL POZZO 2",
+            "LATITUDINE": 44.781957,
+            "LONGITUDIN": 8.162259,
+            "POINT_X": 433723.229131,
+            "POINT_Y": 4959070.36985,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.162259, 44.781957]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 506,
+            "CLLI_SEDE": "CUNEITAV",
+            "NOME_CENTR": "CUNEO",
+            "COMUNE": "CUNEO",
+            "ISTAT_COMU": "004078",
+            "INDIRIZZO": "LUIGI GALLO 18/A",
+            "LATITUDINE": 44.386424,
+            "LONGITUDIN": 7.546734,
+            "POINT_X": 384244.25017,
+            "POINT_Y": 4915820.49994,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.546734, 44.386424]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 508,
+            "CLLI_SEDE": "CUORITAD",
+            "NOME_CENTR": "CUORGNE' B",
+            "COMUNE": "CUORGNE'",
+            "ISTAT_COMU": "001098",
+            "INDIRIZZO": "TRIPOLI 1",
+            "LATITUDINE": 45.390063,
+            "LONGITUDIN": 7.655586,
+            "POINT_X": 394761.140912,
+            "POINT_Y": 5027161.95162,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.655586, 45.390063]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 520,
+            "CLLI_SEDE": "DOMOITAC",
+            "NOME_CENTR": "DOMODOSSOLA",
+            "COMUNE": "DOMODOSSOLA",
+            "ISTAT_COMU": "103028",
+            "INDIRIZZO": "AMENDOLA 2",
+            "LATITUDINE": 46.114075,
+            "LONGITUDIN": 8.292752,
+            "POINT_X": 445348.889848,
+            "POINT_Y": 5106965.22787,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.292752, 46.114075]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 526,
+            "CLLI_SEDE": "DRUEITAA",
+            "NOME_CENTR": "DRUENTO",
+            "COMUNE": "DRUENTO",
+            "ISTAT_COMU": "001099",
+            "INDIRIZZO": "VELASCO 17",
+            "LATITUDINE": 45.132062,
+            "LONGITUDIN": 7.580607,
+            "POINT_X": 388387.400203,
+            "POINT_Y": 4998600.87998,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.580607, 45.132062]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 540,
+            "CLLI_SEDE": "FELIITAC",
+            "NOME_CENTR": "FELIZZANO",
+            "COMUNE": "FELIZZANO",
+            "ISTAT_COMU": "006068",
+            "INDIRIZZO": "MATTEOTTI",
+            "LATITUDINE": 44.898498,
+            "LONGITUDIN": 8.439269,
+            "POINT_X": 455727.892083,
+            "POINT_Y": 4971827.86134,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.439269, 44.898498]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 567,
+            "CLLI_SEDE": "FOSSITAH",
+            "NOME_CENTR": "FOSSANO",
+            "COMUNE": "FOSSANO",
+            "ISTAT_COMU": "004089",
+            "INDIRIZZO": "IV NOVEMBRE 13",
+            "LATITUDINE": 44.550889,
+            "LONGITUDIN": 7.724594,
+            "POINT_X": 398696.161775,
+            "POINT_Y": 4933852.85623,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.724594, 44.550889]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 591,
+            "CLLI_SEDE": "BIELITAM",
+            "NOME_CENTR": "GAGLIANICO",
+            "COMUNE": "GAGLIANICO",
+            "ISTAT_COMU": "096026",
+            "INDIRIZZO": "FELICE TROSSI 59/61",
+            "LATITUDINE": 45.537193,
+            "LONGITUDIN": 8.069748,
+            "POINT_X": 427370.30802,
+            "POINT_Y": 5043049.37586,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.069748, 45.537193]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 597,
+            "CLLI_SEDE": "GLLIITAA",
+            "NOME_CENTR": "GALLIATE",
+            "COMUNE": "GALLIATE",
+            "ISTAT_COMU": "003068",
+            "INDIRIZZO": "VICOLO MAGGIONI 3",
+            "LATITUDINE": 45.477481,
+            "LONGITUDIN": 8.690438,
+            "POINT_X": 475805.277682,
+            "POINT_Y": 5036041.34592,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.690438, 45.477481]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 599,
+            "CLLI_SEDE": "ALBAITAR",
+            "NOME_CENTR": "GALLO GRINZANE",
+            "COMUNE": "GRINZANE CAVOUR",
+            "ISTAT_COMU": "004100",
+            "INDIRIZZO": "NUOVA CIRCONVALLAZIONE",
+            "LATITUDINE": 44.663713,
+            "LONGITUDIN": 7.981789,
+            "POINT_X": 419281.320375,
+            "POINT_Y": 4946098.48128,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.981789, 44.663713]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 608,
+            "CLLI_SEDE": "GATTITAC",
+            "NOME_CENTR": "GATTINARA",
+            "COMUNE": "GATTINARA",
+            "ISTAT_COMU": "002061",
+            "INDIRIZZO": "CORSO VALSESIA 216",
+            "LATITUDINE": 45.624962,
+            "LONGITUDIN": 8.371519,
+            "POINT_X": 451007.54009,
+            "POINT_Y": 5052571.60701,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.371519, 45.624962]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 615,
+            "CLLI_SEDE": "NONEITAA",
+            "NOME_CENTR": "GERBOLE DI VOLVERA",
+            "COMUNE": "VOLVERA",
+            "ISTAT_COMU": "001315",
+            "INDIRIZZO": "MARTIRI LIBERTA' 11",
+            "LATITUDINE": 44.986186,
+            "LONGITUDIN": 7.527562,
+            "POINT_X": 383921.45381,
+            "POINT_Y": 4982470.38595,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.527562, 44.986186]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 625,
+            "CLLI_SEDE": "AVIGITAH",
+            "NOME_CENTR": "GIAVENO",
+            "COMUNE": "GIAVENO",
+            "ISTAT_COMU": "001115",
+            "INDIRIZZO": "XXIV MAGGIO 7",
+            "LATITUDINE": 45.041976,
+            "LONGITUDIN": 7.348817,
+            "POINT_X": 369956.560961,
+            "POINT_Y": 4988939.5424,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.348817, 45.041976]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 639,
+            "CLLI_SEDE": "GOZZITAJ",
+            "NOME_CENTR": "GOZZANO",
+            "COMUNE": "GOZZANO",
+            "ISTAT_COMU": "003076",
+            "INDIRIZZO": "NOVARA",
+            "LATITUDINE": 45.741365,
+            "LONGITUDIN": 8.437957,
+            "POINT_X": 456277.395899,
+            "POINT_Y": 5065465.64358,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.437957, 45.741365]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 659,
+            "CLLI_SEDE": "VERBITAB",
+            "NOME_CENTR": "INTRA",
+            "COMUNE": "VERBANIA",
+            "ISTAT_COMU": "103072",
+            "INDIRIZZO": "ROMA 33/35",
+            "LATITUDINE": 45.934614,
+            "LONGITUDIN": 8.569715,
+            "POINT_X": 466642.826969,
+            "POINT_Y": 5086872.69509,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.569715, 45.934614]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 667,
+            "CLLI_SEDE": "IVREITBF",
+            "NOME_CENTR": "IVREA",
+            "COMUNE": "IVREA",
+            "ISTAT_COMU": "001125",
+            "INDIRIZZO": "PZA SAN FRANCESCO 6",
+            "LATITUDINE": 45.46828,
+            "LONGITUDIN": 7.883302,
+            "POINT_X": 412707.09375,
+            "POINT_Y": 5035579,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.883302, 45.46828]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 669,
+            "CLLI_SEDE": "IVREITAJ",
+            "NOME_CENTR": "IVREA SAN GIOVANNI",
+            "COMUNE": "IVREA",
+            "ISTAT_COMU": "001125",
+            "INDIRIZZO": "CASALE 1",
+            "LATITUDINE": 45.468479,
+            "LONGITUDIN": 7.896332,
+            "POINT_X": 413725.929569,
+            "POINT_Y": 5035587.00237,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.896332, 45.468479]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 671,
+            "CLLI_SEDE": "VINOITAA",
+            "NOME_CENTR": "LA LOGGIA",
+            "COMUNE": "LA LOGGIA",
+            "ISTAT_COMU": "001127",
+            "INDIRIZZO": "TETTI AIASSA 21",
+            "LATITUDINE": 44.957428,
+            "LONGITUDIN": 7.671071,
+            "POINT_X": 395182.523024,
+            "POINT_Y": 4979080.15905,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.671071, 44.957428]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 680,
+            "CLLI_SEDE": "LATOITAE",
+            "NOME_CENTR": "LANZO TORINESE",
+            "COMUNE": "LANZO TORINESE",
+            "ISTAT_COMU": "001128",
+            "INDIRIZZO": "VITTORIO VENETO 47",
+            "LATITUDINE": 45.275985,
+            "LONGITUDIN": 7.475136,
+            "POINT_X": 380395.890569,
+            "POINT_Y": 5014740.54981,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.475136, 45.275985]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 681,
+            "CLLI_SEDE": "CHIVITAD",
+            "NOME_CENTR": "LAURIANO",
+            "COMUNE": "LAURIANO",
+            "ISTAT_COMU": "001129",
+            "INDIRIZZO": "STRADA COMUNALE",
+            "LATITUDINE": 45.163029,
+            "LONGITUDIN": 7.998573,
+            "POINT_X": 421296.398136,
+            "POINT_Y": 5001548.86925,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.998573, 45.163029]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 683,
+            "CLLI_SEDE": "CATOITAA",
+            "NOME_CENTR": "LEINI",
+            "COMUNE": "LEINI",
+            "ISTAT_COMU": "001130",
+            "INDIRIZZO": "CASELLE 57",
+            "LATITUDINE": 45.182697,
+            "LONGITUDIN": 7.705601,
+            "POINT_X": 398306.3125,
+            "POINT_Y": 5004061,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.705601, 45.182697]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 713,
+            "CLLI_SEDE": "TOPEITAE",
+            "NOME_CENTR": "LUSERNA S. GIOVANNI",
+            "COMUNE": "LUSERNA SAN GIOVANNI",
+            "ISTAT_COMU": "001139",
+            "INDIRIZZO": "CORSO MATTEOTTI 15",
+            "LATITUDINE": 44.812596,
+            "LONGITUDIN": 7.244688,
+            "POINT_X": 361204.139659,
+            "POINT_Y": 4963631.23982,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.244688, 44.812596]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 720,
+            "CLLI_SEDE": "CUNEITAM",
+            "NOME_CENTR": "MADONNA DELL'OLMO",
+            "COMUNE": "CUNEO",
+            "ISTAT_COMU": "004078",
+            "INDIRIZZO": "VALLE PO - STRADA PRIVATA",
+            "LATITUDINE": 44.411923,
+            "LONGITUDIN": 7.551585,
+            "POINT_X": 384680.782,
+            "POINT_Y": 4918646.04236,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.551585, 44.411923]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 722,
+            "CLLI_SEDE": "",
+            "NOME_CENTR": "MAGAZZ. UFFICIO RAP",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "CORSO INGHILTERRA 7 10* PIANO ST. 1",
+            "LATITUDINE": 45.070605,
+            "LONGITUDIN": 7.663943,
+            "POINT_X": 394827.718724,
+            "POINT_Y": 4991661.99992,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.663943, 45.070605]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 734,
+            "CLLI_SEDE": "CATOITAD",
+            "NOME_CENTR": "MAPPANO 2",
+            "COMUNE": "CASELLE TORINESE",
+            "ISTAT_COMU": "001063",
+            "INDIRIZZO": "VIA G. SARAGAT SNC",
+            "LATITUDINE": 45.151848,
+            "LONGITUDIN": 7.657884,
+            "POINT_X": 394500.577884,
+            "POINT_Y": 5000695.1658,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.657884, 45.151848]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 753,
+            "CLLI_SEDE": "CIRIITAS",
+            "NOME_CENTR": "MATHI",
+            "COMUNE": "MATHI",
+            "ISTAT_COMU": "001146",
+            "INDIRIZZO": "BERIA",
+            "LATITUDINE": 45.257691,
+            "LONGITUDIN": 7.544878,
+            "POINT_X": 385829.488188,
+            "POINT_Y": 5012607.09275,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.544878, 45.257691]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 795,
+            "CLLI_SEDE": "MONCITAE",
+            "NOME_CENTR": "MONCALVO",
+            "COMUNE": "MONCALVO",
+            "ISTAT_COMU": "005069",
+            "INDIRIZZO": "DELLA RONDA 12",
+            "LATITUDINE": 45.050171,
+            "LONGITUDIN": 8.264428,
+            "POINT_X": 442076.292025,
+            "POINT_Y": 4988786.93862,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.264428, 45.050171]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 799,
+            "CLLI_SEDE": "MONDITAT",
+            "NOME_CENTR": "MONDOVI",
+            "COMUNE": "MONDOVI'",
+            "ISTAT_COMU": "004130",
+            "INDIRIZZO": "VIA GIUSEPPE VERDI-&gt;4",
+            "LATITUDINE": 44.38969,
+            "LONGITUDIN": 7.815702,
+            "POINT_X": 405673.503242,
+            "POINT_Y": 4915838.34768,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.815702, 44.38969]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 811,
+            "CLLI_SEDE": "CANAITAD",
+            "NOME_CENTR": "MONTA' D'ALBA",
+            "COMUNE": "MONTA'",
+            "ISTAT_COMU": "004133",
+            "INDIRIZZO": "MILANO 2",
+            "LATITUDINE": 44.814846,
+            "LONGITUDIN": 7.961353,
+            "POINT_X": 417875.472993,
+            "POINT_Y": 4962907.14631,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.961353, 44.814846]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 863,
+            "CLLI_SEDE": "ARONITAB",
+            "NOME_CENTR": "NEBBIUNO",
+            "COMUNE": "NEBBIUNO",
+            "ISTAT_COMU": "003103",
+            "INDIRIZZO": "PER MEINA",
+            "LATITUDINE": 45.797327,
+            "LONGITUDIN": 8.520613,
+            "POINT_X": 462744.660058,
+            "POINT_Y": 5071641.30977,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.520613, 45.797327]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 864,
+            "CLLI_SEDE": "ALBAITBN",
+            "NOME_CENTR": "NEIVE 2",
+            "COMUNE": "NEIVE",
+            "ISTAT_COMU": "004148",
+            "INDIRIZZO": "VIA DEI TIGLI 2",
+            "LATITUDINE": 44.720669,
+            "LONGITUDIN": 8.11591,
+            "POINT_X": 429982.422461,
+            "POINT_Y": 4952301.15329,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.11591, 44.720669]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 871,
+            "CLLI_SEDE": "NIMOITAG",
+            "NOME_CENTR": "NIZZA MONFERRATO",
+            "COMUNE": "NIZZA MONFERRATO",
+            "ISTAT_COMU": "005080",
+            "INDIRIZZO": "LANERO",
+            "LATITUDINE": 44.773018,
+            "LONGITUDIN": 8.352495,
+            "POINT_X": 448765.59375,
+            "POINT_Y": 4957940,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.352495, 44.773018]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 878,
+            "CLLI_SEDE": "NONEITAE",
+            "NOME_CENTR": "NONE",
+            "COMUNE": "NONE",
+            "ISTAT_COMU": "001168",
+            "INDIRIZZO": "ROMA 147",
+            "LATITUDINE": 44.931349,
+            "LONGITUDIN": 7.53394,
+            "POINT_X": 384314.121489,
+            "POINT_Y": 4976369.56734,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.53394, 44.931349]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 884,
+            "CLLI_SEDE": "NOVAITAK",
+            "NOME_CENTR": "NOVARA",
+            "COMUNE": "NOVARA",
+            "ISTAT_COMU": "003106",
+            "INDIRIZZO": "PIAZZA MATTEOTTI 4",
+            "LATITUDINE": 45.446065,
+            "LONGITUDIN": 8.622792,
+            "POINT_X": 470501.824436,
+            "POINT_Y": 5032573.6602,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.622792, 45.446065]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 887,
+            "CLLI_SEDE": "NOVAITAN",
+            "NOME_CENTR": "NOVARA BICOCCA",
+            "COMUNE": "NOVARA",
+            "ISTAT_COMU": "003106",
+            "INDIRIZZO": "TOMMASEO 3",
+            "LATITUDINE": 45.431261,
+            "LONGITUDIN": 8.636418,
+            "POINT_X": 471559.956722,
+            "POINT_Y": 5030924.11011,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.636418, 45.431261]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 890,
+            "CLLI_SEDE": "NOVAITAL",
+            "NOME_CENTR": "NOVARA RISORGIMENTO",
+            "COMUNE": "NOVARA",
+            "ISTAT_COMU": "003106",
+            "INDIRIZZO": "VIA ROSETTE 41",
+            "LATITUDINE": 45.46352,
+            "LONGITUDIN": 8.619346,
+            "POINT_X": 470241.523707,
+            "POINT_Y": 5034514.2098,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.619346, 45.46352]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 891,
+            "CLLI_SEDE": "NOVAITAP",
+            "NOME_CENTR": "NOVARA SAN PAOLO",
+            "COMUNE": "NOVARA",
+            "ISTAT_COMU": "003106",
+            "INDIRIZZO": "VLE GIULIO CESARE 345",
+            "LATITUDINE": 45.435724,
+            "LONGITUDIN": 8.605587,
+            "POINT_X": 469150.736254,
+            "POINT_Y": 5031431.31835,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.605587, 45.435724]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 892,
+            "CLLI_SEDE": "NOVAITAJ",
+            "NOME_CENTR": "NOVARA SANT'AGABIO",
+            "COMUNE": "NOVARA",
+            "ISTAT_COMU": "003106",
+            "INDIRIZZO": "DELLA RIOTTA",
+            "LATITUDINE": 45.446052,
+            "LONGITUDIN": 8.622052,
+            "POINT_X": 470443.949457,
+            "POINT_Y": 5032572.53252,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.622052, 45.446052]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 895,
+            "CLLI_SEDE": "NOLIITAD",
+            "NOME_CENTR": "NOVI LIGURE",
+            "COMUNE": "NOVI LIGURE",
+            "ISTAT_COMU": "006114",
+            "INDIRIZZO": "MAZZINI 111",
+            "LATITUDINE": 44.767616,
+            "LONGITUDIN": 8.787954,
+            "POINT_X": 483220.085255,
+            "POINT_Y": 4957157.87571,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.787954, 44.767616]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 901,
+            "CLLI_SEDE": "BIELITAP",
+            "NOME_CENTR": "OCCHIEPPO",
+            "COMUNE": "OCCHIEPPO INFERIORE",
+            "ISTAT_COMU": "096040",
+            "INDIRIZZO": "MULINI",
+            "LATITUDINE": 45.552891,
+            "LONGITUDIN": 8.018974,
+            "POINT_X": 423427.436262,
+            "POINT_Y": 5044840.5256,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.018974, 45.552891]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 911,
+            "CLLI_SEDE": "ARONITAF",
+            "NOME_CENTR": "OLEGGIO CASTELLO",
+            "COMUNE": "OLEGGIO CASTELLO",
+            "ISTAT_COMU": "003109",
+            "INDIRIZZO": "MONTE ROSA 16",
+            "LATITUDINE": 45.748835,
+            "LONGITUDIN": 8.526512,
+            "POINT_X": 463171.1875,
+            "POINT_Y": 5066251,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.526512, 45.748835]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 915,
+            "CLLI_SEDE": "ORBAITAB",
+            "NOME_CENTR": "ORBASSANO",
+            "COMUNE": "ORBASSANO",
+            "ISTAT_COMU": "001171",
+            "INDIRIZZO": "VIA TRIESTE 6",
+            "LATITUDINE": 45.005424,
+            "LONGITUDIN": 7.539201,
+            "POINT_X": 384877.51946,
+            "POINT_Y": 4984590.84725,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.539201, 45.005424]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 936,
+            "CLLI_SEDE": "OVADITAM",
+            "NOME_CENTR": "OVADA",
+            "COMUNE": "OVADA",
+            "ISTAT_COMU": "006121",
+            "INDIRIZZO": "DUCHESSA DI GALLIERA",
+            "LATITUDINE": 44.635472,
+            "LONGITUDIN": 8.643735,
+            "POINT_X": 471743.40625,
+            "POINT_Y": 4942519,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.643735, 44.635472]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 945,
+            "CLLI_SEDE": "VERBITAC",
+            "NOME_CENTR": "PALLANZA",
+            "COMUNE": "VERBANIA",
+            "ISTAT_COMU": "103072",
+            "INDIRIZZO": "NAZIONI UNITE",
+            "LATITUDINE": 45.928913,
+            "LONGITUDIN": 8.55165,
+            "POINT_X": 465238.8125,
+            "POINT_Y": 5086247,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.55165, 45.928913]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 957,
+            "CLLI_SEDE": "BIELITAL",
+            "NOME_CENTR": "PAVIGNANO",
+            "COMUNE": "BIELLA",
+            "ISTAT_COMU": "096004",
+            "INDIRIZZO": "STRADA BARAZZA 41",
+            "LATITUDINE": 45.583395,
+            "LONGITUDIN": 8.065485,
+            "POINT_X": 427097.254149,
+            "POINT_Y": 5048186.1918,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.065485, 45.583395]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 964,
+            "CLLI_SEDE": "PEARITAF",
+            "NOME_CENTR": "PEROSA ARGENTINA B",
+            "COMUNE": "PEROSA ARGENTINA",
+            "ISTAT_COMU": "001184",
+            "INDIRIZZO": "VIA ROMA-&gt;",
+            "LATITUDINE": 44.957926,
+            "LONGITUDIN": 7.190632,
+            "POINT_X": 357289.724187,
+            "POINT_Y": 4979868.98777,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.190632, 44.957926]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 982,
+            "CLLI_SEDE": "SALUITAV",
+            "NOME_CENTR": "PIASCO 2",
+            "COMUNE": "PIASCO",
+            "ISTAT_COMU": "004166",
+            "INDIRIZZO": "STR. PROVINC. COSTIGLIOLE",
+            "LATITUDINE": 44.565246,
+            "LONGITUDIN": 7.456684,
+            "POINT_X": 377446.54375,
+            "POINT_Y": 4935814.96,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.456684, 44.565246]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 994,
+            "CLLI_SEDE": "PINEITAN",
+            "NOME_CENTR": "PINEROLO B",
+            "COMUNE": "PINEROLO",
+            "ISTAT_COMU": "001191",
+            "INDIRIZZO": "CANAVESIO 4 ANG.V.VIGONE",
+            "LATITUDINE": 44.883527,
+            "LONGITUDIN": 7.337668,
+            "POINT_X": 368717.5,
+            "POINT_Y": 4971356,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.337668, 44.883527]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 996,
+            "CLLI_SEDE": "TORIITCH",
+            "NOME_CENTR": "PINO SUD",
+            "COMUNE": "PINO TORINESE",
+            "ISTAT_COMU": "001192",
+            "INDIRIZZO": "ST.CHIERI ANG.V.MONTEROSA",
+            "LATITUDINE": 45.042958,
+            "LONGITUDIN": 7.777813,
+            "POINT_X": 403745,
+            "POINT_Y": 4988449,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.777813, 45.042958]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 997,
+            "CLLI_SEDE": "VINOITAB",
+            "NOME_CENTR": "PIOBESI",
+            "COMUNE": "PIOBESI TORINESE",
+            "ISTAT_COMU": "001193",
+            "INDIRIZZO": "SOLFERINO 10/C",
+            "LATITUDINE": 44.932925,
+            "LONGITUDIN": 7.612456,
+            "POINT_X": 390512.746584,
+            "POINT_Y": 4976435.74699,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.612456, 44.932925]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1001,
+            "CLLI_SEDE": "ORBAITAC",
+            "NOME_CENTR": "PIOSSASCO",
+            "COMUNE": "PIOSSASCO",
+            "ISTAT_COMU": "001194",
+            "INDIRIZZO": "S.BERNARDO ANG. V.VOLVERA",
+            "LATITUDINE": 44.986643,
+            "LONGITUDIN": 7.466828,
+            "POINT_X": 379134.5,
+            "POINT_Y": 4982610,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.466828, 44.986643]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1010,
+            "CLLI_SEDE": "CHERITAM",
+            "NOME_CENTR": "POIRINO",
+            "COMUNE": "POIRINO",
+            "ISTAT_COMU": "001197",
+            "INDIRIZZO": "J. ARPINO 17/A",
+            "LATITUDINE": 44.920029,
+            "LONGITUDIN": 7.841982,
+            "POINT_X": 408603.603169,
+            "POINT_Y": 4974718.87624,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.841982, 44.920029]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1017,
+            "CLLI_SEDE": "POCAITAF",
+            "NOME_CENTR": "PONT CANAVESE",
+            "COMUNE": "PONT-CANAVESE",
+            "ISTAT_COMU": "001199",
+            "INDIRIZZO": "CAPPELLA DELL'ORCO",
+            "LATITUDINE": 45.42017,
+            "LONGITUDIN": 7.600466,
+            "POINT_X": 390504.596063,
+            "POINT_Y": 5030580.34492,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.600466, 45.42017]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1018,
+            "CLLI_SEDE": "",
+            "NOME_CENTR": "PONT SAINT MARTIN",
+            "COMUNE": "PONT-SAINT-MARTIN",
+            "ISTAT_COMU": "007052",
+            "INDIRIZZO": "VIA CHANOUX",
+            "LATITUDINE": 45.601026,
+            "LONGITUDIN": 7.795552,
+            "POINT_X": 406068.885757,
+            "POINT_Y": 5050425.78124,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.795552, 45.601026]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1046,
+            "CLLI_SEDE": "CHERITAN",
+            "NOME_CENTR": "PRALORMO",
+            "COMUNE": "PRALORMO",
+            "ISTAT_COMU": "001203",
+            "INDIRIZZO": "DELLE VIGNASSE",
+            "LATITUDINE": 44.866814,
+            "LONGITUDIN": 7.900595,
+            "POINT_X": 413149.527136,
+            "POINT_Y": 4968743.16171,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.900595, 44.866814]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1062,
+            "CLLI_SEDE": "ALESITAR",
+            "NOME_CENTR": "PREDOSA",
+            "COMUNE": "PREDOSA",
+            "ISTAT_COMU": "006140",
+            "INDIRIZZO": "FRATELLI CERVI",
+            "LATITUDINE": 44.751621,
+            "LONGITUDIN": 8.653217,
+            "POINT_X": 472550.370014,
+            "POINT_Y": 4955417.73982,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.653217, 44.751621]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1074,
+            "CLLI_SEDE": "BORGITAC",
+            "NOME_CENTR": "QUARONA",
+            "COMUNE": "QUARONA",
+            "ISTAT_COMU": "002107",
+            "INDIRIZZO": "CORSO ROLANDI",
+            "LATITUDINE": 45.761771,
+            "LONGITUDIN": 8.268545,
+            "POINT_X": 443119.226184,
+            "POINT_Y": 5067839.27636,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.268545, 45.761771]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1081,
+            "CLLI_SEDE": "RACCITAC",
+            "NOME_CENTR": "RACCONIGI",
+            "COMUNE": "RACCONIGI",
+            "ISTAT_COMU": "004179",
+            "INDIRIZZO": "PRATO DEI CORNETTI 10",
+            "LATITUDINE": 44.765267,
+            "LONGITUDIN": 7.674177,
+            "POINT_X": 395079,
+            "POINT_Y": 4957730,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.674177, 44.765267]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1097,
+            "CLLI_SEDE": "PINEITAR",
+            "NOME_CENTR": "RIVA DI PINEROLO",
+            "COMUNE": "PINEROLO",
+            "ISTAT_COMU": "001191",
+            "INDIRIZZO": "STRADA PRIVATA RIVA",
+            "LATITUDINE": 44.892516,
+            "LONGITUDIN": 7.38989,
+            "POINT_X": 372861.577974,
+            "POINT_Y": 4972271.37711,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.38989, 44.892516]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1103,
+            "CLLI_SEDE": "ORBAITAJ",
+            "NOME_CENTR": "RIVALTA DI TORINO 2",
+            "COMUNE": "RIVALTA DI TORINO",
+            "ISTAT_COMU": "001214",
+            "INDIRIZZO": "DANTE",
+            "LATITUDINE": 45.038918,
+            "LONGITUDIN": 7.521464,
+            "POINT_X": 383547.6875,
+            "POINT_Y": 4988337,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.521464, 45.038918]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1107,
+            "CLLI_SEDE": "RICAITAJ",
+            "NOME_CENTR": "RIVAROLO CANAVESE",
+            "COMUNE": "RIVAROLO CANAVESE",
+            "ISTAT_COMU": "001217",
+            "INDIRIZZO": "GIACOSA 6",
+            "LATITUDINE": 45.329769,
+            "LONGITUDIN": 7.723555,
+            "POINT_X": 399975.419395,
+            "POINT_Y": 5020377.06653,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.723555, 45.329769]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1113,
+            "CLLI_SEDE": "RIVOITAA",
+            "NOME_CENTR": "RIVOLI",
+            "COMUNE": "RIVOLI",
+            "ISTAT_COMU": "001219",
+            "INDIRIZZO": "VIA TRIESTE 8",
+            "LATITUDINE": 45.07201,
+            "LONGITUDIN": 7.5208,
+            "POINT_X": 383562.587439,
+            "POINT_Y": 4992014.05482,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.5208, 45.07201]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1116,
+            "CLLI_SEDE": "CUNEITAK",
+            "NOME_CENTR": "ROATA ROSSI",
+            "COMUNE": "CUNEO",
+            "ISTAT_COMU": "004078",
+            "INDIRIZZO": "CORTILE SCUOLE MEDIE",
+            "LATITUDINE": 44.442789,
+            "LONGITUDIN": 7.529937,
+            "POINT_X": 383018.804072,
+            "POINT_Y": 4922105.269,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.529937, 44.442789]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1141,
+            "CLLI_SEDE": "PINEITAK",
+            "NOME_CENTR": "ROLETTO",
+            "COMUNE": "ROLETTO",
+            "ISTAT_COMU": "001222",
+            "INDIRIZZO": "COSTA 4",
+            "LATITUDINE": 44.923759,
+            "LONGITUDIN": 7.331595,
+            "POINT_X": 368329.815933,
+            "POINT_Y": 4975835.00412,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.331595, 44.923759]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1157,
+            "CLLI_SEDE": "BRAAITAL",
+            "NOME_CENTR": "RORETO DI BRA",
+            "COMUNE": "CHERASCO",
+            "ISTAT_COMU": "004067",
+            "INDIRIZZO": "CONTE PETITTI 34",
+            "LATITUDINE": 44.697938,
+            "LONGITUDIN": 7.854584,
+            "POINT_X": 409250.571223,
+            "POINT_Y": 4950034.13988,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.854584, 44.697938]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1179,
+            "CLLI_SEDE": "IVREITAL",
+            "NOME_CENTR": "S. BERNARDO B",
+            "COMUNE": "IVREA",
+            "ISTAT_COMU": "001125",
+            "INDIRIZZO": "STRADALE TORINO 421",
+            "LATITUDINE": 45.442485,
+            "LONGITUDIN": 7.877668,
+            "POINT_X": 412226.640206,
+            "POINT_Y": 5032719.38111,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.877668, 45.442485]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1218,
+            "CLLI_SEDE": "NOVAITAE",
+            "NOME_CENTR": "S. PIETRO MOSEZZO",
+            "COMUNE": "SAN PIETRO MOSEZZO",
+            "ISTAT_COMU": "003135",
+            "INDIRIZZO": "VICOLO DELLE SCUOLE",
+            "LATITUDINE": 45.455441,
+            "LONGITUDIN": 8.542826,
+            "POINT_X": 464254.285142,
+            "POINT_Y": 5033647.76928,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.542826, 45.455441]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1242,
+            "CLLI_SEDE": "BIELITAR",
+            "NOME_CENTR": "SAGLIANO MICCA",
+            "COMUNE": "SAGLIANO MICCA",
+            "ISTAT_COMU": "096056",
+            "INDIRIZZO": "ALFREDO NAVA  4",
+            "LATITUDINE": 45.615846,
+            "LONGITUDIN": 8.048591,
+            "POINT_X": 425822.09375,
+            "POINT_Y": 5051807,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.048591, 45.615846]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1260,
+            "CLLI_SEDE": "SALUITAK",
+            "NOME_CENTR": "SALUZZO",
+            "COMUNE": "SALUZZO",
+            "ISTAT_COMU": "004203",
+            "INDIRIZZO": "LUIGI SCALA 1",
+            "LATITUDINE": 44.645165,
+            "LONGITUDIN": 7.487847,
+            "POINT_X": 380085.732007,
+            "POINT_Y": 4944646.0699,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.487847, 44.645165]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1264,
+            "CLLI_SEDE": "SDASITAC",
+            "NOME_CENTR": "SAN DAMIANO D'ASTI B",
+            "COMUNE": "SAN DAMIANO D'ASTI",
+            "ISTAT_COMU": "005097",
+            "INDIRIZZO": "V.TASSO",
+            "LATITUDINE": 44.832696,
+            "LONGITUDIN": 8.063697,
+            "POINT_X": 425990.535727,
+            "POINT_Y": 4964791.68708,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.063697, 44.832696]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1270,
+            "CLLI_SEDE": "DRUEITAD",
+            "NOME_CENTR": "SAN GILLIO",
+            "COMUNE": "SAN GILLIO",
+            "ISTAT_COMU": "001243",
+            "INDIRIZZO": "SAN PANCRAZIO",
+            "LATITUDINE": 45.141959,
+            "LONGITUDIN": 7.534513,
+            "POINT_X": 384782.821552,
+            "POINT_Y": 4999765.0486,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.534513, 45.141959]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1273,
+            "CLLI_SEDE": "RICAITAM",
+            "NOME_CENTR": "SAN GIUSTO CANAVESE",
+            "COMUNE": "SAN GIUSTO CANAVESE",
+            "ISTAT_COMU": "001246",
+            "INDIRIZZO": "MADONNINA ANG.VIA VENEZIA",
+            "LATITUDINE": 45.312683,
+            "LONGITUDIN": 7.807623,
+            "POINT_X": 406535.068377,
+            "POINT_Y": 5018377.95902,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.807623, 45.312683]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1276,
+            "CLLI_SEDE": "CIRIITAL",
+            "NOME_CENTR": "SAN MAURIZIO CANAVESE",
+            "COMUNE": "SAN MAURIZIO CANAVESE",
+            "ISTAT_COMU": "001248",
+            "INDIRIZZO": "DE GASPERI 5",
+            "LATITUDINE": 45.215003,
+            "LONGITUDIN": 7.634368,
+            "POINT_X": 392770.6677,
+            "POINT_Y": 5007742.03759,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.634368, 45.215003]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1282,
+            "CLLI_SEDE": "CUNEITAE",
+            "NOME_CENTR": "SAN ROCCO CASTAGNARETTA",
+            "COMUNE": "CUNEO",
+            "ISTAT_COMU": "004078",
+            "INDIRIZZO": "DEMONTE 9",
+            "LATITUDINE": 44.367655,
+            "LONGITUDIN": 7.524068,
+            "POINT_X": 382401.309886,
+            "POINT_Y": 4913768.05382,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.524068, 44.367655]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1285,
+            "CLLI_SEDE": "PINEITAL",
+            "NOME_CENTR": "SAN SECONDO DI PINEROLO",
+            "COMUNE": "SAN SECONDO DI PINEROLO",
+            "ISTAT_COMU": "001254",
+            "INDIRIZZO": "DELLA REPUBBLICA 112",
+            "LATITUDINE": 44.864906,
+            "LONGITUDIN": 7.298847,
+            "POINT_X": 365608.304097,
+            "POINT_Y": 4969350.96979,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.298847, 44.864906]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1286,
+            "CLLI_SEDE": "BIELITAQ",
+            "NOME_CENTR": "SANDIGLIANO",
+            "COMUNE": "SANDIGLIANO",
+            "ISTAT_COMU": "096059",
+            "INDIRIZZO": "PAPA GIOVANNI XXIII",
+            "LATITUDINE": 45.519732,
+            "LONGITUDIN": 8.080286,
+            "POINT_X": 428170.8125,
+            "POINT_Y": 5041100,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.080286, 45.519732]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1288,
+            "CLLI_SEDE": "SOBOITAB",
+            "NOME_CENTR": "SANFRE'",
+            "COMUNE": "SANFRE'",
+            "ISTAT_COMU": "004208",
+            "INDIRIZZO": "MADONNA DEL POPOLO",
+            "LATITUDINE": 44.752186,
+            "LONGITUDIN": 7.802917,
+            "POINT_X": 405245.6875,
+            "POINT_Y": 4956119,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.802917, 44.752186]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1292,
+            "CLLI_SEDE": "AVIGITAD",
+            "NOME_CENTR": "SANT' AMBROGIO",
+            "COMUNE": "SANT'AMBROGIO DI TORINO",
+            "ISTAT_COMU": "001255",
+            "INDIRIZZO": "GIAVENO 6",
+            "LATITUDINE": 45.098369,
+            "LONGITUDIN": 7.356468,
+            "POINT_X": 370686.379863,
+            "POINT_Y": 4995191.92865,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.356468, 45.098369]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1293,
+            "CLLI_SEDE": "FOSSITAF",
+            "NOME_CENTR": "SANT'ALBANO STURA",
+            "COMUNE": "SANT'ALBANO STURA",
+            "ISTAT_COMU": "004211",
+            "INDIRIZZO": "PIAZZA DANTE ALIGHIERI 1",
+            "LATITUDINE": 44.509102,
+            "LONGITUDIN": 7.721388,
+            "POINT_X": 398368.879479,
+            "POINT_Y": 4929215.23455,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.721388, 44.509102]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1297,
+            "CLLI_SEDE": "CHERITAK",
+            "NOME_CENTR": "SANTENA",
+            "COMUNE": "SANTENA",
+            "ISTAT_COMU": "001257",
+            "INDIRIZZO": "PRINCIPE AMEDEO 62",
+            "LATITUDINE": 44.948,
+            "LONGITUDIN": 7.767145,
+            "POINT_X": 402744.32727,
+            "POINT_Y": 4977913.19337,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.767145, 44.948]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1304,
+            "CLLI_SEDE": "CANEITAP",
+            "NOME_CENTR": "SANTO STEFANO BELBO",
+            "COMUNE": "SANTO STEFANO BELBO",
+            "ISTAT_COMU": "004213",
+            "INDIRIZZO": "VIA CESARE PAVESE",
+            "LATITUDINE": 44.708453,
+            "LONGITUDIN": 8.232606,
+            "POINT_X": 439211.654133,
+            "POINT_Y": 4950850.44771,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.232606, 44.708453]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1311,
+            "CLLI_SEDE": "SAVIITAD",
+            "NOME_CENTR": "SAVIGLIANO",
+            "COMUNE": "SAVIGLIANO",
+            "ISTAT_COMU": "004215",
+            "INDIRIZZO": "DANNA 4",
+            "LATITUDINE": 44.64791,
+            "LONGITUDIN": 7.658701,
+            "POINT_X": 393639.522238,
+            "POINT_Y": 4944713.85637,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.658701, 44.64791]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1333,
+            "CLLI_SEDE": "SESCITAL",
+            "NOME_CENTR": "SERRAVALLE SCRIVIA",
+            "COMUNE": "SERRAVALLE SCRIVIA",
+            "ISTAT_COMU": "006160",
+            "INDIRIZZO": "GRAMSCI",
+            "LATITUDINE": 44.724132,
+            "LONGITUDIN": 8.855455,
+            "POINT_X": 488553.113735,
+            "POINT_Y": 4952315.89102,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.855455, 44.724132]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1334,
+            "CLLI_SEDE": "BORGITAE",
+            "NOME_CENTR": "SERRAVALLE SESIA",
+            "COMUNE": "SERRAVALLE SESIA",
+            "ISTAT_COMU": "002137",
+            "INDIRIZZO": "GRAMSCI",
+            "LATITUDINE": 45.68624,
+            "LONGITUDIN": 8.311598,
+            "POINT_X": 446394.945468,
+            "POINT_Y": 5059417.9678,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.311598, 45.68624]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1364,
+            "CLLI_SEDE": "ALESITAE",
+            "NOME_CENTR": "SPINETTA MARENGO",
+            "COMUNE": "ALESSANDRIA",
+            "ISTAT_COMU": "006003",
+            "INDIRIZZO": "QUARTIERUZZI",
+            "LATITUDINE": 44.881574,
+            "LONGITUDIN": 8.685634,
+            "POINT_X": 475172.1875,
+            "POINT_Y": 4969843,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.685634, 44.881574]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1365,
+            "CLLI_SEDE": "IVREITAV",
+            "NOME_CENTR": "STRAMBINO",
+            "COMUNE": "STRAMBINO",
+            "ISTAT_COMU": "001269",
+            "INDIRIZZO": "CONTI SAN MARTINO",
+            "LATITUDINE": 45.384536,
+            "LONGITUDIN": 7.880922,
+            "POINT_X": 412391.59375,
+            "POINT_Y": 5026278,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.880922, 45.384536]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1373,
+            "CLLI_SEDE": "SUSAITAH",
+            "NOME_CENTR": "SUSA",
+            "COMUNE": "SUSA",
+            "ISTAT_COMU": "001270",
+            "INDIRIZZO": "CORSO INGHILTERRA 41",
+            "LATITUDINE": 45.138153,
+            "LONGITUDIN": 7.051525,
+            "POINT_X": 346799.993714,
+            "POINT_Y": 5000144.36902,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.051525, 45.138153]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1441,
+            "CLLI_SEDE": "TORIITAT",
+            "NOME_CENTR": "TORINO AERONAUTICA",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA DE AMICIS 67",
+            "LATITUDINE": 45.075441,
+            "LONGITUDIN": 7.593955,
+            "POINT_X": 389327.706503,
+            "POINT_Y": 4992292.61281,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.593955, 45.075441]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1443,
+            "CLLI_SEDE": "TORIITCD",
+            "NOME_CENTR": "TORINO ALTESSANO",
+            "COMUNE": "VENARIA REALE",
+            "ISTAT_COMU": "001292",
+            "INDIRIZZO": "LEONARDO DA VINCI",
+            "LATITUDINE": 45.043986,
+            "LONGITUDIN": 7.668516,
+            "POINT_X": 395139,
+            "POINT_Y": 4988699,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.668516, 45.043986]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1444,
+            "CLLI_SEDE": "TORIITCC",
+            "NOME_CENTR": "TORINO BARCA",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA DAMIANO CHIESA 37",
+            "LATITUDINE": 45.100512,
+            "LONGITUDIN": 7.728139,
+            "POINT_X": 399933.349818,
+            "POINT_Y": 4994902.91008,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.728139, 45.100512]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1447,
+            "CLLI_SEDE": "TORIITAR",
+            "NOME_CENTR": "TORINO BEINASCO",
+            "COMUNE": "BEINASCO",
+            "ISTAT_COMU": "001024",
+            "INDIRIZZO": "DI NANNI 4",
+            "LATITUDINE": 45.023631,
+            "LONGITUDIN": 7.579485,
+            "POINT_X": 388087.687486,
+            "POINT_Y": 4986557.00023,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.579485, 45.023631]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1448,
+            "CLLI_SEDE": "TORIITAS",
+            "NOME_CENTR": "TORINO BORGARETTO",
+            "COMUNE": "BEINASCO",
+            "ISTAT_COMU": "001024",
+            "INDIRIZZO": "VIA DON MINZONI 7/9",
+            "LATITUDINE": 45.004133,
+            "LONGITUDIN": 7.605596,
+            "POINT_X": 390107.525424,
+            "POINT_Y": 4984355.27952,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.605596, 45.004133]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1449,
+            "CLLI_SEDE": "TORIITAN",
+            "NOME_CENTR": "TORINO BORGARO",
+            "COMUNE": "BORGARO TORINESE",
+            "ISTAT_COMU": "001028",
+            "INDIRIZZO": "VIA CASELLE 27",
+            "LATITUDINE": 45.152929,
+            "LONGITUDIN": 7.655835,
+            "POINT_X": 394341.445541,
+            "POINT_Y": 5000817.84121,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.655835, 45.152929]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1452,
+            "CLLI_SEDE": "TORIITAZ",
+            "NOME_CENTR": "TORINO BORGO PO2",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA MATTEO PESCATORE 6",
+            "LATITUDINE": 45.065935,
+            "LONGITUDIN": 7.695981,
+            "POINT_X": 397341.318952,
+            "POINT_Y": 4991102.05024,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.695981, 45.065935]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1453,
+            "CLLI_SEDE": "TORIITBN",
+            "NOME_CENTR": "TORINO BORINGHIERI",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA FREJUS 3",
+            "LATITUDINE": 45.071202,
+            "LONGITUDIN": 7.652974,
+            "POINT_X": 393965.358608,
+            "POINT_Y": 4991742.59989,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.652974, 45.071202]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1454,
+            "CLLI_SEDE": "TORIITBF",
+            "NOME_CENTR": "TORINO CAVORETTO",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "XXV APRILE 8",
+            "LATITUDINE": 45.033914,
+            "LONGITUDIN": 7.685325,
+            "POINT_X": 396444.606385,
+            "POINT_Y": 4987558.47158,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.685325, 45.033914]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1455,
+            "CLLI_SEDE": "TORIITAX",
+            "NOME_CENTR": "TORINO CENTRO",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA MERCANTINI 9",
+            "LATITUDINE": 45.069374,
+            "LONGITUDIN": 7.674969,
+            "POINT_X": 395693.421893,
+            "POINT_Y": 4991510.99985,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.674969, 45.069374]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1456,
+            "CLLI_SEDE": "TORIITCE",
+            "NOME_CENTR": "TORINO CRIMEA",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIALE THOVEZ",
+            "LATITUDINE": 45.055309,
+            "LONGITUDIN": 7.696508,
+            "POINT_X": 397363.8125,
+            "POINT_Y": 4989921,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.696508, 45.055309]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1457,
+            "CLLI_SEDE": "TORIITBB",
+            "NOME_CENTR": "TORINO CROCETTA",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA CASSINI 50",
+            "LATITUDINE": 45.055109,
+            "LONGITUDIN": 7.661984,
+            "POINT_X": 394645.025747,
+            "POINT_Y": 4989943.14023,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.661984, 45.055109]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1458,
+            "CLLI_SEDE": "TORIITBJ",
+            "NOME_CENTR": "TORINO DROSSO",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "STR VICINALE DEL DROSSO",
+            "LATITUDINE": 45.013848,
+            "LONGITUDIN": 7.622291,
+            "POINT_X": 391441.59375,
+            "POINT_Y": 4985412,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.622291, 45.013848]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1460,
+            "CLLI_SEDE": "TORIITBT",
+            "NOME_CENTR": "TORINO FRANCIA",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "CSO SVIZZERA 37",
+            "LATITUDINE": 45.07905,
+            "LONGITUDIN": 7.649712,
+            "POINT_X": 393723.123513,
+            "POINT_Y": 4992618.78021,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.649712, 45.07905]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1462,
+            "CLLI_SEDE": "",
+            "NOME_CENTR": "TORINO LANCIA",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA LANCIA 55",
+            "LATITUDINE": 45.061338,
+            "LONGITUDIN": 7.639656,
+            "POINT_X": 392898.575764,
+            "POINT_Y": 4990664.39004,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.639656, 45.061338]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1463,
+            "CLLI_SEDE": "TORIITBS",
+            "NOME_CENTR": "TORINO LESNA",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA CHALLANT 38/3",
+            "LATITUDINE": 45.061731,
+            "LONGITUDIN": 7.617234,
+            "POINT_X": 391133.953089,
+            "POINT_Y": 4990738.00017,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.617234, 45.061731]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1464,
+            "CLLI_SEDE": "TORIITAV",
+            "NOME_CENTR": "TORINO LEUMANN",
+            "COMUNE": "COLLEGNO",
+            "ISTAT_COMU": "001090",
+            "INDIRIZZO": "CSO FERRUCCI 1",
+            "LATITUDINE": 45.075667,
+            "LONGITUDIN": 7.567131,
+            "POINT_X": 387216.766064,
+            "POINT_Y": 4992354.66977,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.567131, 45.075667]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1465,
+            "CLLI_SEDE": "",
+            "NOME_CENTR": "TORINO LEUMANN - COLLEGNO",
+            "COMUNE": "GRUGLIASCO",
+            "ISTAT_COMU": "001120",
+            "INDIRIZZO": "CORSO FERRUCCI, 1",
+            "LATITUDINE": 45.062344,
+            "LONGITUDIN": 7.577941,
+            "POINT_X": 388041.60807,
+            "POINT_Y": 4990859.68023,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.577941, 45.062344]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1470,
+            "CLLI_SEDE": "TORIITBE",
+            "NOME_CENTR": "TORINO LINGOTTO",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA ELLERO 15",
+            "LATITUDINE": 45.036397,
+            "LONGITUDIN": 7.670222,
+            "POINT_X": 395259.487884,
+            "POINT_Y": 4987853.75989,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.670222, 45.036397]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1471,
+            "CLLI_SEDE": "TORIITBX",
+            "NOME_CENTR": "TORINO LUCENTO",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "COGNETTI DE MARTIIS 51",
+            "LATITUDINE": 45.099745,
+            "LONGITUDIN": 7.652814,
+            "POINT_X": 394005.510519,
+            "POINT_Y": 4994913.61998,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.652814, 45.099745]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1474,
+            "CLLI_SEDE": "TORIITBV",
+            "NOME_CENTR": "TORINO MADONNA DI CAMPAGNA",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA CARDINALE MASSAIA 22",
+            "LATITUDINE": 45.096919,
+            "LONGITUDIN": 7.672938,
+            "POINT_X": 395583.712789,
+            "POINT_Y": 4994573.53722,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.672938, 45.096919]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1475,
+            "CLLI_SEDE": "TORIITBK",
+            "NOME_CENTR": "TORINO MIRAFIORI EST",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "CSO UNIONE SOVIETICA 563",
+            "LATITUDINE": 45.015706,
+            "LONGITUDIN": 7.628313,
+            "POINT_X": 391919.578177,
+            "POINT_Y": 4985610.25002,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.628313, 45.015706]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1476,
+            "CLLI_SEDE": "TORIITAD",
+            "NOME_CENTR": "TORINO MONCALIERI",
+            "COMUNE": "MONCALIERI",
+            "ISTAT_COMU": "001156",
+            "INDIRIZZO": "VIA CRISTOFORO COLOMBO 7",
+            "LATITUDINE": 44.998411,
+            "LONGITUDIN": 7.68385,
+            "POINT_X": 396264.391012,
+            "POINT_Y": 4983616.39942,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.68385, 44.998411]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1477,
+            "CLLI_SEDE": "TORIITCA",
+            "NOME_CENTR": "TORINO MONTEROSA",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA MONTE ROSA 154",
+            "LATITUDINE": 45.09898,
+            "LONGITUDIN": 7.700745,
+            "POINT_X": 397775.326033,
+            "POINT_Y": 4994766.99328,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.700745, 45.09898]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1478,
+            "CLLI_SEDE": "TORIITAL",
+            "NOME_CENTR": "TORINO NICHELINO",
+            "COMUNE": "NICHELINO",
+            "ISTAT_COMU": "001164",
+            "INDIRIZZO": "VIA TORINO 210/6",
+            "LATITUDINE": 44.993488,
+            "LONGITUDIN": 7.645026,
+            "POINT_X": 393195.178409,
+            "POINT_Y": 4983119.97833,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.645026, 44.993488]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1479,
+            "CLLI_SEDE": "TORIITBY",
+            "NOME_CENTR": "TORINO PALAZZO CITTA",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA COTTOLENGO 23",
+            "LATITUDINE": 45.079812,
+            "LONGITUDIN": 7.678034,
+            "POINT_X": 395953.626079,
+            "POINT_Y": 4992666.54986,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.678034, 45.079812]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1480,
+            "CLLI_SEDE": "TORIITBH",
+            "NOME_CENTR": "TORINO PASSO BUOLE",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA SIDOLI 11",
+            "LATITUDINE": 45.026865,
+            "LONGITUDIN": 7.646759,
+            "POINT_X": 393393.72054,
+            "POINT_Y": 4986825.43981,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.646759, 45.026865]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1483,
+            "CLLI_SEDE": "TORIITBU",
+            "NOME_CENTR": "TORINO POZZO STRADA",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA BELLARDI 12",
+            "LATITUDINE": 45.076159,
+            "LONGITUDIN": 7.622678,
+            "POINT_X": 391589.8836,
+            "POINT_Y": 4992333.45989,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.622678, 45.076159]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1484,
+            "CLLI_SEDE": "TORIITAU",
+            "NOME_CENTR": "TORINO REGINA MARGHERITA",
+            "COMUNE": "COLLEGNO",
+            "ISTAT_COMU": "001090",
+            "INDIRIZZO": "VIA DON BOSCO 3",
+            "LATITUDINE": 45.081826,
+            "LONGITUDIN": 7.671819,
+            "POINT_X": 395468.146265,
+            "POINT_Y": 4992898.2902,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.671819, 45.081826]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1486,
+            "CLLI_SEDE": "TORIITBL",
+            "NOME_CENTR": "TORINO S. LUIGI",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA GONIN 12",
+            "LATITUDINE": 45.039311,
+            "LONGITUDIN": 7.625329,
+            "POINT_X": 391729.000714,
+            "POINT_Y": 4988236.49562,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.625329, 45.039311]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1488,
+            "CLLI_SEDE": "TORIITAW",
+            "NOME_CENTR": "TORINO S. MAURO",
+            "COMUNE": "SAN MAURO TORINESE",
+            "ISTAT_COMU": "001249",
+            "INDIRIZZO": "VIA CESARE BATTISTI 17",
+            "LATITUDINE": 45.099866,
+            "LONGITUDIN": 7.765047,
+            "POINT_X": 402836.050538,
+            "POINT_Y": 4994786.13848,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.765047, 45.099866]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1489,
+            "CLLI_SEDE": "TORIITBQ",
+            "NOME_CENTR": "TORINO S. PAOLO",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA LANCIA 5",
+            "LATITUDINE": 45.060784,
+            "LONGITUDIN": 7.644533,
+            "POINT_X": 393281.489813,
+            "POINT_Y": 4990596.36979,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.644533, 45.060784]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1490,
+            "CLLI_SEDE": "TORIITAM",
+            "NOME_CENTR": "TORINO S. PIETRO",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "PZA NAZARIO SAURO-&gt;12",
+            "LATITUDINE": 45.010966,
+            "LONGITUDIN": 7.657797,
+            "POINT_X": 394234.025203,
+            "POINT_Y": 4985044.86404,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.657797, 45.010966]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1491,
+            "CLLI_SEDE": "TORIITBM",
+            "NOME_CENTR": "TORINO S. RITA",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA TRIPOLI 96",
+            "LATITUDINE": 45.043755,
+            "LONGITUDIN": 7.644987,
+            "POINT_X": 393285.561011,
+            "POINT_Y": 4988704.03995,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.644987, 45.043755]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1492,
+            "CLLI_SEDE": "TORIITBA",
+            "NOME_CENTR": "TORINO S. SALVARIO",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "CSO MARCONI 36",
+            "LATITUDINE": 45.054928,
+            "LONGITUDIN": 7.683505,
+            "POINT_X": 396339.281222,
+            "POINT_Y": 4989895.24996,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.683505, 45.054928]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1493,
+            "CLLI_SEDE": "TORIITBD",
+            "NOME_CENTR": "TORINO SASSI",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "PZA PASINI ANG. V.AGUDIO",
+            "LATITUDINE": 45.07563,
+            "LONGITUDIN": 7.729617,
+            "POINT_X": 400006.1875,
+            "POINT_Y": 4992137,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.729617, 45.07563]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1494,
+            "CLLI_SEDE": "TORIITAP",
+            "NOME_CENTR": "TORINO SAVONERA",
+            "COMUNE": "VENARIA REALE",
+            "ISTAT_COMU": "001292",
+            "INDIRIZZO": "DRUENTO 27",
+            "LATITUDINE": 45.113069,
+            "LONGITUDIN": 7.656859,
+            "POINT_X": 394348.36787,
+            "POINT_Y": 4996388.56383,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.656859, 45.113069]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1495,
+            "CLLI_SEDE": "TORIITAJ",
+            "NOME_CENTR": "TORINO SETTIMO",
+            "COMUNE": "SETTIMO TORINESE",
+            "ISTAT_COMU": "001265",
+            "INDIRIZZO": "VIA CAVOUR 18",
+            "LATITUDINE": 45.137589,
+            "LONGITUDIN": 7.76753,
+            "POINT_X": 403095.307166,
+            "POINT_Y": 4998973.79626,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.76753, 45.137589]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1496,
+            "CLLI_SEDE": "TORIITAK",
+            "NOME_CENTR": "TORINO SETTIMO SUD",
+            "COMUNE": "SETTIMO TORINESE",
+            "ISTAT_COMU": "001265",
+            "INDIRIZZO": "VIA SAN BERNARDINO",
+            "LATITUDINE": 45.131482,
+            "LONGITUDIN": 7.766152,
+            "POINT_X": 402976.59375,
+            "POINT_Y": 4998297,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.766152, 45.131482]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1497,
+            "CLLI_SEDE": "TORIITBG",
+            "NOME_CENTR": "TORINO STADIO",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA ARDIGO' 13",
+            "LATITUDINE": 45.045054,
+            "LONGITUDIN": 7.662394,
+            "POINT_X": 394658.842078,
+            "POINT_Y": 4988825.57004,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.662394, 45.045054]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1498,
+            "CLLI_SEDE": "TORIITBW",
+            "NOME_CENTR": "TORINO STAMPALIA",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA ORBETELLO 30/32",
+            "LATITUDINE": 45.105648,
+            "LONGITUDIN": 7.6792,
+            "POINT_X": 396092.223813,
+            "POINT_Y": 4995535.18011,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.6792, 45.105648]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1499,
+            "CLLI_SEDE": "TORIITCB",
+            "NOME_CENTR": "TORINO STURA",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA CAVAGNOLO 26",
+            "LATITUDINE": 45.115844,
+            "LONGITUDIN": 7.706727,
+            "POINT_X": 398275.893153,
+            "POINT_Y": 4996632.82984,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.706727, 45.115844]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1500,
+            "CLLI_SEDE": "TORIITAF",
+            "NOME_CENTR": "TORINO TAGLIAFERRO - MONCALIERI",
+            "COMUNE": "MONCALIERI",
+            "ISTAT_COMU": "001156",
+            "INDIRIZZO": "STR.COMUN.TAGLIAFERRO 4",
+            "LATITUDINE": 44.978259,
+            "LONGITUDIN": 7.663408,
+            "POINT_X": 394616.251741,
+            "POINT_Y": 4981404.17518,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.663408, 44.978259]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1501,
+            "CLLI_SEDE": "TORIITAG",
+            "NOME_CENTR": "TORINO TESTONA",
+            "COMUNE": "MONCALIERI",
+            "ISTAT_COMU": "001156",
+            "INDIRIZZO": "STR LORETO 6",
+            "LATITUDINE": 44.995311,
+            "LONGITUDIN": 7.716117,
+            "POINT_X": 398802.148997,
+            "POINT_Y": 4983231.28159,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.716117, 44.995311]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1502,
+            "CLLI_SEDE": "TORIITAH",
+            "NOME_CENTR": "TORINO TROFARELLO",
+            "COMUNE": "TROFARELLO",
+            "ISTAT_COMU": "001280",
+            "INDIRIZZO": "VIALE XXIV MAGGIO 15",
+            "LATITUDINE": 44.981586,
+            "LONGITUDIN": 7.73857,
+            "POINT_X": 400548.194838,
+            "POINT_Y": 4981678.76009,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.73857, 44.981586]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1503,
+            "CLLI_SEDE": "TORIITBC",
+            "NOME_CENTR": "TORINO V. S. MARTINO",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "CSO QUINTINO SELLA",
+            "LATITUDINE": 45.066059,
+            "LONGITUDIN": 7.718943,
+            "POINT_X": 399149.1875,
+            "POINT_Y": 4991087,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.718943, 45.066059]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1504,
+            "CLLI_SEDE": "TORIITBP",
+            "NOME_CENTR": "TORINO VALDOCCO",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA DON BOSCO 25",
+            "LATITUDINE": 45.082901,
+            "LONGITUDIN": 7.668274,
+            "POINT_X": 395191.115435,
+            "POINT_Y": 4993022.29995,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.668274, 45.082901]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1505,
+            "CLLI_SEDE": "TORIITBZ",
+            "NOME_CENTR": "TORINO VANCHIGLIA",
+            "COMUNE": "TORINO",
+            "ISTAT_COMU": "001272",
+            "INDIRIZZO": "VIA NOVI 6",
+            "LATITUDINE": 45.085594,
+            "LONGITUDIN": 7.694521,
+            "POINT_X": 397261.596323,
+            "POINT_Y": 4993287.82976,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.694521, 45.085594]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1506,
+            "CLLI_SEDE": "TORIITAQ",
+            "NOME_CENTR": "TORINO VENARIA",
+            "COMUNE": "VENARIA REALE",
+            "ISTAT_COMU": "001292",
+            "INDIRIZZO": "MEDICI DEL VASCELLO 12",
+            "LATITUDINE": 45.133209,
+            "LONGITUDIN": 7.631689,
+            "POINT_X": 392406.39115,
+            "POINT_Y": 4998659.06342,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.631689, 45.133209]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1511,
+            "CLLI_SEDE": "TOPEITAF",
+            "NOME_CENTR": "TORRE PELLICE",
+            "COMUNE": "TORRE PELLICE",
+            "ISTAT_COMU": "001275",
+            "INDIRIZZO": "CSO J. LOMBARDINI-&gt;",
+            "LATITUDINE": 44.820547,
+            "LONGITUDIN": 7.223641,
+            "POINT_X": 359559.205913,
+            "POINT_Y": 4964550.6002,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.223641, 44.820547]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1515,
+            "CLLI_SEDE": "TRTOITAF",
+            "NOME_CENTR": "TORTONA",
+            "COMUNE": "TORTONA",
+            "ISTAT_COMU": "006174",
+            "INDIRIZZO": "CSO LEONIERO 62 BIS",
+            "LATITUDINE": 44.898497,
+            "LONGITUDIN": 8.862711,
+            "POINT_X": 489160.458806,
+            "POINT_Y": 4971683.94635,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.862711, 44.898497]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1524,
+            "CLLI_SEDE": "TRECITAC",
+            "NOME_CENTR": "TRECATE",
+            "COMUNE": "TRECATE",
+            "ISTAT_COMU": "003149",
+            "INDIRIZZO": "ADUA 97",
+            "LATITUDINE": 45.432039,
+            "LONGITUDIN": 8.737518,
+            "POINT_X": 479468.465958,
+            "POINT_Y": 5030979.78486,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.737518, 45.432039]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1534,
+            "CLLI_SEDE": "VAMOITAC",
+            "NOME_CENTR": "TRIVERO",
+            "COMUNE": "TRIVERO",
+            "ISTAT_COMU": "096070",
+            "INDIRIZZO": "ROMA",
+            "LATITUDINE": 45.66959,
+            "LONGITUDIN": 8.162831,
+            "POINT_X": 434791.355427,
+            "POINT_Y": 5057678.52801,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.162831, 45.66959]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1544,
+            "CLLI_SEDE": "BIELITAY",
+            "NOME_CENTR": "VALDENGO",
+            "COMUNE": "VALDENGO",
+            "ISTAT_COMU": "096071",
+            "INDIRIZZO": "QUINTINO SELLA 47",
+            "LATITUDINE": 45.563421,
+            "LONGITUDIN": 8.140362,
+            "POINT_X": 432914.696006,
+            "POINT_Y": 5045901.7704,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.140362, 45.563421]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1549,
+            "CLLI_SEDE": "VLENITAD",
+            "NOME_CENTR": "VALENZA",
+            "COMUNE": "VALENZA",
+            "ISTAT_COMU": "006177",
+            "INDIRIZZO": "VIA FELICE CAVALLOTTI-&gt;14/18",
+            "LATITUDINE": 45.013283,
+            "LONGITUDIN": 8.643399,
+            "POINT_X": 471900.866751,
+            "POINT_Y": 4984487.8201,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.643399, 45.013283]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1558,
+            "CLLI_SEDE": "VAMOITAG",
+            "NOME_CENTR": "VALLEMOSSO",
+            "COMUNE": "VALLE MOSSO",
+            "ISTAT_COMU": "096073",
+            "INDIRIZZO": "BACCONENGO",
+            "LATITUDINE": 45.633771,
+            "LONGITUDIN": 8.145866,
+            "POINT_X": 433427.5,
+            "POINT_Y": 5053713,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.145866, 45.633771]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1572,
+            "CLLI_SEDE": "VARAITAH",
+            "NOME_CENTR": "VARALLO",
+            "COMUNE": "VARALLO",
+            "ISTAT_COMU": "002156",
+            "INDIRIZZO": "VIA IV NOVEMBRE",
+            "LATITUDINE": 45.813514,
+            "LONGITUDIN": 8.25587,
+            "POINT_X": 442187.062906,
+            "POINT_Y": 5073597.1317,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.25587, 45.813514]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1574,
+            "CLLI_SEDE": "OLEGITAF",
+            "NOME_CENTR": "VARALLO POMBIA",
+            "COMUNE": "VARALLO POMBIA",
+            "ISTAT_COMU": "003154",
+            "INDIRIZZO": "CACCIA 1",
+            "LATITUDINE": 45.666493,
+            "LONGITUDIN": 8.630664,
+            "POINT_X": 471230.09375,
+            "POINT_Y": 5057060,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.630664, 45.666493]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1588,
+            "CLLI_SEDE": "VERCITAR",
+            "NOME_CENTR": "VERCELLI CENTRO B",
+            "COMUNE": "VERCELLI",
+            "ISTAT_COMU": "002158",
+            "INDIRIZZO": "VIA BAZZI 9",
+            "LATITUDINE": 45.322572,
+            "LONGITUDIN": 8.417573,
+            "POINT_X": 454354.1875,
+            "POINT_Y": 5018950,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.417573, 45.322572]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1589,
+            "CLLI_SEDE": "VERCITAS",
+            "NOME_CENTR": "VERCELLI SABOTINO",
+            "COMUNE": "VERCELLI",
+            "ISTAT_COMU": "002158",
+            "INDIRIZZO": "SABOTINO",
+            "LATITUDINE": 45.323861,
+            "LONGITUDIN": 8.403995,
+            "POINT_X": 453291.09375,
+            "POINT_Y": 5019101,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.403995, 45.323861]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1593,
+            "CLLI_SEDE": "BIELITAV",
+            "NOME_CENTR": "VERGNASCO",
+            "COMUNE": "CERRIONE",
+            "ISTAT_COMU": "096018",
+            "INDIRIZZO": "PAPA GIOVANNI XXIII 24",
+            "LATITUDINE": 45.492217,
+            "LONGITUDIN": 8.087873,
+            "POINT_X": 428728.69465,
+            "POINT_Y": 5038036.43498,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.087873, 45.492217]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1596,
+            "CLLI_SEDE": "BIELITAA",
+            "NOME_CENTR": "VERRONE",
+            "COMUNE": "VERRONE",
+            "ISTAT_COMU": "096076",
+            "INDIRIZZO": "STRADA STATALE BI-VC 230",
+            "LATITUDINE": 45.504133,
+            "LONGITUDIN": 8.119578,
+            "POINT_X": 431220.542217,
+            "POINT_Y": 5039332.62501,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.119578, 45.504133]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1600,
+            "CLLI_SEDE": "SALUITAL",
+            "NOME_CENTR": "VERZUOLO",
+            "COMUNE": "VERZUOLO",
+            "ISTAT_COMU": "004240",
+            "INDIRIZZO": "CANALASSA 8",
+            "LATITUDINE": 44.602215,
+            "LONGITUDIN": 7.48385,
+            "POINT_X": 379680.080276,
+            "POINT_Y": 4939881.06385,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.48385, 44.602215]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1619,
+            "CLLI_SEDE": "NONEITAH",
+            "NOME_CENTR": "VIGONE",
+            "COMUNE": "VIGONE",
+            "ISTAT_COMU": "001299",
+            "INDIRIZZO": "NINO BUFFA 11",
+            "LATITUDINE": 44.840107,
+            "LONGITUDIN": 7.498622,
+            "POINT_X": 381339.700716,
+            "POINT_Y": 4966284.94834,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.498622, 44.840107]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1626,
+            "CLLI_SEDE": "DOMOITAF",
+            "NOME_CENTR": "VILLADOSSOLA",
+            "COMUNE": "VILLADOSSOLA",
+            "ISTAT_COMU": "103075",
+            "INDIRIZZO": "FABBRI 47",
+            "LATITUDINE": 46.064833,
+            "LONGITUDIN": 8.262805,
+            "POINT_X": 442984.049122,
+            "POINT_Y": 5101515.07747,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.262805, 46.064833]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1628,
+            "CLLI_SEDE": "VIASITAL",
+            "NOME_CENTR": "VILLAFRANCA D'ASTI B",
+            "COMUNE": "VILLAFRANCA D'ASTI",
+            "ISTAT_COMU": "005117",
+            "INDIRIZZO": "VIA DELLE ROSE 9",
+            "LATITUDINE": 44.912127,
+            "LONGITUDIN": 8.0316,
+            "POINT_X": 423558.6875,
+            "POINT_Y": 4973645,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.0316, 44.912127]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1629,
+            "CLLI_SEDE": "NONEITAQ",
+            "NOME_CENTR": "VILLAFRANCA PIEMONTE B",
+            "COMUNE": "VILLAFRANCA PIEMONTE",
+            "ISTAT_COMU": "001300",
+            "INDIRIZZO": "PIAVE 3",
+            "LATITUDINE": 44.782956,
+            "LONGITUDIN": 7.506176,
+            "POINT_X": 381820.005675,
+            "POINT_Y": 4959925.35347,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.506176, 44.782956]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1633,
+            "CLLI_SEDE": "VIASITAM",
+            "NOME_CENTR": "VILLANOVA D'ASTI B",
+            "COMUNE": "VILLANOVA D'ASTI",
+            "ISTAT_COMU": "005118",
+            "INDIRIZZO": "VIA VILLA 3",
+            "LATITUDINE": 44.945312,
+            "LONGITUDIN": 7.936865,
+            "POINT_X": 416129,
+            "POINT_Y": 4977425,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.936865, 44.945312]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1635,
+            "CLLI_SEDE": "CAMOITAF",
+            "NOME_CENTR": "VILLANOVA MONFERRATO",
+            "COMUNE": "VILLANOVA MONFERRATO",
+            "ISTAT_COMU": "006185",
+            "INDIRIZZO": "VITTORIO VENETO 19",
+            "LATITUDINE": 45.182297,
+            "LONGITUDIN": 8.479345,
+            "POINT_X": 459094.739929,
+            "POINT_Y": 5003333.43795,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.479345, 45.182297]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1637,
+            "CLLI_SEDE": "VIASITAU",
+            "NOME_CENTR": "VILLANOVA STAZIONE 2",
+            "COMUNE": "VILLANOVA D'ASTI",
+            "ISTAT_COMU": "005118",
+            "INDIRIZZO": "STR BUTTIGLIERA 148",
+            "LATITUDINE": 44.962968,
+            "LONGITUDIN": 7.949075,
+            "POINT_X": 417117.683392,
+            "POINT_Y": 4979373.7953,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.949075, 44.962968]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1639,
+            "CLLI_SEDE": "PINEITAT",
+            "NOME_CENTR": "VILLAR PEROSA",
+            "COMUNE": "VILLAR PEROSA",
+            "ISTAT_COMU": "001307",
+            "INDIRIZZO": "DANTE ALIGHIERI",
+            "LATITUDINE": 44.921352,
+            "LONGITUDIN": 7.246046,
+            "POINT_X": 361572.5,
+            "POINT_Y": 4975710,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.246046, 44.921352]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1654,
+            "CLLI_SEDE": "VINOITAC",
+            "NOME_CENTR": "VINOVO",
+            "COMUNE": "VINOVO",
+            "ISTAT_COMU": "001309",
+            "INDIRIZZO": "STUPINIGI 30",
+            "LATITUDINE": 44.953767,
+            "LONGITUDIN": 7.627459,
+            "POINT_X": 391735.771691,
+            "POINT_Y": 4978730.80523,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.627459, 44.953767]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1669,
+            "CLLI_SEDE": "VOLPITAE",
+            "NOME_CENTR": "VOLPIANO",
+            "COMUNE": "VOLPIANO",
+            "ISTAT_COMU": "001314",
+            "INDIRIZZO": "GIUSEPPE RAIMONDO 22",
+            "LATITUDINE": 45.202684,
+            "LONGITUDIN": 7.77805,
+            "POINT_X": 404031.848959,
+            "POINT_Y": 5006192.62858,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.77805, 45.202684]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "ID_Central": 1673,
+            "CLLI_SEDE": "NONEITAB",
+            "NOME_CENTR": "VOLVERA",
+            "COMUNE": "VOLVERA",
+            "ISTAT_COMU": "001315",
+            "INDIRIZZO": "MAZZINI 7",
+            "LATITUDINE": 44.959308,
+            "LONGITUDIN": 7.514489,
+            "POINT_X": 382836.099733,
+            "POINT_Y": 4979503.4395,
+            "TIPO_ADSL": "ADSL_2P",
+            "Desc_TIPO": "ADSL 2+ (24 mega)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.514489, 44.959308]
+        }
+    }]
+}

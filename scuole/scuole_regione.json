@@ -1,0 +1,34 @@
+{
+  "regione" : {
+    
+      "PIEMONTE":{
+      "N_SCUOLE" : 3093,
+      "N_STUDENTI" : 413371,
+      "caratteristiche":{
+      "1_sito attivo" : 0.7738184543997421,
+      "1_raccolta feedback, giudizi, suggerimenti" : 0.08411419399475413,
+      "1_possibilità pubblicazione User Generated Content" : 0.2386757285883773,
+      "1_forum, chat, blog, fotoblog" : 0.07330379441110894
+       },
+       "informazioni":{      
+"2_recapiti scuola" : 0.724189148844501,
+      "2_PEC" : 0.21996947880438328,
+      "2_Organigramma" : 0.2287397081766102,
+      "2_Organizzazione" : 0.14318323019065435,
+      "2_Orari apertura al pubblico" : 0.5546715225368495,
+      "2_Orari docenti" : 0.19046769767763602,
+      "2_POF" : 0.5718025529371906,
+      "2_Elenco docenti" : 0.21969082366471135,
+      "2_Libri di testo" : 0.23744862695527294,
+      "2_N. attività extra curr." : 0.1540689567218569,
+      "2_Laboratori" : 0.23760488196859492
+      },
+      "servizi":{
+"3_Iscrizione" : 0.37445003678770644,
+      "3_Mensa" : 0.13486117299067354,
+      "3_Biblioteca" : 0.07518263062789156,
+      "3_Registro on-line" : 0.04378462157342046
+}
+}    
+  }
+}

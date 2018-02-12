@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript" src="polymaps.js"></script>
+    <script type="text/javascript" src="lib/jquery/jquery.min.js"></script>
+        <script type="text/javascript" src="lib/d3/d3.js"></script>
+       <script type="text/javascript" src="lib/jquery-ui/jquery-ui-1.8.18.custom.min.js"></script>
+
+    <style type="text/css">
+
+@import url("style.css");
+	#tooltip { background: whitesmoke; padding: 5px; border: 1px solid #ddd; position: absolute; };
+
+    </style>
+  </head>
+  <body>
+    <div id="container">
+    	<div id="map_title"><h3>Centrali Piemonte</h3></div>
+		<div id="map_container">
+			<div id="map">
+			<!-- 
+<span id="copy">
+			  &copy; 2010
+			  <a href="http://www.cloudmade.com/">CloudMade</a>,
+			  <a href="http://www.openstreetmap.org/">OpenStreetMap</a> contributors,
+			  <a href="http://creativecommons.org/licenses/by-sa/2.0/">CCBYSA</a>.
+			</span>
+-->
+			
+			</div>
+			<div id="data">
+				<div id="legenda">
+				<svg width="225" height="100">
+				<g transform="translate( 0, 15)">
+				<rect height="15" width="50" fill="#b93936"></rect>
+				<text x="55" y="13" fill="grey" font-size="80%">ADSL 2+ (24 MEGA)</text>
+				</g>
+				<g transform="translate( 0, 35)">
+				<rect  height="15" width="50" fill="#ea7e24"></rect>
+				<text x="55" y="13" fill="grey" font-size="80%">ADSL (8 MEGA)</text>
+				</g>
+				<g transform="translate( 0, 55)">
+				<rect height="15" width="50" fill="#35627f"></rect>
+				<text x="55" y="13" fill="grey" font-size="80%">ADSL MINI</text>
+				</g>
+				<g transform="translate( 0, 75)">
+				<rect  height="15" width="50" fill="#85c0bc"></rect>
+				<text x="55" y="13" fill="grey" font-size="80%">NO ADSL</text>
+				</g>
+				</svg>
+				</div>
+				<div id="dati_centr">
+				<p onclick="map_back()" style="cursor:pointer">< tutte le centrali</p>
+				<h3 class="centr_potenza"></h3>
+				<p class="centr_nome"></p>
+				<p class="centr_indirizzo"></p>
+				<p class="centr_sezioni"></p>
+				<p class="centr_utenti"></p>
+				</div>
+				<div id="dati_sez">
+				<p class="sez_id"></p>
+				<p class="sez_potenza"></p>
+				<p class="sez_downoad">tempo per download:</p>
+				<svg class="chart" width="225" height="50"></svg>
+				<p class="sez_utenti"></p>
+				<p class="sez_distanza"></p>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+			<script type="text/javascript" src="CSI_centraline.js"></script>
+		</div>
+		<div class="clear"></div>
+    </div>
+    <div id="tooltip">I'm only over the zone!</div>
+  </body>
+</html>

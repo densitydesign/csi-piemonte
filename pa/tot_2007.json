@@ -1,0 +1,481 @@
+{
+  "totali" : {
+     "AL":
+    {
+      "caratteristiche":{
+      "Sito ufficiale" : 0.4105263157894737,
+      "Motore di ricerca" : 0.12105263157894737
+      },
+      "informazioni":{      
+      "informazioni URP" : null,
+      "PEC generica" : null
+      },
+      "trasparenza":{
+      "Indicatore performance trasparenza" : null,
+      "Albo Pretorio" : null,
+      "Pubblicazione Bilanci" : null,
+      "Bandi di gara" : null
+      },
+      "servizi":{
+      "Assegno nucleo familiare" : null,
+      "Autocertificazione anagrafica" : null,
+      "Autorizzazione sanitaria somministrazione-alimenti e bevande" : null,
+      "Autorizzazione Unica SUAP" : null,
+"Bandi di gara 2" : null,
+      "Concorsi pubblici" : null,
+      "Carta di identità" : null,
+      "Comunicazione vendite straordinarie/liquidazioni/saldi/promozioni" : null,
+      "Concessione occupazione suolo pubblico (COSAP – TOSAP)" : null,
+      "Concessione passo carrabile" : null,
+      "Consultazione cataloghi e prestito bibliotecario" : null,
+      "Contrassegno di invalidità" : null,
+      "Denuncia inizio attività edilizia (DIA edilizia)" : null,
+      "Dichiarazione cambio di abitazione" : null,
+      "Dichiarazione ICP" : null,
+      "Dichiarazione Inizio Attività produttive (DIA)" : null,
+      "Dichiarazione TARSU" : null,
+      "Iscrizione a corsi comunali" : null,
+      "Iscrizione asilo nido" : null,
+      "Iscrizione centri estivi" : null,
+      "Iscrizione servizio mensa scolastica" : null,
+      "Pagamento canone/tassa occupazione suolo e aree pubbliche (COSAP/TOSAP)" : null,
+      "Pagamento contravvenzioni" : null,
+      "Pagamento ICI" : null,
+      "Pagamento ICP" : null,
+      "Pagamento quote mensa scolastica" : null,
+      "Pagamento retta asilo nido comunale" : null,
+      "Pagamento  TARSU-TIA" : null,
+      "Permesso di transito per zone a traffico limitato (ZTL)" : null,
+      "Richiesta assistenza domiciliare" : null,
+      "Richiesta certificati anagrafici" : null,
+      "Richiesta esenzione pagamento mensa scolastica" : null,
+      "Segnalazione guasti / dissesto stradale" : null,
+      "Visura catastale" : null
+      }  
+},
+     "AT":
+    {
+      "caratteristiche":{
+      "Sito ufficiale" : 0.5254237288135594,
+      "Motore di ricerca" : 0.3559322033898305
+      },
+      "informazioni":{      
+      "informazioni URP" : null,
+      "PEC generica" : null
+      },
+      "trasparenza":{
+      "Indicatore performance trasparenza" : null,
+      "Albo Pretorio" : null,
+      "Pubblicazione Bilanci" : null,
+      "Bandi di gara" : null
+      },
+      "servizi":{
+      "Assegno nucleo familiare" : null,
+      "Autocertificazione anagrafica" : null,
+      "Autorizzazione sanitaria somministrazione-alimenti e bevande" : null,
+      "Autorizzazione Unica SUAP" : null,
+"Bandi di gara 2" : null,
+      "Concorsi pubblici" : null,
+      "Carta di identità" : null,
+      "Comunicazione vendite straordinarie/liquidazioni/saldi/promozioni" : null,
+      "Concessione occupazione suolo pubblico (COSAP – TOSAP)" : null,
+      "Concessione passo carrabile" : null,
+      "Consultazione cataloghi e prestito bibliotecario" : null,
+      "Contrassegno di invalidità" : null,
+      "Denuncia inizio attività edilizia (DIA edilizia)" : null,
+      "Dichiarazione cambio di abitazione" : null,
+      "Dichiarazione ICP" : null,
+      "Dichiarazione Inizio Attività produttive (DIA)" : null,
+      "Dichiarazione TARSU" : null,
+      "Iscrizione a corsi comunali" : null,
+      "Iscrizione asilo nido" : null,
+      "Iscrizione centri estivi" : null,
+      "Iscrizione servizio mensa scolastica" : null,
+      "Pagamento canone/tassa occupazione suolo e aree pubbliche (COSAP/TOSAP)" : null,
+      "Pagamento contravvenzioni" : null,
+      "Pagamento ICI" : null,
+      "Pagamento ICP" : null,
+      "Pagamento quote mensa scolastica" : null,
+      "Pagamento retta asilo nido comunale" : null,
+      "Pagamento  TARSU-TIA" : null,
+      "Permesso di transito per zone a traffico limitato (ZTL)" : null,
+      "Richiesta assistenza domiciliare" : null,
+      "Richiesta certificati anagrafici" : null,
+      "Richiesta esenzione pagamento mensa scolastica" : null,
+      "Segnalazione guasti / dissesto stradale" : null,
+      "Visura catastale" : null
+      }  
+},
+     "BI":
+    {
+      "caratteristiche":{
+      "Sito ufficiale" : 0.32926829268292684,
+      "Motore di ricerca" : 0.18292682926829268
+      },
+      "informazioni":{      
+      "informazioni URP" : null,
+      "PEC generica" : null
+      },
+      "trasparenza":{
+      "Indicatore performance trasparenza" : null,
+      "Albo Pretorio" : null,
+      "Pubblicazione Bilanci" : null,
+      "Bandi di gara" : null
+      },
+      "servizi":{
+      "Assegno nucleo familiare" : null,
+      "Autocertificazione anagrafica" : null,
+      "Autorizzazione sanitaria somministrazione-alimenti e bevande" : null,
+      "Autorizzazione Unica SUAP" : null,
+"Bandi di gara 2" : null,
+      "Concorsi pubblici" : null,
+      "Carta di identità" : null,
+      "Comunicazione vendite straordinarie/liquidazioni/saldi/promozioni" : null,
+      "Concessione occupazione suolo pubblico (COSAP – TOSAP)" : null,
+      "Concessione passo carrabile" : null,
+      "Consultazione cataloghi e prestito bibliotecario" : null,
+      "Contrassegno di invalidità" : null,
+      "Denuncia inizio attività edilizia (DIA edilizia)" : null,
+      "Dichiarazione cambio di abitazione" : null,
+      "Dichiarazione ICP" : null,
+      "Dichiarazione Inizio Attività produttive (DIA)" : null,
+      "Dichiarazione TARSU" : null,
+      "Iscrizione a corsi comunali" : null,
+      "Iscrizione asilo nido" : null,
+      "Iscrizione centri estivi" : null,
+      "Iscrizione servizio mensa scolastica" : null,
+      "Pagamento canone/tassa occupazione suolo e aree pubbliche (COSAP/TOSAP)" : null,
+      "Pagamento contravvenzioni" : null,
+      "Pagamento ICI" : null,
+      "Pagamento ICP" : null,
+      "Pagamento quote mensa scolastica" : null,
+      "Pagamento retta asilo nido comunale" : null,
+      "Pagamento  TARSU-TIA" : null,
+      "Permesso di transito per zone a traffico limitato (ZTL)" : null,
+      "Richiesta assistenza domiciliare" : null,
+      "Richiesta certificati anagrafici" : null,
+      "Richiesta esenzione pagamento mensa scolastica" : null,
+      "Segnalazione guasti / dissesto stradale" : null,
+      "Visura catastale" : null
+      }  
+},
+     "CN":
+    {
+      "caratteristiche":{
+      "Sito ufficiale" : 0.532,
+      "Motore di ricerca" : 0.152
+      },
+      "informazioni":{      
+      "informazioni URP" : null,
+      "PEC generica" : null
+      },
+      "trasparenza":{
+      "Indicatore performance trasparenza" : null,
+      "Albo Pretorio" : null,
+      "Pubblicazione Bilanci" : null,
+      "Bandi di gara" : null
+      },
+      "servizi":{
+      "Assegno nucleo familiare" : null,
+      "Autocertificazione anagrafica" : null,
+      "Autorizzazione sanitaria somministrazione-alimenti e bevande" : null,
+      "Autorizzazione Unica SUAP" : null,
+"Bandi di gara 2" : null,
+      "Concorsi pubblici" : null,
+      "Carta di identità" : null,
+      "Comunicazione vendite straordinarie/liquidazioni/saldi/promozioni" : null,
+      "Concessione occupazione suolo pubblico (COSAP – TOSAP)" : null,
+      "Concessione passo carrabile" : null,
+      "Consultazione cataloghi e prestito bibliotecario" : null,
+      "Contrassegno di invalidità" : null,
+      "Denuncia inizio attività edilizia (DIA edilizia)" : null,
+      "Dichiarazione cambio di abitazione" : null,
+      "Dichiarazione ICP" : null,
+      "Dichiarazione Inizio Attività produttive (DIA)" : null,
+      "Dichiarazione TARSU" : null,
+      "Iscrizione a corsi comunali" : null,
+      "Iscrizione asilo nido" : null,
+      "Iscrizione centri estivi" : null,
+      "Iscrizione servizio mensa scolastica" : null,
+      "Pagamento canone/tassa occupazione suolo e aree pubbliche (COSAP/TOSAP)" : null,
+      "Pagamento contravvenzioni" : null,
+      "Pagamento ICI" : null,
+      "Pagamento ICP" : null,
+      "Pagamento quote mensa scolastica" : null,
+      "Pagamento retta asilo nido comunale" : null,
+      "Pagamento  TARSU-TIA" : null,
+      "Permesso di transito per zone a traffico limitato (ZTL)" : null,
+      "Richiesta assistenza domiciliare" : null,
+      "Richiesta certificati anagrafici" : null,
+      "Richiesta esenzione pagamento mensa scolastica" : null,
+      "Segnalazione guasti / dissesto stradale" : null,
+      "Visura catastale" : null
+      }  
+},
+     "NO":
+    {
+      "caratteristiche":{
+      "Sito ufficiale" : 0.7159090909090909,
+      "Motore di ricerca" : 0.45454545454545453
+      },
+      "informazioni":{      
+      "informazioni URP" : null,
+      "PEC generica" : null
+      },
+      "trasparenza":{
+      "Indicatore performance trasparenza" : null,
+      "Albo Pretorio" : null,
+      "Pubblicazione Bilanci" : null,
+      "Bandi di gara" : null
+      },
+      "servizi":{
+      "Assegno nucleo familiare" : null,
+      "Autocertificazione anagrafica" : null,
+      "Autorizzazione sanitaria somministrazione-alimenti e bevande" : null,
+      "Autorizzazione Unica SUAP" : null,
+"Bandi di gara 2" : null,
+      "Concorsi pubblici" : null,
+      "Carta di identità" : null,
+      "Comunicazione vendite straordinarie/liquidazioni/saldi/promozioni" : null,
+      "Concessione occupazione suolo pubblico (COSAP – TOSAP)" : null,
+      "Concessione passo carrabile" : null,
+      "Consultazione cataloghi e prestito bibliotecario" : null,
+      "Contrassegno di invalidità" : null,
+      "Denuncia inizio attività edilizia (DIA edilizia)" : null,
+      "Dichiarazione cambio di abitazione" : null,
+      "Dichiarazione ICP" : null,
+      "Dichiarazione Inizio Attività produttive (DIA)" : null,
+      "Dichiarazione TARSU" : null,
+      "Iscrizione a corsi comunali" : null,
+      "Iscrizione asilo nido" : null,
+      "Iscrizione centri estivi" : null,
+      "Iscrizione servizio mensa scolastica" : null,
+      "Pagamento canone/tassa occupazione suolo e aree pubbliche (COSAP/TOSAP)" : null,
+      "Pagamento contravvenzioni" : null,
+      "Pagamento ICI" : null,
+      "Pagamento ICP" : null,
+      "Pagamento quote mensa scolastica" : null,
+      "Pagamento retta asilo nido comunale" : null,
+      "Pagamento  TARSU-TIA" : null,
+      "Permesso di transito per zone a traffico limitato (ZTL)" : null,
+      "Richiesta assistenza domiciliare" : null,
+      "Richiesta certificati anagrafici" : null,
+      "Richiesta esenzione pagamento mensa scolastica" : null,
+      "Segnalazione guasti / dissesto stradale" : null,
+      "Visura catastale" : null
+      }  
+},
+     "TO":
+    {
+      "caratteristiche":{
+      "Sito ufficiale" : 0.6761904761904762,
+      "Motore di ricerca" : 0.30158730158730157
+      },
+      "informazioni":{      
+      "informazioni URP" : null,
+      "PEC generica" : null
+      },
+      "trasparenza":{
+      "Indicatore performance trasparenza" : null,
+      "Albo Pretorio" : null,
+      "Pubblicazione Bilanci" : null,
+      "Bandi di gara" : null
+      },
+      "servizi":{
+      "Assegno nucleo familiare" : null,
+      "Autocertificazione anagrafica" : null,
+      "Autorizzazione sanitaria somministrazione-alimenti e bevande" : null,
+      "Autorizzazione Unica SUAP" : null,
+"Bandi di gara 2" : null,
+      "Concorsi pubblici" : null,
+      "Carta di identità" : null,
+      "Comunicazione vendite straordinarie/liquidazioni/saldi/promozioni" : null,
+      "Concessione occupazione suolo pubblico (COSAP – TOSAP)" : null,
+      "Concessione passo carrabile" : null,
+      "Consultazione cataloghi e prestito bibliotecario" : null,
+      "Contrassegno di invalidità" : null,
+      "Denuncia inizio attività edilizia (DIA edilizia)" : null,
+      "Dichiarazione cambio di abitazione" : null,
+      "Dichiarazione ICP" : null,
+      "Dichiarazione Inizio Attività produttive (DIA)" : null,
+      "Dichiarazione TARSU" : null,
+      "Iscrizione a corsi comunali" : null,
+      "Iscrizione asilo nido" : null,
+      "Iscrizione centri estivi" : null,
+      "Iscrizione servizio mensa scolastica" : null,
+      "Pagamento canone/tassa occupazione suolo e aree pubbliche (COSAP/TOSAP)" : null,
+      "Pagamento contravvenzioni" : null,
+      "Pagamento ICI" : null,
+      "Pagamento ICP" : null,
+      "Pagamento quote mensa scolastica" : null,
+      "Pagamento retta asilo nido comunale" : null,
+      "Pagamento  TARSU-TIA" : null,
+      "Permesso di transito per zone a traffico limitato (ZTL)" : null,
+      "Richiesta assistenza domiciliare" : null,
+      "Richiesta certificati anagrafici" : null,
+      "Richiesta esenzione pagamento mensa scolastica" : null,
+      "Segnalazione guasti / dissesto stradale" : null,
+      "Visura catastale" : null
+      }  
+},
+     "VCO":
+    {
+      "caratteristiche":{
+      "Sito ufficiale" : 0.5974025974025974,
+      "Motore di ricerca" : 0.36363636363636365
+      },
+      "informazioni":{      
+      "informazioni URP" : null,
+      "PEC generica" : null
+      },
+      "trasparenza":{
+      "Indicatore performance trasparenza" : null,
+      "Albo Pretorio" : null,
+      "Pubblicazione Bilanci" : null,
+      "Bandi di gara" : null
+      },
+      "servizi":{
+      "Assegno nucleo familiare" : null,
+      "Autocertificazione anagrafica" : null,
+      "Autorizzazione sanitaria somministrazione-alimenti e bevande" : null,
+      "Autorizzazione Unica SUAP" : null,
+"Bandi di gara 2" : null,
+      "Concorsi pubblici" : null,
+      "Carta di identità" : null,
+      "Comunicazione vendite straordinarie/liquidazioni/saldi/promozioni" : null,
+      "Concessione occupazione suolo pubblico (COSAP – TOSAP)" : null,
+      "Concessione passo carrabile" : null,
+      "Consultazione cataloghi e prestito bibliotecario" : null,
+      "Contrassegno di invalidità" : null,
+      "Denuncia inizio attività edilizia (DIA edilizia)" : null,
+      "Dichiarazione cambio di abitazione" : null,
+      "Dichiarazione ICP" : null,
+      "Dichiarazione Inizio Attività produttive (DIA)" : null,
+      "Dichiarazione TARSU" : null,
+      "Iscrizione a corsi comunali" : null,
+      "Iscrizione asilo nido" : null,
+      "Iscrizione centri estivi" : null,
+      "Iscrizione servizio mensa scolastica" : null,
+      "Pagamento canone/tassa occupazione suolo e aree pubbliche (COSAP/TOSAP)" : null,
+      "Pagamento contravvenzioni" : null,
+      "Pagamento ICI" : null,
+      "Pagamento ICP" : null,
+      "Pagamento quote mensa scolastica" : null,
+      "Pagamento retta asilo nido comunale" : null,
+      "Pagamento  TARSU-TIA" : null,
+      "Permesso di transito per zone a traffico limitato (ZTL)" : null,
+      "Richiesta assistenza domiciliare" : null,
+      "Richiesta certificati anagrafici" : null,
+      "Richiesta esenzione pagamento mensa scolastica" : null,
+      "Segnalazione guasti / dissesto stradale" : null,
+      "Visura catastale" : null
+      }  
+},
+     "VC":
+    {
+      "caratteristiche":{
+      "Sito ufficiale" : 0.26744186046511625,
+      "Motore di ricerca" : 0.10465116279069768
+      },
+      "informazioni":{      
+      "informazioni URP" : null,
+      "PEC generica" : null
+      },
+      "trasparenza":{
+      "Indicatore performance trasparenza" : null,
+      "Albo Pretorio" : null,
+      "Pubblicazione Bilanci" : null,
+      "Bandi di gara" : null
+      },
+      "servizi":{
+      "Assegno nucleo familiare" : null,
+      "Autocertificazione anagrafica" : null,
+      "Autorizzazione sanitaria somministrazione-alimenti e bevande" : null,
+      "Autorizzazione Unica SUAP" : null,
+"Bandi di gara 2" : null,
+      "Concorsi pubblici" : null,
+      "Carta di identità" : null,
+      "Comunicazione vendite straordinarie/liquidazioni/saldi/promozioni" : null,
+      "Concessione occupazione suolo pubblico (COSAP – TOSAP)" : null,
+      "Concessione passo carrabile" : null,
+      "Consultazione cataloghi e prestito bibliotecario" : null,
+      "Contrassegno di invalidità" : null,
+      "Denuncia inizio attività edilizia (DIA edilizia)" : null,
+      "Dichiarazione cambio di abitazione" : null,
+      "Dichiarazione ICP" : null,
+      "Dichiarazione Inizio Attività produttive (DIA)" : null,
+      "Dichiarazione TARSU" : null,
+      "Iscrizione a corsi comunali" : null,
+      "Iscrizione asilo nido" : null,
+      "Iscrizione centri estivi" : null,
+      "Iscrizione servizio mensa scolastica" : null,
+      "Pagamento canone/tassa occupazione suolo e aree pubbliche (COSAP/TOSAP)" : null,
+      "Pagamento contravvenzioni" : null,
+      "Pagamento ICI" : null,
+      "Pagamento ICP" : null,
+      "Pagamento quote mensa scolastica" : null,
+      "Pagamento retta asilo nido comunale" : null,
+      "Pagamento  TARSU-TIA" : null,
+      "Permesso di transito per zone a traffico limitato (ZTL)" : null,
+      "Richiesta assistenza domiciliare" : null,
+      "Richiesta certificati anagrafici" : null,
+      "Richiesta esenzione pagamento mensa scolastica" : null,
+      "Segnalazione guasti / dissesto stradale" : null,
+      "Visura catastale" : null
+      }  
+},
+     "PIEMONTE":
+    {
+      "caratteristiche":{
+      "Sito ufficiale" : 0.5067702952816551,
+      "Motore di ricerca" : 0.254541493349611
+      },
+      "informazioni":{      
+      "informazioni URP" : null,
+      "PEC generica" : null
+      },
+      "trasparenza":{
+      "Indicatore performance trasparenza" : null,
+      "Albo Pretorio" : null,
+      "Pubblicazione Bilanci" : null,
+      "Bandi di gara" : null
+      },
+      "servizi":{
+      "Assegno nucleo familiare" : null,
+      "Autocertificazione anagrafica" : null,
+      "Autorizzazione sanitaria somministrazione-alimenti e bevande" : null,
+      "Autorizzazione Unica SUAP" : null,
+"Bandi di gara 2" : null,
+      "Concorsi pubblici" : null,
+      "Carta di identità" : null,
+      "Comunicazione vendite straordinarie/liquidazioni/saldi/promozioni" : null,
+      "Concessione occupazione suolo pubblico (COSAP – TOSAP)" : null,
+      "Concessione passo carrabile" : null,
+      "Consultazione cataloghi e prestito bibliotecario" : null,
+      "Contrassegno di invalidità" : null,
+      "Denuncia inizio attività edilizia (DIA edilizia)" : null,
+      "Dichiarazione cambio di abitazione" : null,
+      "Dichiarazione ICP" : null,
+      "Dichiarazione Inizio Attività produttive (DIA)" : null,
+      "Dichiarazione TARSU" : null,
+      "Iscrizione a corsi comunali" : null,
+      "Iscrizione asilo nido" : null,
+      "Iscrizione centri estivi" : null,
+      "Iscrizione servizio mensa scolastica" : null,
+      "Pagamento canone/tassa occupazione suolo e aree pubbliche (COSAP/TOSAP)" : null,
+      "Pagamento contravvenzioni" : null,
+      "Pagamento ICI" : null,
+      "Pagamento ICP" : null,
+      "Pagamento quote mensa scolastica" : null,
+      "Pagamento retta asilo nido comunale" : null,
+      "Pagamento  TARSU-TIA" : null,
+      "Permesso di transito per zone a traffico limitato (ZTL)" : null,
+      "Richiesta assistenza domiciliare" : null,
+      "Richiesta certificati anagrafici" : null,
+      "Richiesta esenzione pagamento mensa scolastica" : null,
+      "Segnalazione guasti / dissesto stradale" : null,
+      "Visura catastale" : null
+      }  
+}
+  }
+}

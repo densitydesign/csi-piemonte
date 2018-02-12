@@ -1,0 +1,512 @@
+.provincia:hover, .comune:hover {
+		
+	fill-opacity: 0.4
+	
+	}
+	
+	
+.provincia, .comune {
+		
+	cursor:pointer;
+	
+	}
+	
+#tile {
+	
+	opacity:0.3;
+	
+	}
+	
+@font-face {
+    font-family: 'PTSerifBoldItalic';
+    src: url('ptserif/PTF76F-webfont.eot');
+    src: url('ptserif/PTF76F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ptserif/PTF76F-webfont.woff') format('woff'),
+         url('ptserif/PTF76F-webfont.ttf') format('truetype'),
+         url('ptserif/PTF76F-webfont.svg#PTSerifBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+	
+@font-face {
+    font-family: 'QuicksandBold';
+    src: url('quicksand/Quicksand_Bold-webfont.eot');
+    src: url('quicksand/Quicksand_Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('quicksand/Quicksand_Bold-webfont.woff') format('woff'),
+         url('quicksand/Quicksand_Bold-webfont.ttf') format('truetype'),
+         url('quicksand/Quicksand_Bold-webfont.svg#QuicksandBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'QuicksandBook';
+    src: url('quicksand/Quicksand_Book-webfont.eot');
+    src: url('quicksand/Quicksand_Book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('quicksand/Quicksand_Book-webfont.woff') format('woff'),
+         url('quicksand/Quicksand_Book-webfont.ttf') format('truetype'),
+         url('quicksand/Quicksand_Book-webfont.svg#QuicksandBook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'NovecentowideDemiBold';
+    src: url('novecentowide/Novecentowide-DemiBold-webfont.eot');
+    src: url('novecentowide/Novecentowide-DemiBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('novecentowide/Novecentowide-DemiBold-webfont.woff') format('woff'),
+         url('novecentowide/Novecentowide-DemiBold-webfont.ttf') format('truetype'),
+         url('novecentowide/Novecentowide-DemiBold-webfont.svg#NovecentowideDemiBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+#grado{
+	
+	margin-right:14px;
+	
+}
+
+#grado .ui-button, #tipo .ui-button {
+border-radius: 0px;
+margin-right: -1px;
+padding: 1px 5px;
+text-transform: uppercase;
+font-family: "NovecentowideDemiBold";
+font-weight: normal;
+line-height: 0;
+font-size: 80%;
+color: white;
+background: gray;
+border: none;
+}
+
+#grado .ui-state-active, #tipo .ui-state-active{
+	background:#444446;
+	}
+	
+.lfilter{
+	
+	font-family:"PTSerifBoldItalic";
+	font-size:80%;
+	
+	}
+
+body {
+
+	margin:0;
+	background: #F5F5EB;
+	color:#444446;
+	}
+	
+
+#wrapper {
+	
+	margin:0 auto;
+	width:960px;
+
+	
+	}
+	
+#nav {
+	
+	padding:10px 0 ;
+	border-bottom: 3px solid #444446;
+
+	}
+	
+#nav h1 {
+	
+		font-family:'NovecentowideDemiBold';
+	text-transform:uppercase;
+	font-weight:normal;
+	margin: 11px 0 0 10px;
+	font-size:130%;
+	float:right;
+	
+	}
+	
+#nav img {
+	
+	float:left;
+
+}
+	
+#right h2  {
+	
+		font-family:"NovecentowideDemiBold";
+	text-transform:uppercase;
+	font-weight:normal;
+	font-size:80%;
+	text-align:right;
+	margin-bottom:1px;
+	
+	}
+	
+.red {
+	
+	border-bottom:7px solid #B5B26D;
+}
+
+.yellow {
+	
+	border-bottom:7px solid #918182;
+}
+
+.green {
+	
+	border-bottom:7px solid #C07E41;
+}
+
+.blu {
+	
+	border-bottom:7px solid #5C9094;
+}
+
+.valori{	
+	
+	font-family:"PTSerifBoldItalic";
+	font-size:80%;
+	
+}
+	
+#title {
+
+	float:left;
+	
+	}
+
+#stacked h2  {
+	
+		font-family:"NovecentowideDemiBold";
+	text-transform:uppercase;
+	font-weight:normal;
+	font-size:80%;
+	margin-bottom:1px;
+	
+	}
+	
+
+#breadcrumbs {
+	
+	font-family: "NovecentowideDemiBold";
+	text-transform:uppercase;
+	font-size:85%;
+	cursor:pointer;
+	position:relative;
+	top:30px;
+	left:16px;
+	z-index:1;
+
+}
+	
+#container {
+	
+	padding:10px 0;
+	position:relative;
+	
+	}
+
+#left {
+	
+	float:left;
+	width:700px;
+	height:100%;
+	padding: 0 15px 0 0;
+	
+
+	
+	}
+
+#right {
+
+	float:left;
+	width:220px;
+	padding-top:25px;
+	
+	}
+
+#cont_img {
+
+	float:left;
+	width:110px;
+
+}
+
+#cont_txt {
+
+	float:right;
+	margin:120px 10px 0 0;
+	
+	
+
+}
+
+#cont_txt h3 {
+
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight:bold;
+	margin: 0;
+	font-size:170%;
+
+}
+
+#map{
+	
+	width:700px;
+	height:500px;
+	margin: 0 0 10px 0;
+	border: 1px solid #444446;
+	position:relative;
+	
+	}
+	
+#map svg{
+	
+	width:700px;
+	height:500px;
+	overflow:hidden;
+	
+	
+	}
+	
+
+	
+#filter {	
+	
+	font-size:90%;
+	margin: 0;
+
+	}
+
+#grado {
+
+
+
+}
+
+
+
+.clear {
+	
+	clear:both;
+	
+	}
+
+
+#search {
+
+float:right;
+margin-top:10px;
+
+}
+	
+#city {
+
+width:182px;
+	border:none;
+	margin:0px;
+	padding:5px;
+	font-weight:bold;
+	background: #cfcfc6; /* for non-css3 browsers */
+	font-family:"PTSerifBoldItalic"; 
+	font-size:80%;
+	font-weight:normal;
+}
+
+
+#tooltip, #tooltip_2 { background: white; padding: 5px; border: 1px solid #ddd; position: absolute;}
+
+#loader { background: white; padding: 30px; border: 1px solid black; position: absolute;}
+
+#tooltip h2{
+
+	font-family:"NovecentowideDemiBold";
+	text-transform:uppercase;
+	font-weight:normal;
+	font-size:80%;
+	margin:3px 0 1px 0;
+	border-bottom: 3px solid #444446;
+	
+}
+
+#tooltip p, #tooltip_2 p{
+
+	font-family:"PTSerifBoldItalic";
+	font-size:80%;
+	margin:1px 0;
+	
+}
+
+#copy {
+  position: absolute;
+  left: 0;
+  bottom: 5px;
+  padding-left: 5px;
+  font: 9px sans-serif;
+  color: #444446;
+  cursor: default;
+}
+
+#copy a {
+  color: #444446;
+}
+
+.compass .back {
+  fill: #444446;
+  fill-opacity: .8;
+}
+
+.compass .fore {
+
+  stroke: #999;
+  stroke-width: 1.5px;
+}
+
+.compass rect.back.fore {
+  fill: #444446;
+  fill-opacity: .3;
+  stroke: #eee;
+  stroke-width: 1px;
+  shape-rendering: crispEdges;
+}
+
+.compass .direction {
+  fill: #444446;
+}
+
+.compass .chevron {
+  fill: none;
+  stroke: white;
+  stroke-width: 5px;
+}
+
+.compass .zoom .chevron {
+  stroke-width: 4px;
+}
+
+.compass .active .chevron, .compass .chevron.active {
+  stroke: #fff;
+}
+
+.compass.active .active .direction {
+  fill: #999;
+}
+
+#dock{
+	
+	position:absolute;
+	width:250px;
+	height:501px;
+	right:0px;
+	top:47px;
+	background:#CFCFC6;
+	z-index:1;
+	}
+
+#dock .intro, #dock .intro_2, #dock .intro_3, #dock .intro_4{
+	
+	padding-top:1px;
+	margin:0 15px;
+	border-bottom: 3px solid #444446;
+	
+	}
+
+#dock h2{
+	
+	font-family: "NovecentowideDemiBold";
+	text-transform:uppercase;
+	font-size:85%;
+	font-weight:normal;
+	margin: 10px 0 0 0;
+	
+
+}
+
+#dock img {
+
+	margin-right: 9px;
+
+}
+
+#dock p{	
+	
+	font-family:"PTSerifBoldItalic";
+	font-size:80%;
+	
+}
+
+#dock p{
+
+margin: 5px 0;
+
+}
+	
+#slider_dock {
+	position: absolute;
+	top: 47px;
+	right: 253px;
+	background: url('img/right.png') #CFCFC6 center no-repeat;
+	height: 501px;
+	width: 20px;
+
+	cursor:pointer;
+	}
+
+/* Tiny Scrollbar */
+#stacked{
+
+width:100%;
+
+
+}
+#stacked .viewport { width: 100%; height: 125px; overflow: hidden; position: relative; }
+#stacked .overview { list-style: none; position: absolute; left: 0; top: 0; padding: 0; margin: 0; }
+#stacked .scrollbar{  position: relative; margin: 0 0 5px; clear: both; height: 10px; }
+#stacked .track { width: 100%; height:10px; position: relative; 	-moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;
+background-image: linear-gradient(top, rgb(187,187,187) 0%, rgb(217,218,218) 100%);
+background-image: -o-linear-gradient(top, rgb(187,187,187) 0%, rgb(217,218,218) 100%);
+background-image: -moz-linear-gradient(top, rgb(187,187,187) 0%, rgb(217,218,218) 100%);
+background-image: -webkit-linear-gradient(top, rgb(187,187,187) 0%, rgb(217,218,218) 100%);
+background-image: -ms-linear-gradient(top, rgb(187,187,187) 0%, rgb(217,218,218) 100%);
+	}
+	
+	
+#stacked .thumb { height: 8px; cursor: pointer; overflow: hidden; position: absolute; left: 0; top: 1px; 
+-moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;
+
+	background: #444446; /* for non-css3 browsers */
+	}
+/*
+#stacked .thumb .end{ background: transparent url(img/bg-scrollbar-thumb-x.png) no-repeat 0 50%; overflow: hidden; height: 25px; width: 5px;}
+*/
+#stacked .disable { display: none; }
+#stacked .thumb .end { display:none;}
+
+#chart_3 {clear: both; margin: 20px 0 10px; }
+#chart_3 .viewport{  height:200px; overflow: hidden; position: relative; }
+#chart_3 .overview  { list-style: none; position: absolute; left: 0; top: 0; }
+#chart_3 .scrollbar{background: transparent url(img/bg-scrollbar-track-y.png) no-repeat 0 0; position: relative; background-position: 0 0; float: right; }
+#chart_3 .track { 
+	 background: #ff0000; height: 100%; width:6px; position: relative; padding: 0 0px;
+	
+	-moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;
+	background: #d9dada; /* for non-css3 browsers */
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#bbbbbb', endColorstr='#d9dada'); /* for IE */
+	background: -webkit-gradient(linear, left top, right top, from(#bbbbbb), to(#d9dada)); /* for webkit browsers */
+	background: -moz-linear-gradient(left,  #bbbbbb,  #d9dada); /* for firefox 3.6+ */
+	}
+#chart_3 .thumb {
+	
+	background: #444446; height: 20px; width: 6px; cursor: pointer; overflow: hidden; position: absolute; top: 0;
+	-moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;
+	-moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px;
+	
+	}
+
+#chart_3 .thumb .end{ overflow: hidden; height: 5px; width: 13px; }
+#chart_3 .disable{ display: none; }

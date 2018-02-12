@@ -1,0 +1,424 @@
+@font-face {
+    font-family: 'QuicksandBold';
+    src: url('quicksand/Quicksand_Bold-webfont.eot');
+    src: url('quicksand/Quicksand_Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('quicksand/Quicksand_Bold-webfont.woff') format('woff'),
+         url('quicksand/Quicksand_Bold-webfont.ttf') format('truetype'),
+         url('quicksand/Quicksand_Bold-webfont.svg#QuicksandBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'QuicksandBook';
+    src: url('quicksand/Quicksand_Book-webfont.eot');
+    src: url('quicksand/Quicksand_Book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('quicksand/Quicksand_Book-webfont.woff') format('woff'),
+         url('quicksand/Quicksand_Book-webfont.ttf') format('truetype'),
+         url('quicksand/Quicksand_Book-webfont.svg#QuicksandBook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+
+	margin:0;
+	background: whiteSmoke;
+	}
+
+a {
+	text-decoration:none;
+	color:black;
+}
+
+#wrapper {
+	
+	margin:0 auto;
+	width:960px;
+
+	
+	}
+	
+#nav {
+	
+	padding:10px 0 ;
+	border-bottom: 1px solid #ddd;
+	box-shadow: 0px 1px 0px white;
+	}
+	
+#nav h1 {
+	
+		font-family:'QuicksandBook';
+	text-transform:uppercase;
+	font-weight:normal;
+	margin: 11px 0 0 0;
+	
+	}
+	
+#time h2  {
+	
+		font-family:'QuicksandBold';
+	text-transform:uppercase;
+	font-weight:normal;
+	font-size:90%;
+	text-align:center;
+	margin:15px 0;
+	
+	}
+	
+#title {
+
+	float:left;
+	
+	}
+
+#breadcrumbs {
+	
+	float:right;
+	margin: 0 12px 0 0;
+
+}
+	
+#container {
+	
+	padding:10px 0;
+	
+	}
+
+#left {
+	
+	
+	height:100%;
+	
+	
+	}
+
+#right {
+
+	float:right;
+	width:200px;
+	
+	}
+
+#cont_img {
+
+	float:left;
+	width:110px;
+
+}
+
+#cont_txt {
+
+	float:right;
+	margin:120px 10px 0 0;
+	
+	
+
+}
+
+#cont_txt h3 {
+
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight:bold;
+	margin: 0;
+	font-size:170%;
+
+}
+
+.column{
+
+
+
+}
+#cartogram{
+	
+	padding-bottom:10px;
+	margin: 0 0 30px 0;
+	
+	-moz-column-count: 4;
+	-moz-column-gap: 20px;
+	-webkit-column-count: 4;
+	-webkit-column-gap: 20px;
+	column-count: 4;
+	column-gap: 20px;
+
+		-moz-box-shadow: 0px 1px 0px #fff;
+	-webkit-box-shadow: 0px 1px 0px #fff;
+	box-shadow: 0px 1px 0px #fff;
+		border-bottom: 1px solid #ddd;
+
+	}
+	
+#cartogram p {
+
+	font-family: Georgia, "Times New Roman", Times, serif;
+	margin: 1px;
+	font-size:80%;
+
+}
+
+#time {	
+	
+			-moz-box-shadow: 0px 1px 0px #fff;
+	-webkit-box-shadow: 0px 1px 0px #fff;
+	box-shadow: 0px 1px 0px #fff;
+		border-bottom: 1px solid #ddd;
+margin: 0 0 10px 0;
+padding:0 0 30px 0;
+	}
+	
+#logo{
+
+float:right;
+width:300px;
+	}
+
+#logo p, #logos p {
+	
+	float:left;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	margin: 34px 9px 0 15px;
+	font-size:70%;
+	
+	}
+#logo img, #logos img{
+	float:left;
+	}
+	
+#browser {
+	
+	float:right;
+	
+	}
+	
+#browser p {
+	float:left;
+	margin:0 7px 0 0;
+	font-size:80%;
+	}
+#aziende {
+
+float:left;
+padding: 0 13px 0 0;
+border-right: 1px solid #ddd;
+	}
+	
+#superfici {
+	
+	float:right;
+	padding: 0 0 0 13px;
+	
+	}
+
+#superfici:hover, #aziende:hover{
+	
+	box-shadow: 0 0 5px gray;
+	
+}
+	
+.Verbania, .Vercelli, .Novara, .Biella, .Torino {
+	
+	fill:#ccc;
+	stroke:none;
+	
+	}
+	
+.Cuneo, .Asti, .Alessandria {
+
+	stroke:none;
+}
+
+.Cuneo:hover, .Asti:hover, .Alessandria:hover {
+
+/*
+	stroke:black;
+*/
+}
+	
+
+
+#slider{
+	
+	height:7px;
+	background: #d9dada; /* for non-css3 browsers */
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#bbbbbb', endColorstr='#d9dada'); /* for IE */
+	background: -webkit-gradient(linear, left top, left bottom, from(#bbbbbb), to(#d9dada)); /* for webkit browsers */
+	background: -moz-linear-gradient(top,  #bbbbbb,  #d9dada); /* for firefox 3.6+ */
+	-moz-box-shadow: 0px 1px 0px #fff;
+	-webkit-box-shadow: 0px 1px 0px #fff;
+	box-shadow: 0px 1px 0px #fff;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=135, Color='#fffff')";
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=135, Color='#fffff');
+	}
+	
+#line_chart {
+		
+		margin:10px 0 0 0;
+		
+		}
+		
+#icon_chart{
+
+	margin:0 0 25px 0;
+
+}
+
+#switch {
+	
+	width:197px;
+	
+	}
+
+#button_switch {
+	
+	margin:0;
+	
+	}
+	
+
+
+.ticks{
+	
+	font-family:"QuicksandBold";
+	font-size:95%;
+	text-transform:uppercase;
+	
+	}
+
+.pos_0 {
+
+	text-anchor:left;
+	
+	}
+	
+.pos_1, .pos_2, .pos_3, .pos_4 {
+
+	text-anchor:middle;
+	
+	}
+	
+.pos_5 {
+	
+	text-anchor:end;
+	}
+	
+.square_suv_0, .square_sau_0 {
+
+	fill:#ccc;
+	stroke:none;
+	
+	}
+	
+.square_sau_1 {
+
+stroke:none;
+
+
+	}
+
+.square_suv_2 {
+
+stroke:none;
+
+
+	}
+
+.square_suv_1 {
+
+
+
+	}
+	
+.square_sau_2 {
+
+
+
+
+	}
+
+.clear {
+	
+	clear:both;
+	
+	}
+
+
+
+
+
+path {
+  
+  opacity: 0.6;
+}
+
+.Piemonte, .altre {
+  fill: none;
+  stroke: gray;
+  stroke-width: 1.5px;
+  stroke-dasharray: 5,5;
+  opacity:1;
+}
+
+.borderPiemonte {
+  fill: none;
+  stroke: gray;
+  stroke-width: 1px;
+
+}
+
+.sigle{
+	
+	font-family:"QuicksandBold";
+	fill:whiteSmoke;
+	font-size:80%;
+	
+	}
+
+.AlessandriaC, .CuneoC, .AstiC {
+
+cursor: pointer;
+
+}
+
+.sau_l_1{
+	fill:#F4E19B;
+	}
+	
+.sau_l_2{
+	fill:#ECCB6E;
+	}
+	
+.sau_l_3{
+	fill:#E6BB56;
+	}
+	
+.suv_l_1{
+	fill:#A4384C;
+	}
+	
+.suv_l_2{
+	fill:#AE5365;
+	}
+	
+.suv_l_3{
+	fill:#CA8996;
+	}
+
+#sliderControl{
+
+margin: 0 0 8px 0;
+
+	}
+
+.timer{
+font-family:"QuicksandBold";
+padding: 0 0 0 5px;
+font-size:90%;
+color:gray;
+	}
+	
+
+
+#tooltip { background: white; padding: 5px; border: 1px solid #ddd; position: absolute; font-family:"QuicksandBold"; font-size:90%;};

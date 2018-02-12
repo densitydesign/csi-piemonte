@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript" src="polymaps.js"></script>
+    <script type="text/javascript" src="lib/d3/d3.js"></script>
+        <script type="text/javascript" src="lib/d3/d3.geo.js"></script>
+        <script type="text/javascript" src="lib/d3/d3.csv.js"></script>
+        <script type="text/javascript" src="lib/d3/d3.geom.js"></script>
+        <script type="text/javascript" src="lib/d3/d3.layout.js"></script>
+        <script src="lib/d3/d3.time.js"></script>
+        <script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+        <script type="text/javascript" src="js/jquery-ui-1.8.17.custom.min.js"></script>
+        <script type="text/javascript" src="js/jquery.tinyscrollbar.min.js"></script>
+        <link type="text/css" href="css/jquery-ui-1.8.17.custom.css" rel="stylesheet" />
+                <link type="text/css" href="style.css" rel="stylesheet" />
+                <META http-equiv=Content-Type content="text/html; charset=UTF-8">
+  </head>
+  <body>
+      	<div id="wrapper">
+    		<div id="nav">
+    			<div id="title"><img src="loghi/pa.png"/><h1>La pubblica amministrazione on line</h1></div>
+    			<div id="search">
+<!-- 
+    				<input id="city" onkeypress="if(checkEnter(event)){searchAddress()};" value="cerca comune"/>
+ -->
+    				<input id="city" value="cerca comune"/>
+    			</div>
+    			<div class="clear"></div>
+    		</div>
+    		<div id="container">
+    			<div id="left">
+    			<div id="filter">
+    			<div id="grado"><span class="lfilter">filtra per anno:</span>
+	<input type="radio" id="a_2007"  name="radio" value="2007"/><label for="a_2007">2007</label>
+	<input type="radio" id="a_2008"  name="radio" value="2008"/><label for="a_2008">2008</label>
+	<input type="radio" id="a_2009"  name="radio" value="2009"/><label for="a_2009">2009</label>
+	<input type="radio" id="a_2010"   name="radio" value="2010"/><label for="a_2010">2010</label>
+	<input type="radio" id="a_2011"  name="radio" checked="checked" value="2011"/><label for="a_2011">2011</label>
+				</div>
+				
+    			</div>
+    			 <div id="breadcrumbs"><span class="piemonte">Piemonte</span><span class="provincia"></span><span class="comune"></span></div>
+    				<div id="map">
+    				<span id="copy">
+Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>
+   				 </span>
+    				</div>
+    				
+    			</div>
+    			<div id="right">
+    				<div id="chart_1">
+    				    <h2 class="red">caratteristiche sito</h2>
+    					
+				
+    				</div>
+    				<div id="chart_2">
+    				    <h2 class="yellow">informazioni comune</h2>
+    					
+				
+    				</div>
+    				
+    				<div id="chart_2_1">
+    				    <h2 class="blu">trasparenza</h2>
+    					
+				
+    				</div>
+    				
+    				<div id="chart_3">
+    				    <h2 class="green">servizi on-line</h2>
+    						<div class="scrollbar"><div class="track"><div class="thumb"><div class="end"></div></div></div></div>
+	<div class="viewport">
+		<div class="overview">
+		</div>
+		</div>
+				
+    				</div>
+    			</div>
+  
+  			<div id="dock">
+    				<div class="intro">
+    				<p>
+					Questa applicazione mostra l'offerta di informazioni e servizi on line disponibile sui siti web dei Comuni piemontesi</p>
+    				</div>
+    				<div class="intro_2">
+    				<h2>esplorazione</h2>
+    				<p>Tramite la mappa si possono esplorare i diversi livelli territoriali (Regione/Provincia/Comune). Il grafico a barre sulla destra rappresenta i servizi attivi per ogni livello visualizzato (valori percentuali dei comuni della Regione, di una singola Provincia e poi valore specifico di un singolo Comune). Nel grafico a barre in basso è rappresentata la somma dei servizi attivi (divisi per gruppi di servizi) per ogni singolo comune</p>
+    				</div>
+    				<div class="intro_4">
+    				<p><img src="img/csi_logo.png" height="50"/><img src="img/icona_bn.gif" height="50"/><img src="img/density_logo.png" height="20"/></p>
+    				</div>
+    				
+    			
+    			</div>
+				<div id="slider_dock"></div>
+ 
+    			<div id="stacked" class="clear">
+    			<h2>SINGOLI COMUNI CON SOMMA DELLE CARATTERISTICHE PRESENTI</h2>
+		<div class="viewport">
+			 <div class="overview">
+			 </div>
+			 </div>
+			 <div class="scrollbar"><div class="track"><div class="thumb"><div class="end"></div></div></div></div>
+    			</div>
+    			<div class="clear"></div>
+    		</div>
+    	</div>
+
+		<div id="tooltip"><h2>provincia</h2><p><img src="icone/scuola.png"><span class="nScuole">numero scuole</p><p><img src="icone/studenti.png"><span class="nStudenti">numero studenti</span></p><p><span class="nIndicatori"></p></div>
+    	<div id="tooltip_2"><p></p></div>
+    <script type="text/javascript" src="pa_new.js"></script>
+    <div id="result"></div>
+  </body>
+</html>

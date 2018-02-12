@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+        <title>Superfici Piemonte</title>
+        <script type="text/javascript" src="lib/d3/d3.js"></script>
+        <script type="text/javascript" src="lib/d3/d3.geo.js"></script>
+        <script type="text/javascript" src="lib/d3/d3.geom.js"></script>
+        <script type="text/javascript" src="lib/d3/d3.layout.js"></script>
+        <script src="lib/d3/d3.time.js"></script>
+        <script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+        <script type="text/javascript" src="js/jquery-ui-1.8.17.custom.min.js"></script>
+        <link type="text/css" href="css/jquery-ui-1.8.17.custom.css" rel="stylesheet" />
+        <link type="text/css" rel="stylesheet" href="superfici.css" />
+
+    </head>
+    <body>
+    
+    	<div id="wrapper">
+    		<div id="nav">
+    			<div id="title"><h1>superficie agricola - 1961</h1></div>
+    			<div id="breadcrumbs">
+    				<div id="switch">
+    					<div id="button_switch">
+							<input type="radio" id="sau" name="radio" value="sau" checked="checked" /><label for="sau"><img src="img/sau_disable.png" /></label>
+							<input type="radio" id="suv" name="radio" value="suv"/><label for="suv"><img src="img/suv_disable.png" /></label>
+						</div>
+    				</div>
+    			</div>
+    			<div class="clear"></div>
+    		</div>
+    		<div id="container">
+    			<div id="left">
+    				<div id="cartogram"></div>
+    				<div id="time">
+    					<div id="slider"></div>
+    					<div id="line_chart"></div>
+    				</div>
+    			</div>
+    			<div id="right">
+    				<div id="icon_chart">
+    				    <h2>variazione superficie agricola</h2>
+    					<div id="cont_img"><img src="img/sau_1961.png" height="150"/></div>
+    					<div id="cont_txt"><h3></h3></div>
+    					<div class="clear"></div>
+<!-- 
+    					<div class="start"></div>
+    					<div class="end"></div>
+ -->    					
+    				</div>
+    				
+    				<div id="square_chart">
+    				<h2>confronto superfici</h2>
+    				</div>
+    				<div id="legend">
+    				<svg width="200" height="85">
+				<g transform="translate( 0, 15)">
+				<rect height="15" width="15" fill="#ccc" stroke-width="0"></rect>
+				<text x="20" y="13" fill="grey" font-size="80%">superficie territoriale</text>
+				</g>
+				<g transform="translate( 0, 35)">
+				<rect height="15" width="15" fill="url(#yellowGradient)" stroke-width="0"></rect>
+				<text x="20" y="13" fill="grey" font-size="80%">superficie agricola</text>
+				</g>
+				<g transform="translate( 0, 55)">
+				<rect height="15" width="15" fill="url(#redGradient)" stroke-width="0"></rect>
+				<text x="20" y="13" fill="grey" font-size="80%">superficie a vite</text>
+				</g>
+				</svg>
+    				</div>
+    				<h2>altre info</h2>
+    				<div id="more"></div>
+    			</div>
+    			<div class="clear"></div>
+    		</div>
+    	</div>
+
+		<div id="tooltip">esisto</div>
+    	<div>
+        <script type="text/javascript" src="superfici.js"></script>
+        <svg width="0" height="0">
+        <defs>
+        <radialGradient id="yellowGradient"
+           fx="5%" fy="5%" r="80%"
+           spreadMethod="pad">
+          <stop offset="0%"   stop-color="#F6D140" stop-opacity="1"/>
+          <stop offset="100%" stop-color="#DAA33F" stop-opacity="1" />
+        </radialGradient>
+         <radialGradient id="redGradient"
+           fx="5%" fy="5%" r="80%"
+           spreadMethod="pad">
+          <stop offset="0%"   stop-color="#A81D39" stop-opacity="1"/>
+          <stop offset="100%" stop-color="#51191D" stop-opacity="1" />
+        </radialGradient>
+        
+    </defs>
+        </svg>
+    </body>
+
+</html>

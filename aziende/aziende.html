@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Aziende</title>
+    <script type="text/javascript" src="lib/d3/d3.js"></script>
+	<link type="text/css" href="css/jquery-ui-1.8.17.custom.css" rel="stylesheet" />
+	<link type="text/css" href="style.css" rel="stylesheet" />
+	<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="js/jquery-ui-1.8.17.custom.min.js"></script>
+	        <script type="text/javascript" src="js/jquery.timer.js"></script>
+  </head>
+  <body>
+  <div id="container">
+  <div id="int">
+   <div id="int_tit"><h1>aziende agricole</h1></div>
+  <!-- <div id="int_img"><img src="img/aziende_tit.png" width="200px"/></div>-->
+  <div id="breadcrumbs">
+  <button class="home">Home</button>
+    				<div id="switch">
+    					<div id="button_switch">
+							<input type="radio" id="sau" name="radio" value="sau" checked="checked" /><label for="sau"><img src="img/sau_disable.png" /></label>
+							<input type="radio" id="suv" name="radio" value="suv"/><label for="suv"><img src="img/suv_disable.png" /></label>
+						</div>
+    				</div>
+    			</div>
+  <div class="clear"></div>
+  </div>
+  <div id="aziende"><img src="img/aziende_3.png" width="960px"/>
+  <p>classi di SAU</p>
+  </div>
+  <div id="chart"></div>
+  <div id="chart2"></div>
+  <div id="tempo">
+  <div id="time"><div id="sliderControl"><button id="play">play</button><span class="timer"></span></div></div>
+  <div id="time2">
+  <div id="slider"></div>
+  <div id="label"></div>
+  </div>
+  <div id="time3"><p>esplora nel tempo</p></div>
+  <div class="clear"></div>
+  </div>
+    <script type="text/javascript" src="aziende.js"></script>
+      		<div id="tooltip">esisto</div>
+    <svg width="0" height="0">
+        <defs>
+        <radialGradient id="yellowGradient"
+           fx="5%" fy="5%" r="80%"
+           spreadMethod="pad">
+          <stop offset="0%"   stop-color="#F6D140" stop-opacity="1"/>
+          <stop offset="100%" stop-color="#DAA33F" stop-opacity="1" />
+        </radialGradient>
+        <radialGradient id="yellowGradient_2"
+           fx="5%" fy="5%" r="80%"
+           spreadMethod="pad">
+          <stop offset="0%"   stop-color="#F4E19B" stop-opacity="1"/>
+          <stop offset="100%" stop-color="#DAA33F" stop-opacity="1" />
+        </radialGradient>
+        <radialGradient id="yellowGradient_3"
+           fx="5%" fy="5%" r="80%"
+           spreadMethod="pad">
+          <stop offset="0%"   stop-color="#EDCC6D" stop-opacity="1"/>
+          <stop offset="100%" stop-color="#DAA33F" stop-opacity="1" />
+        </radialGradient>
+         <radialGradient id="redGradient"
+           fx="5%" fy="5%" r="80%"
+           spreadMethod="pad">
+          <stop offset="0%"   stop-color="#A81D39" stop-opacity="1"/>
+          <stop offset="100%" stop-color="#51191D" stop-opacity="1" />
+        </radialGradient>
+            <radialGradient id="redGradient_2"
+           fx="5%" fy="5%" r="80%"
+           spreadMethod="pad">
+          <stop offset="0%"   stop-color="#CB8996" stop-opacity="1"/>
+          <stop offset="100%" stop-color="#51191D" stop-opacity="1" />
+        </radialGradient>
+         </radialGradient>
+            <radialGradient id="redGradient_3"
+           fx="5%" fy="5%" r="80%"
+           spreadMethod="pad">
+          <stop offset="0%"   stop-color="#B35366" stop-opacity="1"/>
+          <stop offset="100%" stop-color="#51191D" stop-opacity="1" />
+        </radialGradient>
+</filter>
+        
+    </defs>
+        </svg>
+    </div>
+  </body>
+</html>

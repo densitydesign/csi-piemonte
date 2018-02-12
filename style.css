@@ -1,0 +1,196 @@
+@font-face {
+    font-family: 'NovecentowideDemiBold';
+    src: url('font/novecentowide-demibold-webfont.eot');
+    src: url('font/novecentowide-demibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/novecentowide-demibold-webfont.woff') format('woff'),
+         url('font/novecentowide-demibold-webfont.ttf') format('truetype'),
+         url('font/novecentowide-demibold-webfont.svg#NovecentowideDemiBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'PTSerifBoldItalic';
+    src: url('font/PTF76F-webfont.eot');
+    src: url('font/PTF76F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/PTF76F-webfont.woff') format('woff'),
+         url('font/PTF76F-webfont.ttf') format('truetype'),
+         url('font/PTF76F-webfont.svg#PTSerifBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'PTSerifItalic';
+    src: url('font/PTF56F-webfont.eot');
+    src: url('font/PTF56F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/PTF56F-webfont.woff') format('woff'),
+         url('font/PTF56F-webfont.ttf') format('truetype'),
+         url('font/PTF56F-webfont.svg#PTSerifItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+html, body {
+  
+}
+
+body {
+background: whiteSmoke;
+font-family: 'PTSerifItalic';
+color: gray;
+}
+
+svg {
+  display: block;
+  overflow: hidden;
+  width: 100%;
+  
+}
+
+h3 {
+	font-family:'NovecentowideDemiBold', sans-serif;
+	text-transform:uppercase;
+	font-weight:normal;
+	margin:11px 0 0;
+	}
+
+h4 {
+	font-family:'NovecentowideDemiBold', sans-serif;
+	text-transform:uppercase;
+	font-weight:normal;
+	margin:0;
+	}
+	
+.clear {
+	clear:both;
+	}
+#container{
+	width:1000px;
+	height: 700px;
+	margin: 0 auto ;
+	padding:15px;
+}
+
+#map_title{
+	width:100%;
+	height:50px;
+	float:left;
+}
+
+#map_container{
+	width:100%;
+	float:left;
+
+	}
+
+#map {
+	width: 750px;
+	height: 700px;
+	float: left;
+	border: dashed #cccccc 1px;
+	}
+#data {
+	width: 225px;
+	float: left;
+	padding:0px 10px 10px 0;
+	margin-left: 10px;
+	background:whiteSmoke;
+	}
+
+#legenda{
+	float:left;
+		border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	box-shadow: inset 0px 2px 1px white, 0px 2px 1px white;
+	width:100%;
+}
+
+#dati_centr{
+	border-bottom: 1px solid #ddd;
+	box-shadow:0px 2px 1px white;
+	float: left;
+	width:100%;
+	}
+
+#dati_sez {
+		border-bottom: 1px solid #ddd;
+	box-shadow: 0px 2px 1px white;
+	float:left;
+	width:100%;
+}
+
+#data h3{
+	margin:0;
+	}
+
+#data h4{
+	margin:0;
+	}
+
+#data p{
+	margin: 3px 0;
+	color:black;
+	font-size:90%;
+	}
+	
+.chart rect {
+   stroke: white;
+ }
+
+#copy {
+  position: relative;
+  left: 0;
+  bottom: 4px;
+  padding-left: 5px;
+  font: 9px sans-serif;
+  color: #fff;
+  cursor: default;
+}
+
+#copy a {
+  color: #fff;
+}
+
+.compass .back {
+  fill: #eee;
+  fill-opacity: .8;
+}
+
+.compass .fore {
+  stroke: #999;
+  stroke-width: 1.5px;
+}
+
+.compass rect.back.fore {
+  fill: #999;
+  fill-opacity: .3;
+  stroke: #eee;
+  stroke-width: 1px;
+  shape-rendering: crispEdges;
+}
+
+.compass .direction {
+  fill: none;
+}
+
+.compass .chevron {
+  fill: none;
+  stroke: #999;
+  stroke-width: 5px;
+}
+
+.compass .zoom .chevron {
+  stroke-width: 4px;
+}
+
+.compass .active .chevron, .compass .chevron.active {
+  stroke: #fff;
+}
+
+.compass.active .active .direction {
+  fill: #999;
+}

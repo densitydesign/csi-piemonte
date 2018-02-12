@@ -1,0 +1,429 @@
+#tile {
+	
+	opacity:0.3;
+	
+	}
+	
+@font-face {
+    font-family: 'PTSerifBoldItalic';
+    src: url('ptserif/PTF76F-webfont.eot');
+    src: url('ptserif/PTF76F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ptserif/PTF76F-webfont.woff') format('woff'),
+         url('ptserif/PTF76F-webfont.ttf') format('truetype'),
+         url('ptserif/PTF76F-webfont.svg#PTSerifBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+	
+@font-face {
+    font-family: 'QuicksandBold';
+    src: url('quicksand/Quicksand_Bold-webfont.eot');
+    src: url('quicksand/Quicksand_Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('quicksand/Quicksand_Bold-webfont.woff') format('woff'),
+         url('quicksand/Quicksand_Bold-webfont.ttf') format('truetype'),
+         url('quicksand/Quicksand_Bold-webfont.svg#QuicksandBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'QuicksandBook';
+    src: url('quicksand/Quicksand_Book-webfont.eot');
+    src: url('quicksand/Quicksand_Book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('quicksand/Quicksand_Book-webfont.woff') format('woff'),
+         url('quicksand/Quicksand_Book-webfont.ttf') format('truetype'),
+         url('quicksand/Quicksand_Book-webfont.svg#QuicksandBook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'NovecentowideDemiBold';
+    src: url('novecentowide/Novecentowide-DemiBold-webfont.eot');
+    src: url('novecentowide/Novecentowide-DemiBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('novecentowide/Novecentowide-DemiBold-webfont.woff') format('woff'),
+         url('novecentowide/Novecentowide-DemiBold-webfont.ttf') format('truetype'),
+         url('novecentowide/Novecentowide-DemiBold-webfont.svg#NovecentowideDemiBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.red .ui-state-active{
+	background:#774038;
+	}
+	
+.green .ui-state-active{
+	background:#6CA880;
+	}
+	
+.blue .ui-state-active{
+	background:#505270;
+	}
+	
+.brown .ui-state-active{
+	background:#D0B58B;
+}
+
+#grado{
+	
+	margin-right:14px;
+	
+}
+
+#grado .ui-button {
+border-radius: 0px;
+margin-right: -1px;
+padding: 1px 5px;
+text-transform: uppercase;
+font-family: "NovecentowideDemiBold";
+font-weight: normal;
+line-height: 0;
+font-size: 80%;
+color: white;
+border: none;
+}
+
+
+	
+.lfilter, .centr_sezioni, .centr_utenti{
+	
+	font-family:"PTSerifBoldItalic";
+	font-size:100%;
+	text-transform: lowercase;
+	
+	}
+	
+.novecento{
+font-family: "NovecentowideDemiBold";
+font-weight: normal;
+font-size: 100%;
+
+}
+
+
+body {
+
+	margin:0;
+	background: #F5F5EB;
+	color:#444446;
+	}
+	
+
+#wrapper {
+	
+	margin:0 auto;
+	width:960px;
+
+	
+	}
+	
+#nav {
+	
+	padding:10px 0 ;
+	border-bottom: 3px solid #444446;
+
+	}
+	
+#nav h1 {
+	
+		font-family:'NovecentowideDemiBold';
+	text-transform:uppercase;
+	font-weight:normal;
+	margin: 11px 0 0 10px;
+	font-size:130%;
+	float:right;
+	
+	}
+	
+#nav img {
+	
+	float:left;
+
+}
+	
+
+.valori, #dock p{	
+	
+	font-family:"PTSerifBoldItalic";
+	font-size:80%;
+	
+}
+
+#dock p{
+
+margin: 5px 0;
+
+}
+
+#search {
+
+float:right;
+margin-top:10px;
+
+}
+	
+#city {
+
+width:182px;
+	border:none;
+	margin:0px;
+	padding:5px;
+	font-weight:bold;
+	background: #cfcfc6; /* for non-css3 browsers */
+	font-family:"PTSerifBoldItalic"; 
+	font-size:80%;
+	font-weight:normal;
+}
+
+
+#title {
+
+	float:left;
+	
+	}
+
+#breadcrumbs {
+	
+	font-family: "NovecentowideDemiBold";
+	text-transform:uppercase;
+	font-size:85%;
+	cursor:pointer;
+	position:relative;
+	top:30px;
+	left:16px;
+	height:23px;
+
+}
+
+#dock{
+	
+	position:absolute;
+	width:250px;
+	height:640px;
+	right:5px;
+	top:50px;
+	background:#CFCFC6;
+	z-index:1;
+	}
+
+#dock .intro, #dock .intro_2, #dock .intro_3, #dock .intro_4{
+	
+	padding-top:1px;
+	margin:0 15px;
+	border-bottom: 3px solid #444446;
+	
+	}
+
+#dock h2{
+	
+	font-family: "NovecentowideDemiBold";
+	text-transform:uppercase;
+	font-size:85%;
+	font-weight:normal;
+	margin: 10px 0 0 0;
+	
+
+}
+
+#dock img {
+
+	margin-right: 9px;
+
+}
+	
+#slider_dock {
+	position: absolute;
+	top: 50px;
+	right: 258px;
+	background: url('img/right.png') #CFCFC6 center no-repeat;
+	height: 640px;
+	width: 20px;
+	z-index:1;
+	cursor:pointer;
+	}
+	
+#container {
+	
+	padding:10px 0;
+	
+	}
+
+#left {
+	
+	height:100%;
+	padding: 0;
+	position:relative;
+	
+
+	
+	}
+
+
+
+#cont_img {
+
+	float:left;
+	width:110px;
+
+}
+
+#cont_txt {
+
+	float:right;
+	margin:120px 10px 0 0;
+	
+	
+
+}
+
+#cont_txt h3 {
+
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight:bold;
+	margin: 0;
+	font-size:170%;
+
+}
+
+#map{
+	
+
+	height:650px;
+	margin: 0 0 10px 0;
+	border: 1px solid #444446;
+	
+	}
+	
+#map svg{
+	
+	width:100%;
+	height:650px;
+	overflow:hidden;
+	
+	
+	}
+	
+
+	
+#filter {	
+	
+	font-size:90%;
+	margin: 0;
+
+	}
+
+
+
+.clear {
+	
+	clear:both;
+	
+	}
+
+
+
+#tooltip, #tooltip_2 { background: white; padding: 5px; border: 1px solid #ddd; position: absolute;}
+
+#tooltip h2 {
+
+	font-family:"NovecentowideDemiBold";
+	text-transform:uppercase;
+	font-weight:normal;
+	font-size:80%;
+	margin:3px 0 1px 0;
+	border-bottom: 3px solid #444446;
+	
+}
+
+#tooltip p, #tooltip_2 p, .bar{
+
+	font-family:"PTSerifBoldItalic";
+	font-size:80%;
+	margin:1px 0;
+	
+}
+
+.b {
+	font-family:Arial, sans-serif;
+	font-size:100%;
+	text-transform:lowercase;
+	font-weight:bold;
+}
+#tooltip_2 img{
+
+	float:left;
+	margin-right: 5px;
+
+}
+
+.sez_distanza {
+	
+	border-bottom:2px solid #444446;
+	
+	}
+
+.sez_potenza{
+	
+	padding:5px 0 ;
+
+}
+
+#copy {
+  position: absolute;
+  left: 0;
+  bottom: 14px;
+  padding-left: 5px;
+  font: 9px sans-serif;
+  color: #444446;
+  cursor: default;
+}
+
+#copy a {
+  color: #444446;
+}
+
+
+.compass .back {
+  fill: #444446;
+  fill-opacity: .8;
+}
+
+.compass .fore {
+
+  stroke: #999;
+  stroke-width: 1.5px;
+}
+
+.compass rect.back.fore {
+  fill: #444446;
+  fill-opacity: .3;
+  stroke: #eee;
+  stroke-width: 1px;
+  shape-rendering: crispEdges;
+}
+
+.compass .direction {
+  fill: #444446;
+}
+
+.compass .chevron {
+  fill: none;
+  stroke: white;
+  stroke-width: 5px;
+}
+
+.compass .zoom .chevron {
+  stroke-width: 4px;
+}
+
+.compass .active .chevron, .compass .chevron.active {
+  stroke: #fff;
+}
+
+.compass.active .active .direction {
+  fill: #999;
+}

@@ -1,0 +1,472 @@
+{
+  "totali" : {
+     "AL":
+    {
+      "caratteristiche":{
+      "Sito ufficiale" : null,
+      "Motore di ricerca" : 0.18947368421052632
+      },
+      "informazioni":{      
+      "informazioni URP" : null,
+      "PEC generica" : 0.031578947368421054
+      },
+      "trasparenza":{
+      "Indicatore performance trasparenza" : null,
+      "Albo Pretorio" : null,
+      "Pubblicazione Bilanci" : null,
+      "Bandi di gara" : 0.15789473684210525
+      },
+      "servizi":{
+      "Assegno nucleo familiare" : 0.05263157894736842,
+      "Autocertificazione anagrafica" : 0.1631578947368421,
+      "Autorizzazione sanitaria somministrazione-alimenti e bevande" : 0.010526315789473684,
+      "Autorizzazione Unica SUAP" : 0.021052631578947368,
+      "Concorsi pubblici" : 0.031578947368421054,
+      "Carta di identità" : 0.04736842105263158,
+      "Comunicazione vendite straordinarie/liquidazioni/saldi/promozioni" : 0.010526315789473684,
+      "Concessione occupazione suolo pubblico (COSAP – TOSAP)" : 0.05263157894736842,
+      "Concessione passo carrabile" : 0.02631578947368421,
+      "Consultazione cataloghi e prestito bibliotecario" : 0.08947368421052632,
+      "Contrassegno di invalidità" : 0.021052631578947368,
+      "Denuncia inizio attività edilizia (DIA edilizia)" : 0.1368421052631579,
+      "Dichiarazione cambio di abitazione" : 0.08947368421052632,
+      "Dichiarazione ICP" : 0.02631578947368421,
+      "Dichiarazione Inizio Attività produttive (DIA)" : 0.015789473684210527,
+      "Dichiarazione TARSU" : 0.11578947368421053,
+      "Iscrizione a corsi comunali" : 0.005263157894736842,
+      "Iscrizione asilo nido" : 0.021052631578947368,
+      "Iscrizione centri estivi" : 0.021052631578947368,
+      "Iscrizione servizio mensa scolastica" : 0.03684210526315789,
+      "Pagamento canone/tassa occupazione suolo e aree pubbliche (COSAP/TOSAP)" : 0.03684210526315789,
+      "Pagamento contravvenzioni" : 0.02631578947368421,
+      "Pagamento ICI" : 0.22105263157894736,
+      "Pagamento ICP" : 0.015789473684210527,
+      "Pagamento quote mensa scolastica" : 0.005263157894736842,
+      "Pagamento retta asilo nido comunale" : 0.015789473684210527,
+      "Pagamento  TARSU-TIA" : 0.10526315789473684,
+      "Permesso di transito per zone a traffico limitato (ZTL)" : 0.010526315789473684,
+      "Richiesta assistenza domiciliare" : 0,
+      "Richiesta certificati anagrafici" : 0.005263157894736842,
+      "Richiesta esenzione pagamento mensa scolastica" : 0.005263157894736842,
+      "Segnalazione guasti / dissesto stradale" : 0,
+      "Visura catastale" : 0
+      }  
+},
+     "AT":
+    {
+      "caratteristiche":{
+      "Sito ufficiale" : null,
+      "Motore di ricerca" : 0.6440677966101694
+      },
+      "informazioni":{      
+      "informazioni URP" : null,
+      "PEC generica" : 0.00847457627118644
+      },
+      "trasparenza":{
+      "Indicatore performance trasparenza" : null,
+      "Albo Pretorio" : null,
+      "Pubblicazione Bilanci" : null,
+      "Bandi di gara" : 0.16101694915254236
+      },
+      "servizi":{
+      "Assegno nucleo familiare" : 0.00847457627118644,
+      "Autocertificazione anagrafica" : 0.3644067796610169,
+      "Autorizzazione sanitaria somministrazione-alimenti e bevande" : 0.00847457627118644,
+      "Autorizzazione Unica SUAP" : 0.025423728813559324,
+      "Concorsi pubblici" : 0.00847457627118644,
+      "Carta di identità" : 0.025423728813559324,
+      "Comunicazione vendite straordinarie/liquidazioni/saldi/promozioni" : 0.00847457627118644,
+      "Concessione occupazione suolo pubblico (COSAP – TOSAP)" : 0.05084745762711865,
+      "Concessione passo carrabile" : 0.05084745762711865,
+      "Consultazione cataloghi e prestito bibliotecario" : 0.03389830508474576,
+      "Contrassegno di invalidità" : 0.00847457627118644,
+      "Denuncia inizio attività edilizia (DIA edilizia)" : 0.1016949152542373,
+      "Dichiarazione cambio di abitazione" : 0.3389830508474576,
+      "Dichiarazione ICP" : 0.00847457627118644,
+      "Dichiarazione Inizio Attività produttive (DIA)" : 0.00847457627118644,
+      "Dichiarazione TARSU" : 0.0847457627118644,
+      "Iscrizione a corsi comunali" : 0.00847457627118644,
+      "Iscrizione asilo nido" : 0.025423728813559324,
+      "Iscrizione centri estivi" : 0.00847457627118644,
+      "Iscrizione servizio mensa scolastica" : 0.01694915254237288,
+      "Pagamento canone/tassa occupazione suolo e aree pubbliche (COSAP/TOSAP)" : 0.03389830508474576,
+      "Pagamento contravvenzioni" : 0.01694915254237288,
+      "Pagamento ICI" : 0.211864406779661,
+      "Pagamento ICP" : 0.025423728813559324,
+      "Pagamento quote mensa scolastica" : 0.00847457627118644,
+      "Pagamento retta asilo nido comunale" : 0.01694915254237288,
+      "Pagamento  TARSU-TIA" : 0.0423728813559322,
+      "Permesso di transito per zone a traffico limitato (ZTL)" : 0.01694915254237288,
+      "Richiesta assistenza domiciliare" : 0.00847457627118644,
+      "Richiesta certificati anagrafici" : 0.00847457627118644,
+      "Richiesta esenzione pagamento mensa scolastica" : 0.00847457627118644,
+      "Segnalazione guasti / dissesto stradale" : 0,
+      "Visura catastale" : 0
+      }  
+},
+     "BI":
+    {
+      "caratteristiche":{
+      "Sito ufficiale" : null,
+      "Motore di ricerca" : 0.7560975609756098
+      },
+      "informazioni":{      
+      "informazioni URP" : null,
+      "PEC generica" : 0.024390243902439025
+      },
+      "trasparenza":{
+      "Indicatore performance trasparenza" : null,
+      "Albo Pretorio" : null,
+      "Pubblicazione Bilanci" : null,
+      "Bandi di gara" : 0.34146341463414637
+      },
+      "servizi":{
+      "Assegno nucleo familiare" : 0.07317073170731707,
+      "Autocertificazione anagrafica" : 0.18292682926829268,
+      "Autorizzazione sanitaria somministrazione-alimenti e bevande" : 0.024390243902439025,
+      "Autorizzazione Unica SUAP" : 0.06097560975609756,
+      "Concorsi pubblici" : 0.12195121951219512,
+      "Carta di identità" : 0.13414634146341464,
+      "Comunicazione vendite straordinarie/liquidazioni/saldi/promozioni" : 0.024390243902439025,
+      "Concessione occupazione suolo pubblico (COSAP – TOSAP)" : 0.06097560975609756,
+      "Concessione passo carrabile" : 0,
+      "Consultazione cataloghi e prestito bibliotecario" : 0.07317073170731707,
+      "Contrassegno di invalidità" : 0.07317073170731707,
+      "Denuncia inizio attività edilizia (DIA edilizia)" : 0.21951219512195122,
+      "Dichiarazione cambio di abitazione" : 0.07317073170731707,
+      "Dichiarazione ICP" : 0.024390243902439025,
+      "Dichiarazione Inizio Attività produttive (DIA)" : 0.036585365853658534,
+      "Dichiarazione TARSU" : 0.2073170731707317,
+      "Iscrizione a corsi comunali" : 0,
+      "Iscrizione asilo nido" : 0.07317073170731707,
+      "Iscrizione centri estivi" : 0.012195121951219513,
+      "Iscrizione servizio mensa scolastica" : 0.13414634146341464,
+      "Pagamento canone/tassa occupazione suolo e aree pubbliche (COSAP/TOSAP)" : 0.06097560975609756,
+      "Pagamento contravvenzioni" : 0.04878048780487805,
+      "Pagamento ICI" : 0.4024390243902439,
+      "Pagamento ICP" : 0.012195121951219513,
+      "Pagamento quote mensa scolastica" : 0.04878048780487805,
+      "Pagamento retta asilo nido comunale" : 0.024390243902439025,
+      "Pagamento  TARSU-TIA" : 0.13414634146341464,
+      "Permesso di transito per zone a traffico limitato (ZTL)" : 0.012195121951219513,
+      "Richiesta assistenza domiciliare" : 0,
+      "Richiesta certificati anagrafici" : 0.012195121951219513,
+      "Richiesta esenzione pagamento mensa scolastica" : 0,
+      "Segnalazione guasti / dissesto stradale" : 0.024390243902439025,
+      "Visura catastale" : 0.012195121951219513
+      }  
+},
+     "CN":
+    {
+      "caratteristiche":{
+      "Sito ufficiale" : null,
+      "Motore di ricerca" : 0.256
+      },
+      "informazioni":{      
+      "informazioni URP" : null,
+      "PEC generica" : 0.028
+      },
+      "trasparenza":{
+      "Indicatore performance trasparenza" : null,
+      "Albo Pretorio" : null,
+      "Pubblicazione Bilanci" : null,
+      "Bandi di gara" : 0.236
+      },
+      "servizi":{
+      "Assegno nucleo familiare" : 0.068,
+      "Autocertificazione anagrafica" : 0.2,
+      "Autorizzazione sanitaria somministrazione-alimenti e bevande" : 0.028,
+      "Autorizzazione Unica SUAP" : 0.052,
+      "Concorsi pubblici" : 0.084,
+      "Carta di identità" : 0.104,
+      "Comunicazione vendite straordinarie/liquidazioni/saldi/promozioni" : 0.024,
+      "Concessione occupazione suolo pubblico (COSAP – TOSAP)" : 0.052,
+      "Concessione passo carrabile" : 0.024,
+      "Consultazione cataloghi e prestito bibliotecario" : 0.1,
+      "Contrassegno di invalidità" : 0.048,
+      "Denuncia inizio attività edilizia (DIA edilizia)" : 0.184,
+      "Dichiarazione cambio di abitazione" : 0.08,
+      "Dichiarazione ICP" : 0.084,
+      "Dichiarazione Inizio Attività produttive (DIA)" : 0.036,
+      "Dichiarazione TARSU" : 0.196,
+      "Iscrizione a corsi comunali" : 0.004,
+      "Iscrizione asilo nido" : 0.032,
+      "Iscrizione centri estivi" : 0.028,
+      "Iscrizione servizio mensa scolastica" : 0.044,
+      "Pagamento canone/tassa occupazione suolo e aree pubbliche (COSAP/TOSAP)" : 0.128,
+      "Pagamento contravvenzioni" : 0.02,
+      "Pagamento ICI" : 0.3,
+      "Pagamento ICP" : 0.06,
+      "Pagamento quote mensa scolastica" : 0.076,
+      "Pagamento retta asilo nido comunale" : 0.012,
+      "Pagamento  TARSU-TIA" : 0.168,
+      "Permesso di transito per zone a traffico limitato (ZTL)" : 0.016,
+      "Richiesta assistenza domiciliare" : 0,
+      "Richiesta certificati anagrafici" : 0.016,
+      "Richiesta esenzione pagamento mensa scolastica" : 0.02,
+      "Segnalazione guasti / dissesto stradale" : 0,
+      "Visura catastale" : 0
+      }  
+},
+     "NO":
+    {
+      "caratteristiche":{
+      "Sito ufficiale" : null,
+      "Motore di ricerca" : 0.5795454545454546
+      },
+      "informazioni":{      
+      "informazioni URP" : null,
+      "PEC generica" : 0.06818181818181818
+      },
+      "trasparenza":{
+      "Indicatore performance trasparenza" : null,
+      "Albo Pretorio" : null,
+      "Pubblicazione Bilanci" : null,
+      "Bandi di gara" : 0.45454545454545453
+      },
+      "servizi":{
+      "Assegno nucleo familiare" : 0.18181818181818182,
+      "Autocertificazione anagrafica" : 0.6363636363636364,
+      "Autorizzazione sanitaria somministrazione-alimenti e bevande" : 0.09090909090909091,
+      "Autorizzazione Unica SUAP" : 0.07954545454545454,
+      "Concorsi pubblici" : 0.2840909090909091,
+      "Carta di identità" : 0.20454545454545456,
+      "Comunicazione vendite straordinarie/liquidazioni/saldi/promozioni" : 0.03409090909090909,
+      "Concessione occupazione suolo pubblico (COSAP – TOSAP)" : 0.11363636363636363,
+      "Concessione passo carrabile" : 0.056818181818181816,
+      "Consultazione cataloghi e prestito bibliotecario" : 0.125,
+      "Contrassegno di invalidità" : 0.03409090909090909,
+      "Denuncia inizio attività edilizia (DIA edilizia)" : 0.375,
+      "Dichiarazione cambio di abitazione" : 0.11363636363636363,
+      "Dichiarazione ICP" : 0.09090909090909091,
+      "Dichiarazione Inizio Attività produttive (DIA)" : 0.09090909090909091,
+      "Dichiarazione TARSU" : 0.42045454545454547,
+      "Iscrizione a corsi comunali" : 0.011363636363636364,
+      "Iscrizione asilo nido" : 0.11363636363636363,
+      "Iscrizione centri estivi" : 0.06818181818181818,
+      "Iscrizione servizio mensa scolastica" : 0.13636363636363635,
+      "Pagamento canone/tassa occupazione suolo e aree pubbliche (COSAP/TOSAP)" : 0.17045454545454544,
+      "Pagamento contravvenzioni" : 0.06818181818181818,
+      "Pagamento ICI" : 0.5113636363636364,
+      "Pagamento ICP" : 0.11363636363636363,
+      "Pagamento quote mensa scolastica" : 0.045454545454545456,
+      "Pagamento retta asilo nido comunale" : 0.045454545454545456,
+      "Pagamento  TARSU-TIA" : 0.3522727272727273,
+      "Permesso di transito per zone a traffico limitato (ZTL)" : 0.03409090909090909,
+      "Richiesta assistenza domiciliare" : 0.03409090909090909,
+      "Richiesta certificati anagrafici" : 0.056818181818181816,
+      "Richiesta esenzione pagamento mensa scolastica" : 0.022727272727272728,
+      "Segnalazione guasti / dissesto stradale" : 0.03409090909090909,
+      "Visura catastale" : 0.011363636363636364
+      }  
+},
+     "TO":
+    {
+      "caratteristiche":{
+      "Sito ufficiale" : null,
+      "Motore di ricerca" : 0.32063492063492066
+      },
+      "informazioni":{      
+      "informazioni URP" : null,
+      "PEC generica" : 0.05714285714285714
+      },
+      "trasparenza":{
+      "Indicatore performance trasparenza" : null,
+      "Albo Pretorio" : null,
+      "Pubblicazione Bilanci" : null,
+      "Bandi di gara" : 0.43492063492063493
+      },
+      "servizi":{
+      "Assegno nucleo familiare" : 0.1619047619047619,
+      "Autocertificazione anagrafica" : 0.4603174603174603,
+      "Autorizzazione sanitaria somministrazione-alimenti e bevande" : 0.0761904761904762,
+      "Autorizzazione Unica SUAP" : 0.1365079365079365,
+      "Concorsi pubblici" : 0.19365079365079366,
+      "Carta di identità" : 0.2698412698412698,
+      "Comunicazione vendite straordinarie/liquidazioni/saldi/promozioni" : 0.047619047619047616,
+      "Concessione occupazione suolo pubblico (COSAP – TOSAP)" : 0.1619047619047619,
+      "Concessione passo carrabile" : 0.06031746031746032,
+      "Consultazione cataloghi e prestito bibliotecario" : 0.2,
+      "Contrassegno di invalidità" : 0.0761904761904762,
+      "Denuncia inizio attività edilizia (DIA edilizia)" : 0.35873015873015873,
+      "Dichiarazione cambio di abitazione" : 0.1365079365079365,
+      "Dichiarazione ICP" : 0.1365079365079365,
+      "Dichiarazione Inizio Attività produttive (DIA)" : 0.06349206349206349,
+      "Dichiarazione TARSU" : 0.36507936507936506,
+      "Iscrizione a corsi comunali" : 0.022222222222222223,
+      "Iscrizione asilo nido" : 0.12063492063492064,
+      "Iscrizione centri estivi" : 0.1111111111111111,
+      "Iscrizione servizio mensa scolastica" : 0.18412698412698414,
+      "Pagamento canone/tassa occupazione suolo e aree pubbliche (COSAP/TOSAP)" : 0.19682539682539682,
+      "Pagamento contravvenzioni" : 0.06031746031746032,
+      "Pagamento ICI" : 0.5492063492063493,
+      "Pagamento ICP" : 0.1492063492063492,
+      "Pagamento quote mensa scolastica" : 0.13968253968253969,
+      "Pagamento retta asilo nido comunale" : 0.047619047619047616,
+      "Pagamento  TARSU-TIA" : 0.30793650793650795,
+      "Permesso di transito per zone a traffico limitato (ZTL)" : 0.02857142857142857,
+      "Richiesta assistenza domiciliare" : 0.025396825396825397,
+      "Richiesta certificati anagrafici" : 0.09206349206349207,
+      "Richiesta esenzione pagamento mensa scolastica" : 0.04126984126984127,
+      "Segnalazione guasti / dissesto stradale" : 0.050793650793650794,
+      "Visura catastale" : 0.022222222222222223
+      }  
+},
+     "VCO":
+    {
+      "caratteristiche":{
+      "Sito ufficiale" : null,
+      "Motore di ricerca" : 0.4935064935064935
+      },
+      "informazioni":{      
+      "informazioni URP" : null,
+      "PEC generica" : 0.09090909090909091
+      },
+      "trasparenza":{
+      "Indicatore performance trasparenza" : null,
+      "Albo Pretorio" : null,
+      "Pubblicazione Bilanci" : null,
+      "Bandi di gara" : 0.4935064935064935
+      },
+      "servizi":{
+      "Assegno nucleo familiare" : 0.2987012987012987,
+      "Autocertificazione anagrafica" : 0.5324675324675324,
+      "Autorizzazione sanitaria somministrazione-alimenti e bevande" : 0.03896103896103896,
+      "Autorizzazione Unica SUAP" : 0.05194805194805195,
+      "Concorsi pubblici" : 0.2077922077922078,
+      "Carta di identità" : 0.15584415584415584,
+      "Comunicazione vendite straordinarie/liquidazioni/saldi/promozioni" : 0.07792207792207792,
+      "Concessione occupazione suolo pubblico (COSAP – TOSAP)" : 0.03896103896103896,
+      "Concessione passo carrabile" : 0.03896103896103896,
+      "Consultazione cataloghi e prestito bibliotecario" : 0.05194805194805195,
+      "Contrassegno di invalidità" : 0.025974025974025976,
+      "Denuncia inizio attività edilizia (DIA edilizia)" : 0.38961038961038963,
+      "Dichiarazione cambio di abitazione" : 0.05194805194805195,
+      "Dichiarazione ICP" : 0.05194805194805195,
+      "Dichiarazione Inizio Attività produttive (DIA)" : 0.025974025974025976,
+      "Dichiarazione TARSU" : 0.37662337662337664,
+      "Iscrizione a corsi comunali" : 0,
+      "Iscrizione asilo nido" : 0.05194805194805195,
+      "Iscrizione centri estivi" : 0.012987012987012988,
+      "Iscrizione servizio mensa scolastica" : 0.07792207792207792,
+      "Pagamento canone/tassa occupazione suolo e aree pubbliche (COSAP/TOSAP)" : 0.09090909090909091,
+      "Pagamento contravvenzioni" : 0.03896103896103896,
+      "Pagamento ICI" : 0.4155844155844156,
+      "Pagamento ICP" : 0.03896103896103896,
+      "Pagamento quote mensa scolastica" : 0.06493506493506493,
+      "Pagamento retta asilo nido comunale" : 0.012987012987012988,
+      "Pagamento  TARSU-TIA" : 0.33766233766233766,
+      "Permesso di transito per zone a traffico limitato (ZTL)" : 0.025974025974025976,
+      "Richiesta assistenza domiciliare" : 0,
+      "Richiesta certificati anagrafici" : 0.012987012987012988,
+      "Richiesta esenzione pagamento mensa scolastica" : 0.012987012987012988,
+      "Segnalazione guasti / dissesto stradale" : 0.012987012987012988,
+      "Visura catastale" : 0.012987012987012988
+      }  
+},
+     "VC":
+    {
+      "caratteristiche":{
+      "Sito ufficiale" : null,
+      "Motore di ricerca" : 0.16279069767441862
+      },
+      "informazioni":{      
+      "informazioni URP" : null,
+      "PEC generica" : 0.03488372093023256
+      },
+      "trasparenza":{
+      "Indicatore performance trasparenza" : null,
+      "Albo Pretorio" : null,
+      "Pubblicazione Bilanci" : null,
+      "Bandi di gara" : 0.16279069767441862
+      },
+      "servizi":{
+      "Assegno nucleo familiare" : 0.046511627906976744,
+      "Autocertificazione anagrafica" : 0.2441860465116279,
+      "Autorizzazione sanitaria somministrazione-alimenti e bevande" : 0,
+      "Autorizzazione Unica SUAP" : 0,
+      "Concorsi pubblici" : 0.06976744186046512,
+      "Carta di identità" : 0.09302325581395349,
+      "Comunicazione vendite straordinarie/liquidazioni/saldi/promozioni" : 0.011627906976744186,
+      "Concessione occupazione suolo pubblico (COSAP – TOSAP)" : 0.03488372093023256,
+      "Concessione passo carrabile" : 0.011627906976744186,
+      "Consultazione cataloghi e prestito bibliotecario" : 0.046511627906976744,
+      "Contrassegno di invalidità" : 0.03488372093023256,
+      "Denuncia inizio attività edilizia (DIA edilizia)" : 0.11627906976744186,
+      "Dichiarazione cambio di abitazione" : 0.09302325581395349,
+      "Dichiarazione ICP" : 0.03488372093023256,
+      "Dichiarazione Inizio Attività produttive (DIA)" : 0.011627906976744186,
+      "Dichiarazione TARSU" : 0.10465116279069768,
+      "Iscrizione a corsi comunali" : 0,
+      "Iscrizione asilo nido" : 0.05813953488372093,
+      "Iscrizione centri estivi" : 0.03488372093023256,
+      "Iscrizione servizio mensa scolastica" : 0.03488372093023256,
+      "Pagamento canone/tassa occupazione suolo e aree pubbliche (COSAP/TOSAP)" : 0.09302325581395349,
+      "Pagamento contravvenzioni" : 0.023255813953488372,
+      "Pagamento ICI" : 0.18604651162790697,
+      "Pagamento ICP" : 0.046511627906976744,
+      "Pagamento quote mensa scolastica" : 0.023255813953488372,
+      "Pagamento retta asilo nido comunale" : 0.011627906976744186,
+      "Pagamento  TARSU-TIA" : 0.10465116279069768,
+      "Permesso di transito per zone a traffico limitato (ZTL)" : 0.011627906976744186,
+      "Richiesta assistenza domiciliare" : 0,
+      "Richiesta certificati anagrafici" : 0.011627906976744186,
+      "Richiesta esenzione pagamento mensa scolastica" : 0,
+      "Segnalazione guasti / dissesto stradale" : 0,
+      "Visura catastale" : 0
+      }  
+},
+     "PIEMONTE":
+    {
+      "caratteristiche":{
+      "Sito ufficiale" : null,
+      "Motore di ricerca" : 0.42526457601969914
+      },
+      "informazioni":{      
+      "informazioni URP" : null,
+      "PEC generica" : 0.042945156838255664
+      },
+      "trasparenza":{
+      "Indicatore performance trasparenza" : null,
+      "Albo Pretorio" : null,
+      "Pubblicazione Bilanci" : null,
+      "Bandi di gara" : 0.3052672976594744
+      },
+      "servizi":{
+      "Assegno nucleo familiare" : 0.11140159465713638,
+      "Autocertificazione anagrafica" : 0.3479782724158011,
+      "Autorizzazione sanitaria somministrazione-alimenti e bevande" : 0.03468146775296315,
+      "Autorizzazione Unica SUAP" : 0.05343167664375591,
+      "Concorsi pubblici" : 0.12516326194327226,
+      "Carta di identità" : 0.1292740784218049,
+      "Comunicazione vendite straordinarie/liquidazioni/saldi/promozioni" : 0.029831384696484744,
+      "Concessione occupazione suolo pubblico (COSAP – TOSAP)" : 0.07073006647037271,
+      "Concessione passo carrabile" : 0.03361097939677852,
+      "Consultazione cataloghi e prestito bibliotecario" : 0.09000030010720224,
+      "Contrassegno di invalidità" : 0.040229633967886834,
+      "Denuncia inizio attività edilizia (DIA edilizia)" : 0.23520860421841708,
+      "Dichiarazione cambio di abitazione" : 0.12209288433395082,
+      "Dichiarazione ICP" : 0.0571786762428277,
+      "Dichiarazione Inizio Attività produttive (DIA)" : 0.03610656289512251,
+      "Dichiarazione TARSU" : 0.23383259493934894,
+      "Iscrizione a corsi comunali" : 0.006415449093972734,
+      "Iscrizione asilo nido" : 0.062000745400360116,
+      "Iscrizione centri estivi" : 0.037110749126441016,
+      "Iscrizione servizio mensa scolastica" : 0.08315425232648455,
+      "Pagamento canone/tassa occupazione suolo e aree pubbliche (COSAP/TOSAP)" : 0.10136603863837348,
+      "Pagamento contravvenzioni" : 0.03784519515434262,
+      "Pagamento ICI" : 0.34969462194139506,
+      "Pagamento ICP" : 0.05771546301996473,
+      "Pagamento quote mensa scolastica" : 0.051480773249554974,
+      "Pagamento retta asilo nido comunale" : 0.023352172895796584,
+      "Pagamento  TARSU-TIA" : 0.19403813954704427,
+      "Permesso di transito per zone a traffico limitato (ZTL)" : 0.019491857612021737,
+      "Richiesta assistenza domiciliare" : 0.008495288844865116,
+      "Richiesta certificati anagrafici" : 0.02692868124532173,
+      "Richiesta esenzione pagamento mensa scolastica" : 0.013840232643756284,
+      "Segnalazione guasti / dissesto stradale" : 0.015282727096751488,
+      "Visura catastale" : 0.007345999190511387
+      }  
+}
+  }
+}

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript" src="polymaps.js"></script>
+    <script type="text/javascript" src="lib/d3/d3.js"></script>
+        <script type="text/javascript" src="lib/d3/d3.geo.js"></script>
+        <script type="text/javascript" src="lib/d3/d3.csv.js"></script>
+        <script type="text/javascript" src="lib/d3/d3.geom.js"></script>
+        <script type="text/javascript" src="lib/d3/d3.layout.js"></script>
+        <script src="lib/d3/d3.time.js"></script>
+        <script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+        <script type="text/javascript" src="js/jquery-ui-1.8.17.custom.min.js"></script>
+        <script type="text/javascript" src="js/jquery.tinyscrollbar.min.js"></script>
+        <link type="text/css" href="css/jquery-ui-1.8.17.custom.css" rel="stylesheet" />
+        <link type="text/css" href="style.css" rel="stylesheet" />
+  </head>
+  <body>
+      	<div id="wrapper">
+    		<div id="nav">
+    			<div id="title"><img src="loghi/cen.png"/><h1>Banda larga DSL in Piemonte 2011</h1></div>
+    			<div id="search">
+<!-- 
+    				<input id="city" onkeypress="if(checkEnter(event)){searchAddress()};" value="cerca comune"/>
+ -->
+    				<input id="city" value="cerca centrale"/>
+    			</div>
+    			<div class="clear"></div>
+    		</div>
+    		<div id="container">
+    			
+    			<div id="left">
+    			<div id="filter">
+    			<div id="grado"><span class="lfilter">filtra per tipologia:</span>
+	<span class="red"><input type="checkbox" id="adsl_24" checked="yes" value="adsl_2p"/><label for="adsl_24">ADSL 2+ (20M<span class="b">b</span>) </label></span>
+	<span class="green"><input type="checkbox" id="adsl_8" checked="yes" value="adsl_1"/><label for="adsl_8" >ADSL (7M<span class="b">b</span>) </label></span>
+	<span class="blue"><input type="checkbox" id="adsl_mi" checked="yes" value="adsl_m"/><label for="adsl_mi">ADSL MINI (640<span class="b">kb</span>)</label></span>
+	<span class="brown"><input type="checkbox" id="no__adsl" checked="yes" value="no_adsl"/><label for="no__adsl" >NO ADSL</label></span>
+				</div>
+
+    			</div>
+    			<span id="copy">
+Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>
+   				 </span>
+    			<div id="dock">
+    				<div class="intro">
+    				<p>
+    				Questa applicazione esplora la connettivit&agrave; della regione Piemonte, visualizzando per ogni centrale le sezioni di censimento corrispondenti e la velocit&agrave; nominale e reale.
+    				</p>
+    				</div>
+    				<div class="intro_2">
+    				<h2><img src="icone/centrale.png"/>centrale telefonica</h2>
+    				<p>punto di concentrazione della rete telefonica pubblica</p>
+    				</div>
+    				<div class="intro_3">
+    				<h2><img src="icone/sezione.png"/>sezioni di censimento</h2>
+    				<p>La sezione di censimento &egrave; l'unit&agrave; territoriale minima di rilevazione, corrispondente in zone urbane ad un isolato o a parte di esso.</p>
+    				<p><img src="icone/dimensione.png"/>abitanti per sezione</p>
+    				<p><img src="icone/velocita.png"/>velocit&agrave; effettiva</p>
+    				</div>
+    				<div class="intro_3">
+    				<p><img src="icone/abitanti.png"/>numero di abitanti serviti</p>
+    				<p><img src="icone/distanza.png"/>distanza della sezione di censimento dalla centrale</p>
+    				</div>
+    				<div class="intro_4">
+    				<p>tempo indicativo di download di un file: </p>
+    				<p><img src="icone/mp3.png"/>musica (5 MB)</p>
+    				<p><img src="icone/video.png"/>video (700 MB)</p>
+    				</div>
+    				<div class="intro_4">
+    				<p><img src="img/csi_logo.png" height="50"/><img src="img/icona_bn.gif" height="50"/><img src="img/density_logo.png" height="20"/></p>
+    				</div>
+    			</div>
+				<div id="slider_dock"></div>
+    			 <div id="breadcrumbs"><span class="piemonte">Tutte le centrali</span><span class="centrale"></span><span class="centr_sezioni"></span><span class="centr_utenti"></span></div>
+    				<div id="map">
+    				</div>
+    				
+    			</div>
+    			
+    	
+    			<div class="clear"></div>
+    		</div>
+    	</div>
+
+		<div id="tooltip"><h2>centrale</h2></div>
+    	<div id="tooltip_2">
+    		<img src="icone/sezione.png"/><p class="sez_id"></p>
+			<img src="icone/abitanti.png"/><p class="sez_utenti"></p>
+			<img src="icone/distanza.png"/><p class="sez_distanza"></p>
+			<p class="sez_potenza"></p>
+			<svg class="chart" width="225" height="50"></svg>
+    	</div>
+    <script type="text/javascript" src="centrali.js"></script>
+  </body>
+</html>
